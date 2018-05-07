@@ -6,7 +6,7 @@ categories = ["vaccines", "global health"]
 
 # author = ["Marcus A. Davis"]
 tags = ["vaccines", "global health"]
-date = 2018-05-06
+date = 2018-05-07
 draft = false
 description = "How many dollars are spent per DALY and what are the uncertainties"
 # featured = "pic03.jpg"
