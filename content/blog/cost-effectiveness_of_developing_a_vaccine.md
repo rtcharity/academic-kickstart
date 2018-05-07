@@ -439,71 +439,18 @@ To compare our findings to other articles, we looked at some other articles that
 
 Here’s what we end up concluding:
 
-Study
-
-Vaccines compared
-
-Results
-
-[Fesenfeld, Hutubessy, and Jit (2013)](https://www.ncbi.nlm.nih.gov/pubmed/23830973)
-
-HPV
-
-Our range fits inside their much wider range. Their range is much wider because they include a much wider range of assumptions for cost per dose.
-
-[Levine, Kremer, & Albright (2005)](https://www.cgdev.org/doc/books/vaccine/MakingMarkets-complete.pdf)
-
-Malaria
-
-Their model is notably close to ours, despite different assumptions. When we change our model to match their assumptions, we are still close, but not exact.
-
-[Winskill, Walker, Griffin, and Ghani (2017)](http://gh.bmj.com/content/2/1/e000090)
-
-Malaria
-
-Their model is more pessimistic than our model. However, they assume much lower efficacy for the malaria vaccine because they are modeling the vaccine as it currently is, while we are modeling the vaccine as we estimate it will be rolled out. When we change our model to match their assumptions, our ranges end up being very similar.
-
-[Galactionova, et al. (2017)](https://www.sciencedirect.com/science/article/pii/S0264410X16311033?via%3Dihub)
-
-Malaria
-
-Their model starts with a very wide range. When we remove outlier countries with low information that create the wide range, we get a new range that falls within the range of our model when adjusting for the change in assumptions (similar to above).
-
-[Seo, Baker, and Ngo (2004)](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-13-66)
-
-Malaria
-
-They assume much lower efficacy for the malaria vaccine because they are modeling the vaccine as it currently is, while we are modeling the vaccine as we estimate it will be rolled out. However, they also assume a much wider variety in final price. Together, this makes a range that overlaps our range, but is wider and more pessimistic on average. When we change our model to match their assumptions, our ranges end up being very similar.
-
-[Penny, et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0140673615007254)
-
-Malaria
-
-They model the vaccine with a lower efficacy than we do, but not as lower as the other studies we compare against. When we change our model to match their assumptions, our ranges end up being very similar.
-
-[Atherly, et al. (2009)](https://www.ncbi.nlm.nih.gov/pubmed/19817610)
-
-Rotavirus
-
-Their estimate falls within our range.
-
-[Ozawa, et al. (2012)](https://www.sciencedirect.com/science/article/pii/S0264410X12015769)
-
-HIV, HPV, Malaria, and Rotavirus
-
-They provide a meta-analysis with many different ranges for many different vaccines. They generally match our ranges and the estimates that don’t are not from the same region we model (SSA).
-
-[Dalton (2014)](https://www.fhi.ox.ac.uk/research-into-neglected-diseases/)
-
-Malaria, HIV, and overall “typical” vaccine estimate
-
-The malaria and overall estimates fall within our model ranges, but their HIV estimate is more optimistic than our model. Their model does not consider substantial roll-out costs, but also assumes far more R&D costs than our model.
-
-[Dalton (2016)](https://docs.google.com/document/d/1Jmp1LQEem9E29ynSrqYrkiCsFFMrvyZLPqPl3Itdaak/edit)
-
-Malaria, HIV, and overall “typical” vaccine estimate
-
-The malaria and overall estimates fall within our model ranges, but their HIV estimate is more optimistic than our model. Their model does not consider substantial roll-out costs, but also assumes far more R&D costs than our model.
+| Study | Vaccines compared | Results |
+| ------ | ----------- | --------------- |
+| [Fesenfeld, Hutubessy, and Jit (2013)](https://www.ncbi.nlm.nih.gov/pubmed/23830973) | HPV | Our range fits inside their much wider range. Their range is much wider because they include a much wider range of assumptions for cost per dose. |
+| [Levine, Kremer, & Albright (2005)](https://www.cgdev.org/doc/books/vaccine/MakingMarkets-complete.pdf) | Malaria | Their model is notably close to ours, despite different assumptions. When we change our model to match their assumptions, we are still close, but not exact. |
+| [Winskill, Walker, Griffin, and Ghani (2017)](http://gh.bmj.com/content/2/1/e000090) | Malaria | Their model is more pessimistic than our model. However, they assume much lower efficacy for the malaria vaccine because they are modeling the vaccine as it currently is, while we are modeling the vaccine as we estimate it will be rolled out. When we change our model to match their assumptions, our ranges end up being very similar. |
+| [Galactionova, et al. (2017)](https://www.sciencedirect.com/science/article/pii/S0264410X16311033?via%3Dihub) | Malaria | Their model starts with a very wide range. When we remove outlier countries with low information that create the wide range, we get a new range that falls within the range of our model when adjusting for the change in assumptions (similar to above). |
+| [Seo, Baker, and Ngo (2004)](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-13-66) | Malaria | They assume much lower efficacy for the malaria vaccine because they are modeling the vaccine as it currently is, while we are modeling the vaccine as we estimate it will be rolled out. However, they also assume a much wider variety in final price. Together, this makes a range that overlaps our range, but is wider and more pessimistic on average. When we change our model to match their assumptions, our ranges end up being very similar. |
+| [Penny, et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0140673615007254) | Malaria | They model the vaccine with a lower efficacy than we do, but not as lower as the other studies we compare against. When we change our model to match their assumptions, our ranges end up being very similar. |
+| [Atherly, et al. (2009)](https://www.ncbi.nlm.nih.gov/pubmed/19817610) | Rotavirus | Their estimate falls within our range. |
+| [Ozawa, et al. (2012)](https://www.sciencedirect.com/science/article/pii/S0264410X12015769) | HIV, HPV, Malaria, and Rotavirus | They provide a meta-analysis with many different ranges for many different vaccines. They generally match our ranges and the estimates that don’t are not from the same region we model (SSA). |
+| [Dalton (2014)](https://www.fhi.ox.ac.uk/research-into-neglected-diseases/) | Malaria, HIV, and overall “typical” vaccine estimate | The malaria and overall estimates fall within our model ranges, but their HIV estimate is more optimistic than our model. Their model does not consider substantial roll-out costs, but also assumes far more R&D costs than our model. |
+| [Dalton (2016)](https://docs.google.com/document/d/1Jmp1LQEem9E29ynSrqYrkiCsFFMrvyZLPqPl3Itdaak/edit) | Malaria, HIV, and overall “typical” vaccine estimate | The malaria and overall estimates fall within our model ranges, but their HIV estimate is more optimistic than our model. Their model does not consider substantial roll-out costs, but also assumes far more R&D costs than our model. |
 
 For details of the individual studies, see below.
 
@@ -535,22 +482,13 @@ On one hand, our estimates are very close, which is reassuring. Our models sugge
 On the other hand, our methodologies are different, and this is worth discussing in light of model uncertainty. Levine, Kremer, & Albright (2005) are modeling vaccinating 200M people in targeted areas. This is much larger than our SSA 60% scenario, which is modeled for ~96M children under 5 in the first year plus another ~22M children a year for every year after, and much smaller than our eradication scenario modeled for 675M people. Our model does not take into account an [advanced market commitment](http://www.who.int/immunization/newsroom/amcs/en/), models for a range of estimates for efficacy, and assumes a roll-out cost of $22 per person. When [we adjust our model to factor in the price, delivery costs, efficacy, and vaccinated population as Levine, Kremer, & Albright (2005)](https://www.getguesstimate.com/models/10646), we get $12 - $19 / DALY, which is more optimistic than Levine, Kremer, & Albright (2005) projects.  
   
 
-Malaria Vaccine Cost-Effectiveness
+<center>_Malaria Vaccine Cost-Effectiveness_</center>
 
-Levine, Kremer & Albright (2005)
+| Levine, Kremer & Albright (2005) | Our model -- 60% SSA scenario | Our model with LKA parameters|
+| ------ | ----------- | --------------- |
+| $20 / DALY | $23 - $52 / DALY | $12 - 19 / DALY|
 
-Our model -- 60% SSA scenario
-
-Our model with LKA parameters
-
-$20 / DALY
-
-$23 - $52 / DALY
-
-$12 - 19 / DALY
-
-  
-  
+<br></br>
   
 
 ### A.3.) Modelling the cost-effectiveness of introducing the RTS,S malaria vaccine relative to scaling up other malaria interventions in sub-Saharan Africa -- Winskill, Walker, Griffin, and Ghani (2017)
@@ -559,19 +497,11 @@ $12 - 19 / DALY
 
 They also found a ICER per DALY of $27 ($8.15-$110/DALY) for long-lasting insecticide-treated nets (LLINs), $143/DALY (range $135-$150/DALY) for indoor residual spraying (IRS), and $68/DALY (range $62-$75/DALY) for seasonal malaria chemoprevention. By comparing ranges, distributing bednets came out ahead, but note that this may not hold as diminishing marginal returns are experienced by scaling up.
 
-Malaria Vaccine Cost-Effectiveness
+<center>_Malaria Vaccine Cost-Effectiveness_</center>
 
-Winskill, Walker, Griffin, & Ghani (2017)
-
-Our model -- 60% SSA scenario
-
-Our model with WWGG parameters (roll out costs only)[^11]
-
-$44 - $279 / DALY
-
-$23 - $52 / DALY
-
-$54 - 230 / DALY
+| Winskill, Walker, Griffin, & Ghani (2017) | Our model -- 60% SSA scenario | Our model with WWGG parameters (roll out costs only)[^11] |
+| ------ | ----------- | --------------- |
+| $44 - $279 / DALY | $23 - $52 / DALY | $54 - 230 / DALY |
 
   
   
@@ -589,160 +519,68 @@ Essentially, Winskill, Walker, Griffin, & Ghani (2017) is looking at the cost-ef
 
 The range is so wide because of the inclusion of four countries where the predicted impact is highly imprecise due to a limitation of data. When those countries are excluded, the range is greatly reduced to between $115 and $220 / DALY (Galactionova, et al., 2017, section 3.2). This smaller range fits snugly within our model with parameters adapted from Winskill, Walker, Griffin, and Ghani (2017).
 
-Malaria Vaccine Cost-Effectiveness
+<center>_Malaria Vaccine Cost-Effectiveness_</center>
 
-Galactionova, et al. (2017)
-
-Galactionova, et al. (2017) -- narrower range
-
-Our model -- 60% SSA scenario
-
-Our model with WWGG parameters
-
-$78 - $22,448 / DALY
-
-$115 - $220 / DALY
-
-$23 - $52 / DALY
-
-$54 - 230 / DALY
+| Galactionova, et al. (2017) | Galactionova, et al. (2017) -- narrower range | Our model -- 60% SSA scenario | Our model with WWGG parameters |
+| ------ | ----------- | --------------- | --------------- |
+| $78 - $22,448 / DALY | $115 - $220 / DALY | $23 - $52 / DALY | $54 - 230 / DALY |
 
   
-  
-  
-
-Cost-effectiveness analysis of vaccinating children in Malawi with RTS,S vaccines in comparison with long-lasting insecticide-treated nets -- Seo, Baker, & Ngo (2004)
+### A.5) Cost-effectiveness analysis of vaccinating children in Malawi with RTS,S vaccines in comparison with long-lasting insecticide-treated nets -- Seo, Baker, & Ngo (2004)
 
 [Seo, Baker, and Ngo (2004)](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-13-66) use data from the RTS,S trials and do a sensitivity analysis, varying time horizon, discount rates, vaccine efficacy, and price. While they do not directly state a confidence interval resulting from this sensitivity analysis, they headline a figure of $145.03 / DALY but suggest a range of $8 - $329.78 / DALY.
 
-Malaria Vaccine Cost-Effectiveness
+<center>_Malaria Vaccine Cost-Effectiveness_</center>
 
-Seo, Baker, and Ngo (2004)
-
-Our model -- 60% SSA scenario
-
-Our model with WWGG parameters
-
-$8 - $330 / DALY
-
-$23 - $52 / DALY
-
-$54 - 230 / DALY
+| Seo, Baker, and Ngo (2004) | Our model -- 60% SSA scenario | Our model with WWGG parameters |
+| ------ | ----------- | --------------- |
+| $8 - $330 / DALY | $23 - $52 / DALY | $54 - 230 / DALY |
 
 The assumptions are similar to Winskill, Walker, Griffin, and Ghani (2017), which ends making the range given by Seo, Baker, and Ngo (2004) a close match for the range constructed from the parameters from Winskill, Walker, Griffin, and Ghani (2017) -- the maximums of the range are nearly the same. However, Seo, Baker, and Ngo (2004) is more optimistic because they consider possibilities such as $1/dose ($4/person roll-out cost, or ~18% of what we project in our model) in their sensitivity analysis.
 
   
   
 
-### A.5.) Public health impact and cost-effectiveness of the RTS,S/AS01 malaria vaccine: a systematic comparison of predictions from four mathematical models -- Penny, et al. (2016)
+### A.6.) Public health impact and cost-effectiveness of the RTS,S/AS01 malaria vaccine: a systematic comparison of predictions from four mathematical models -- Penny, et al. (2016)
 
 [Penny, et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0140673615007254) is of particular importance because its estimates form the basis for much of the GAVI (2016) report on malaria that we rely on for a lot of our models. Like the previous articles we considered, Penny, et al. (2016) looks at the data from the RTS,S trials. However, unlike these previous articles, they attempt to extrapolate the data from this trial to future cost-effectiveness using multiple models. This matches much closer to what we intend to do, but still doesn’t fully match our assumptions of large potential future increases in vaccine efficacy following further R&D spending prior to achieving licensing and large-scale roll-out of a future vaccine.
 
 Focusing on their four-dose model, their model captures ten years of benefits and uses a declining exponential decay curve of efficacy with a mean of ~6% - ~25% over those ten years, depending on the model used (see Figure S2.1). They also vary the price between $8-$40 per fully vaccinated child. [Integrating these efficacy and price figures into our model](https://www.getguesstimate.com/models/10666) for a population of 100,000 vaccinated children over ten years gives us a result of $28 - $270 / DALY, which is a slightly wider range but captures all the values found from Penny, et. al. (2016)’s range.
 
-Penny, et al. (2016)
+<center>_Malaria Vaccine Cost-Effectiveness_</center>
 
-Our model -- 60% SSA scenario
-
-Our model with Penny parameters
-
-$48 - $244 / DALY
-
-$23 - $52 / DALY
-
-$28 - $270 / DALY
+| Penny, et al. (2016) | Our model -- 60% SSA scenario | Our model with Penny parameters |
+| ------ | ----------- | --------------- |
+| $48 - $244 / DALY | $23 - $52 / DALY | $28 - $270 / DALY |
 
   
   
   
 
-### A.6.) Rotavirus vaccination: cost-effectiveness -- Atherly, et al. (2009)
+### A.7.) Rotavirus vaccination: cost-effectiveness -- Atherly, et al. (2009)
 
 [Atherly, et al. (2009)](https://www.ncbi.nlm.nih.gov/pubmed/19817610) looks at the cost-effectiveness of rotavirus across most of the GAVI-eligible countries using a demand forecast model was used to predict adoption, and then modeling health outcomes of a hypothetical birth cohort in the target population, and finds increasing cost-effectiveness of distributing the rotavirus vaccine over time, ultimately resulting in a cumulative figure of “$43 per DALY averted during 2008-2025”. This estimate is within the range we give for our estimate, despite differences in methodology and context.
 
-Rotavirus Vaccine Cost-Effectiveness
+<center>_Rotavirus Vaccine Cost-Effectiveness_</center>
 
-Atherly, et al. (2009)
-
-Our model
-
-(60% SSA scenario, roll out costs only)
-
-$43 / DALY
-
-$6 - $59 / DALY
+| Atherly, et al. (2009) | Our model (60% SSA scenario, roll out costs only)
+| ------ | ----------- |
+| $43 / DALY | $6 - $59 / DALY
 
   
   
   
 
-### A.7.) Cost-effectiveness and economic benefits of vaccines in low- and middle-income countries: A systematic review -- Ozawa, et al., 2012
+### A.8.) Cost-effectiveness and economic benefits of vaccines in low- and middle-income countries: A systematic review -- Ozawa, et al., 2012
 
 [Ozawa, et al. (2012)](https://www.sciencedirect.com/science/article/pii/S0264410X12015769) does a meta-analysis of vaccine cost-effectiveness, finding 44 articles that reported costs per DALY averted. Data available in Table 1 gives a variety of ranges for many vaccines -- the ones that overlap with vaccines we considered include HIV, HPV, malaria, and rotavirus.
 
-Vaccine
-
-Our 60% SSA Range (roll out costs only)
-
-Ranges Given in Ozawaa, et al., 2012 Meta-Analysis
-
-HIV
-
-$85 - $550 / DALY
-
-$108 - $1308 / DALY
-
-$123 - $1350 / DALY
-
-$393 - $2108 / DALY
-
-HPV
-
-$240 - $1300 / DALY
-
-<$152/DALY
-
-<$304/DALY
-
-<$304/DALY
-
-<$759/DALY
-
-<$759/DALY
-
-<$1214/DALY
-
-<$438/DALY
-
-Malaria
-
-$21 - $49 / DALY
-
-$10 - $15/DALY
-
-$16 - $27/DALY
-
-$31 - $49/DALY
-
-$44 - $72/DALY
-
-$58 - $95/DALY
-
-$72 - $118/DALY
-
-$141 - $233/DALY
-
-Rotavirus
-
-$6 - $59 / DALY
-
-$5-82/DALY (SSA)
-
-$33/DALY (SSA)
-
-$46 - $169/DALY (LMIC)
-
-$36 - $550/DALY (LMIC)
+| Vaccine | Our 60% SSA Range (roll out costs only) | Ranges Given in Ozawaa, et al., 2012 Meta-Analysis |
+| ------ | ----------- | --------------- |
+| HIV | $85 - $550 / DALY | $108 - $1308 / DALY <p>$123 - $1350 / DALY</p> $393 - $2108 / DALY |
+| HPV | $240 - $1300 / DALY | <$152/DALY <p><$304/DALY</p> <$304/DALY <p><$759/DALY</p> <$759/DALY <p><$1214/DALY</p> <$438/DALY |
+| Malaria | $21 - $49 / DALY | $10 - $15/DALY <p>$16 - $27/DALY</p> $31 - $49/DALY <p>$44 - $72/DALY</p> $58 - $95/DALY <p>$72 - $118/DALY</p> $141 - $233/DALY |
+| Rotavirus | $6 - $59 / DALY | $5-82/DALY (SSA) <p>$33/DALY (SSA)</p> $46 - $169/DALY (LMIC) <p>$36 - $550/DALY (LMIC)</p> |
 
 While the HIV range does overlap some, Ozawa, et al. (2012) points to much more pessimistic HIV ranges than our estimate. It’s hard to figure out why without digging into the underlying study, but one likely reason is simply context -- the HIV estimates in Ozawa, et al. (2012) come from Thailand, instead of SSA.
 
@@ -755,7 +593,7 @@ Ozawa, et al. (2012) cites 105 different rotavirus cost-effectiveness estimates 
   
   
 
-### A.8.) Dalton (2014)
+### A.9.) Dalton (2014)
 
 [Dalton (2014)](https://www.fhi.ox.ac.uk/research-into-neglected-diseases/) models “the marginal, ex-ante cost-effectiveness of funding medical research” as a “problem of unknown difficulty” ([Cotton-Barrat 2014a](http://www.fhi.ox.ac.uk/how-to-treat-problems-of-unknown-difficulty/), [Cotton-Barrat 2014b](http://www.fhi.ox.ac.uk/estimating-cost-effectiveness/)), which assumes a discrete, fixed outcome (e.g., the vaccine is made) will be achieved after an unknown amount of resources (e.g., money, staff time, randomized controlled trials) are used. We model this discrete jump from 0 to 1 as a continuous probability curve over time and then estimate this probability curve with a lognormal distribution.
 
@@ -763,37 +601,11 @@ When applying this to funding for neglected tropical diseases, Dalton (2014) con
 
 To compare with our work, we both modeled for HIV and malaria specifically. Dalton (2014) calculated these to be 11.2 DALYs / $1000 ($89.29 / DALY) for HIV and 22 DALYs / $1000 ($45.45 / DALY) for malaria ([see calculations in their associated spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AuSyxcRgBGt3dFJXMFczelpyRkFRRVJvX1NYeDB6Z2c&usp=sharing)). On the other hand, our models suggested malaria had a return of [$23 - $52 / DALY if vaccinating 60% of SSA](https://www.getguesstimate.com/models/10588) and [$11 - 18/DALY if vaccinating to eradication](https://www.getguesstimate.com/models/10601) and HIV was [$210 - $690 / DALY for 60% of SSA](https://www.getguesstimate.com/models/10583) and [$300 - $1600 / DALY for eradication](https://www.getguesstimate.com/models/10603).
 
-Vaccine
-
-Dalton (2014)
-
-60% SSA scenario
-
-Eradication scenario
-
-Malaria
-
-$45.45 / DALY
-
-$23 - $52 / DALY
-
-$11 - 18 / DALY
-
-HIV
-
-$89.29 / DALY
-
-$210 - $690 / DALY
-
-$300 - $1600 / DALY
-
-“Typical” Vaccine
-
-$71.94 / DALY
-
-$18 - $7000 / DALY
-
-$10 - $8100 / DALY
+| Vaccine | Dalton (2014) | 60% SSA scenario | Eradication scenario
+| ------ | ----------- | --------------- | --------------- |
+| Malaria | $45.45 / DALY | $23 - $52 / DALY | $11 - 18 / DALY |
+| HIV | $89.29 / DALY | $210 - $690 / DALY | $300 - $1600 / DALY |
+| “Typical” Vaccine | $71.94 / DALY | $18 - $7000 / DALY | $10 - $8100 / DALY |
 
   
   
@@ -811,49 +623,15 @@ Given that in our model, for HIV the R&D costs are much more prominent than for 
   
   
 
-### A.9.) Dalton (2016)’s Novel Model Adapted from Karnofsky (2014).
+### A.10.) Dalton (2016)’s Novel Model Adapted from Karnofsky (2014).
 
 Dalton (2016) produces a novel model based on [Karnofsky (2014)](https://www.openphilanthropy.org/blog/returns-life-sciences-funding)’s work. This model assumes that the entire DALY burden of a disease will eventually be eliminated and that new research will be responsible for 50% of this reduction. The benefits would have a lag of 50 years and require discounting at a 3% annual rate, but benefits will grow with population growth. Applying this gave a mean of $51.91/DALY for HIV and $44.14/DALY for malaria ([see spreadsheet here](https://docs.google.com/spreadsheets/d/1B7MPlhSnGRifioy_4RCZe8tPuRtQBqSUwZ9SmeKnmeA/edit#gid=0)).
 
-Vaccine
-
-Dalton (2014)
-
-Dalton (2016)
-
-60% SSA
-
-Eradication
-
-Malaria
-
-$45.45 / DALY
-
-$44.14 / DALY
-
-$23 - $52 / DALY
-
-$11 - 18 / DALY
-
-HIV
-
-$89.29 / DALY
-
-$51.91 / DALY
-
-$210 - $690 / DALY
-
-$300 - $1600 / DALY
-
-“Typical” / Median
-
-$71.94 / DALY
-
-$34.37 / DALY
-
-$18 - $7000 / DALY
-
-$10 - $8100 / DALY
+| Vaccine | Dalton (2014) | Dalton (2016) | 60% SSA | Eradication |
+| ------ | ----------- | --------------- | --------------- | --------------- |
+| Malaria | $45.45 / DALY | $44.14 / DALY | $23 - $52 / DALY | $11 - 18 / DALY |
+| HIV | $89.29 / DALY | $51.91 / DALY | $210 - $690 / DALY | $300 - $1600 / DALY |
+| “Typical” / Median | $71.94 / DALY | $34.37 / DALY | $18 - $7000 / DALY | $10 - $8100 / DALY |
 
   
   
@@ -871,48 +649,14 @@ Based on our model, we can create guesses for Ebola based on a variety of potent
 
 We assume that our above calculations are right, that the vaccine will be 50% effective[^14], and that there is a $100M fixed cost associated with developing vaccination infrastructure.
 
-Ebola Eradication Cost-effectiveness
+<center>_Ebola Eradication Cost-effectiveness_</center>
 
-Vaccination Strategy
-
-Population Scenario
-
-Cost-effectiveness
-
-Guesstimate
-
-Ring
-
-60% SSA
-
-$88 - $1100 / DALY
-
-[Link](https://www.getguesstimate.com/models/10611)
-
-Widespread
-
-60% SSA
-
-$280 - $6200 / DALY
-
-[Link](https://www.getguesstimate.com/models/10612)
-
-Ring
-
-Global Eradication
-
-$70 - $850 / DALY
-
-[Link](https://www.getguesstimate.com/models/10613)
-
-Widespread
-
-Global Eradication
-
-$130 - $2200 / DALY
-
-[Link](https://www.getguesstimate.com/models/10617)
-
+| Vaccination Strategy | Population Scenario | Cost-effectiveness | Guesstimate |
+| ------ | ----------- | --------------- | --------------- |
+| Ring | 60% SSA | $88 - $1100 / DALY | [Link](https://www.getguesstimate.com/models/10611) |
+| Widespread | 60% SSA | $280 - $6200 / DALY | [Link](https://www.getguesstimate.com/models/10612) |
+| Ring | Global Eradication | $70 - $850 / DALY | [Link](https://www.getguesstimate.com/models/10613) |
+| Widespread | Global Eradication | $130 - $2200 / DALY | [Link](https://www.getguesstimate.com/models/10617) |
   
   
   
@@ -924,126 +668,34 @@ GiveWell has pretty thoroughly vetted the Against Malaria Foundation and found i
   
   
 
-Scenario 1: Vaccinate 60% of the relevant populations in SSA
+<center>_Scenario 1: Vaccinate 60% of the relevant populations in SSA_</center>
 
-Opportunity
-
-Cost-effectiveness range
-
-Mean estimate
-
-Smallpox vaccine
-
-$4 - $67 / DALY
-
-$22 / DALY
-
-Malaria vaccine
-
-$23 - $52 / DALY
-
-$34 / DALY
-
-Rotavirus vaccine
-
-$10 - $64 / DALY
-
-$36 / DALY
-
-Donate to AMF
-
-$15 - $58 / DALY
-
-$39 / DALY
-
-Measles vaccine
-
-$9 - $320 / DALY
-
-$73 / DALY
-
-Ebola vaccine - ring
-
-$88 - $1100 / DALY
-
-$380 / DALY
-
-HIV vaccine
-
-$210 - $690 / DALY
-
-$410 / DALY
-
-HPV vaccine
-
-$370 - $1600 / DALY
-
-$900 / DALY
-
-Ebola vaccine - widespread
-
-$280 - $6.2K / DALY
-
-$1.7K / DALY
-
+| Opportunity | Cost-effectiveness range | Mean estimate |
+| ------ | ----------- | --------------- |
+| Smallpox vaccine | $4 - $67 / DALY | $22 / DALY |
+| Malaria vaccine | $23 - $52 / DALY | $34 / DALY |
+| Rotavirus vaccine | $10 - $64 / DALY | $36 / DALY |
+| Donate to AMF | $15 - $58 / DALY | $39 / DALY |
+| Measles vaccine | $9 - $320 / DALY | $73 / DALY |
+| Ebola vaccine - ring | $88 - $1100 / DALY | $380 / DALY |
+| HIV vaccine | $210 - $690 / DALY | $410 / DALY |
+| HPV vaccine | $370 - $1600 / DALY | $900 / DALY |
+| Ebola vaccine - widespread | $280 - $6.2K / DALY | $1.7K / DALY |
   
   
 
-Scenario 2: Eradicate the disease completely
+<center>_Scenario 2: Eradicate the disease completely_</center>
 
-Opportunity
-
-Cost-effectiveness range
-
-Mean estimate
-
-Smallpox vaccine
-
-$0.44 - $5.80 / DALY
-
-$1.20 / DALY
-
-Measles vaccine
-
-$0.37 - $13 / DALY
-
-$3 / DALY
-
-Malaria vaccine
-
-$13 - $23 / DALY
-
-$17 / DALY
-
-Donate to AMF
-
-$15 - $58 / DALY
-
-$39 / DALY
-
-HPV vaccine
-
-$80 - $370 / DALY
-
-$200 / DALY
-
-Ebola vaccine - ring
-
-$70 - $850 / DALY
-
-$300 / DALY
-
-Ebola vaccine - widespread
-
-$130 - $2200 / DALY
-
-$660 / DALY
-
-HIV vaccine
-
-$300 - $1600 / DALY
-
-$900 / DALY
+| Opportunity | Cost-effectiveness range | Mean estimate |
+| ------ | ----------- | --------------- |
+| Smallpox vaccine | $0.44 - $5.80 / DALY | $1.20 / DALY |
+| Measles vaccine | $0.37 - $13 / DALY | $3 / DALY |
+| Malaria vaccine | $13 - $23 / DALY | $17 / DALY |
+| Donate to AMF | $15 - $58 / DALY | $39 / DALY |
+| HPV vaccine | $80 - $370 / DALY | $200 / DALY |
+| Ebola vaccine - ring | $70 - $850 / DALY | $300 / DALY |
+| Ebola vaccine - widespread | $130 - $2200 / DALY | $660 / DALY |
+| HIV vaccine | $300 - $1600 / DALY | $900 / DALY |
 
   
   
@@ -1065,85 +717,24 @@ Additionally, charities themselves, like a charity set up to fund and distribute
 
 However, we can look at three sources: [Francis (2010)](http://gsid.org/downloads/successes_and_failures_final.pdf) quotes GAVI as averting 5M deaths against $3.7B in funding, for a cost-effectiveness of $740 per life saved. [Lob-Levyt (2011)](http://rstb.royalsocietypublishing.org/content/royptb/366/1579/2743.full.pdf) quotes GAVI as averting 5.4M vaccine-related deaths against $4491M in vaccine-related spending or $831.67 per life saved. Lastly, a [GAVI press release](http://www.gavi.org/library/news/press-releases/2010/gavi-alliance-set-to-save-four-million-lives-by-2015/) quotes GAVI as saving 4M lives against $3.7B or $925 per life saved. When we take these estimates literally, and consider a figure of 30 DALYs per life saved[^6], and compare this on a table to our estimates of vaccines, GAVI comes out more cost-effective than the distribution for all of the vaccines except smallpox at 60% of SSA.
 
-Opportunity
-
-Cost-effectiveness range
-
-Mean estimate
-
-Smallpox vaccine
-
-$4 - $67 / DALY
-
-$22 / DALY
-
-Francis (2010) estimate of GAVI
-
- 
-
-$24.66 / DALY
-
-Lob-Levyt (2011) estimate of GAVI
-
- 
-
-$27.72 / DALY
-
-GAVI estimate of GAVI
-
- 
-
-$30.83 / DALY
-
-Malaria vaccine
-
-$23 - $52 / DALY
-
-$34 / DALY
-
-Rotavirus vaccine
-
-$10 - $64 / DALY
-
-$36 / DALY
-
-Donate to AMF
-
-$15 - $58 / DALY
-
-$39 / DALY
-
-Measles vaccine
-
-$9 - $320 / DALY
-
-$73 / DALY
-
-Ebola vaccine - ring
-
-$88 - $1100 / DALY
-
-$380 / DALY
-
-HIV vaccine
-
-$210 - $690 / DALY
-
-$410 / DALY
-
-HPV vaccine
-
-$370 - $1600 / DALY
-
-$900 / DALY
-
-Ebola vaccine - widespread
-
-$280 - $6.2K / DALY
-
-$1.7K / DALY
+| Opportunity | Cost-effectiveness range | Mean estimate |
+| ------ | ----------- | --------------- |
+| Smallpox vaccine | $4 - $67 / DALY | $22 / DALY |
+| Francis (2010) estimate of GAVI | | $24.66 / DALY |
+| Lob-Levyt (2011) estimate of GAVI | | $27.72 / DALY |
+| GAVI estimate of GAVI | | $30.83 / DALY |
+| Malaria vaccine | $23 - $52 / DALY | $34 / DALY |
+| Rotavirus vaccine | $10 - $64 / DALY | $36 / DALY |
+| Donate to AMF | $15 - $58 / DALY | $39 / DALY |
+| Measles vaccine | $9 - $320 / DALY | $73 / DALY |
+| Ebola vaccine - ring | $88 - $1100 / DALY | $380 / DALY |
+| HIV vaccine | $210 - $690 / DALY | $410 / DALY |
+| HPV vaccine | $370 - $1600 / DALY | $900 / DALY |
+| Ebola vaccine - widespread | $280 - $6.2K / DALY | $1.7K / DALY |
 
 The fact that these estimates of GAVI appear more cost-effective than the individual vaccines is not unbelievable, due to massive use of “leveraged funding” and the use of vaccines that may well be very cost-effective that we did not model (e.g., the meningitis A vaccine, the pneumococcal vaccine).
+
+<br></br>
 
 # <a name="endnotes">Endnotes</a>
 
