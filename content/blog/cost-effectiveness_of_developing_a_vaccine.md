@@ -63,7 +63,7 @@ While developing a vaccine is a huge accomplishment, it is not really of any sig
 
 We, therefore, take the following as our equation for the total cost-effectiveness of vaccine R&D:
 
-Total cost-effectiveness of vaccine R&D ($/DALY) = ((Total R&D costs of making vaccine) + (Total roll-out costs of vaccine)) / ((DALY burden of disease) * (% reduction in disease attributable to the vaccine))
+__Total cost-effectiveness of vaccine R&D ($/DALY) = ((Total R&D costs of making vaccine) + (Total roll-out costs of vaccine)) / ((DALY burden of disease) * (% reduction in disease attributable to the vaccine))__
 
 Note here that we’re looking at the total cost-effectiveness across the entire investment in R&D, which requires us to also look at the total investment across vaccine roll-out too. We’re not looking at the marginal investment, or the cost-effectiveness you would get if you added more funding to vaccines today, which could be a very different number (see section 3.8 for details).
 
@@ -209,7 +209,7 @@ D - All Ebola estimates here are a 5 year average from 2012-2016 and assumes a v
 
 ## <a name="cost-effectiveness">2. What is the cost-effectiveness?</a>
 
-Based on the data in the above tables and the considerations we’ve made, we can then apply our formula: Total cost-effectiveness of vaccine R&D ($/DALY) = ((Total R&D costs of making vaccine) + (Total roll-out costs of vaccine)) / ((DALY burden of disease) * (% reduction in disease attributable to the vaccine))
+Based on the data in the above tables and the considerations we’ve made, we can then apply our formula: __Total cost-effectiveness of vaccine R&D ($/DALY) = ((Total R&D costs of making vaccine) + (Total roll-out costs of vaccine)) / ((DALY burden of disease) * (% reduction in disease attributable to the vaccine))__
 
 As stated before, these calculations were originally derived from research in prior articles (e.g., for R&D costs, roll-out costs, and total benefits) for a particular basket of vaccines. We then aggregated all this data [in a spreadsheet](https://drive.google.com/open?id=18zUqZMrV7UvzYGXmOowSLvdS1pX5_GA8dgIxd8A2_yM), used the spreadsheet to create individual Guesstimate models for each vaccine, and created 90% confidence intervals from each model. We made calculations for each of our vaccines, except for Ebola, where we felt like there was insufficient information to make a confident calculation. (We still attempt to estimate for Ebola in [Appendix B](#appendixb).)
 
@@ -564,7 +564,7 @@ A more targeted roll-out can be more cost-effective by eliminating more DALYs pe
 
 ### <a name="dalycalc">3.2.) How are you calculating the DALY burden for that population?</a>
 
-The DALY burden per person can change how cost-effective a particular vaccination is, so calculating the burden correctly is important. \[We have dedicated an entire article to exploring that.\](link) However, it can be tricky to figure out what the correct burden should be for our vaccine scenarios. We’re trying to model the amount of DALYs that vaccines would reduce but we can’t always use the DALY figures as of today since some of these vaccines in reality already exist and thus already have dramatically reduced the DALY burden of diseases. For example, smallpox has been completely eliminated, so the current DALY burden is 0! Thus we have to carefully rewind the clock and extrapolate to what the DALY burden would be. On the other hand, we do need to include the impact of modern trends in vaccine alternatives, like how the malaria DALY burden has been substantially reduced by bednets.
+The DALY burden per person can change how cost-effective a particular vaccination is, so calculating the burden correctly is important. [We have dedicated an entire article to exploring that]({{< ref "blog/how_beneficial_have_vaccines_been.md" >}}). However, it can be tricky to figure out what the correct burden should be for our vaccine scenarios. We’re trying to model the amount of DALYs that vaccines would reduce but we can’t always use the DALY figures as of today since some of these vaccines in reality already exist and thus already have dramatically reduced the DALY burden of diseases. For example, smallpox has been completely eliminated, so the current DALY burden is 0! Thus we have to carefully rewind the clock and extrapolate to what the DALY burden would be. On the other hand, we do need to include the impact of modern trends in vaccine alternatives, like how the malaria DALY burden has been substantially reduced by bednets.
 
 For our calculations, we try to either estimate the DALYs, such as in the cases of smallpox and measles, or we try to use a range of DALYs from [Global Burden of Disease (2016d)](http://ghdx.healthdata.org/gbd-results-tool). We think this helps capture uncertainty in the correct DALY burden to use, but that it risks overestimating the size of the DALY burden, especially extrapolating into the future.
 
@@ -573,7 +573,7 @@ For our calculations, we try to either estimate the DALYs, such as in the cases 
 
 ### <a name="nondalyhandle">3.3.) How do you want to handle benefits that are not captured by DALYs?</a>
 
-As reviewed in our \[assessment of the benefits of vaccines\](link), there are multiple economic benefits from health savings due to reduced health care costs and reduced spending on combating the disease. Similarly, there may be substantial medium-term benefits from economic development via a healthier population. None of these effects are accounted for in our DALY-based modeling.
+As reviewed in our [assessment of the benefits of vaccines]({{< ref "blog/how_beneficial_have_vaccines_been.md" >}}), there are multiple economic benefits from health savings due to reduced health care costs and reduced spending on combating the disease. Similarly, there may be substantial medium-term benefits from economic development via a healthier population. None of these effects are accounted for in our DALY-based modeling.
 
 Additionally, if we vaccinate enough to achieve a significant degree of herd immunity but not enough to outright eradicate a disease, the benefit of this herd immunity is also not accounted for in our models. This would likely not affect our 60% SSA estimate much but may affect our eradication estimate.
 
