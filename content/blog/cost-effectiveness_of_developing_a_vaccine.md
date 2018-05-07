@@ -73,7 +73,7 @@ These data were calculated from available evidence about vaccines generally and 
 
 We aggregated all this data [in a spreadsheet](https://drive.google.com/open?id=18zUqZMrV7UvzYGXmOowSLvdS1pX5_GA8dgIxd8A2_yM) that makes all the calculations between the multiple sections much more clear, with a good amount of detail. Based on that data, we come to the following conclusions. (For more detail, see the spreadsheet and the previous articles.)
 
-| Vaccine | R&D Costs | Roll-out Costs
+| Vaccine | R&D Costs | Roll-out Costs |
 | ------ | ----------- | ------------ |
 |Smallpox | $5.58M | $0.73-$47.62 / child |
 | Measles | $38.3M | $1-$38 / child |
@@ -126,80 +126,21 @@ The models varied targeted populations across two scenarios -- one where 60% of 
 
 For this scenario, we assume that there is a one-time fixed cost investment for researching and developing the vaccine and building infrastructure for rolling out the vaccine that is amortized over a time period to consider benefits for (in our model, we cap it at 20 years), then an annual cost to keep rolling out the vaccine to the relevant population. Then, every year, we save a certain amount of DALYs from preventing that disease via the vaccine. Together, we can use this to calculate DALYs averted over the benefits time period compared to the cost spent during the time period.
 
-Vaccine
+| Vaccine | Roll-out Cost-effectiveness | Roll-out + R&D Cost-effectiveness | Guesstimate[^1] |
+| ------ | ----------- | ------------ | ------------ |
+|Smallpox | $4.30 - $66 / DALY | $4.40 - $67 / DALY | [Link](https://www.getguesstimate.com/models/10600) |
+| Measles | $8 - $320 / DALY | $9 - $320 / DALY | [Link](https://www.getguesstimate.com/models/10590) |
+| Rotavirus | $6 - $59 / DALY | $10 - $64 / DALY | [Link](https://www.getguesstimate.com/models/10589) |
+| HPV | $240 - $1300 / DALY | $370 - $1600 / DALY | [Link](https://www.getguesstimate.com/models/10586) |
+| HIV | $85 - $550 / DALY | $210 - $690 / DALY | [Link](https://www.getguesstimate.com/models/10583) |
+| Malaria | $21 - $49 / DALY | $23 - $52 / DALY | [Link](https://www.getguesstimate.com/models/10588) |
+| Ebola | ? | ? | |
+| “Typical” vaccine[^2] | $12 - $6700 / DALY | $18 - $7000 / DALY | [Link](https://www.getguesstimate.com/models/10616) |
 
-Roll-out Cost-effectiveness
 
-Roll-out + R&D Cost-effectiveness
 
-Guesstimate[^1]
+<br></br>
 
-Smallpox
-
-$4.30 - $66 / DALY
-
-$4.40 - $67 / DALY
-
-[Link](https://www.getguesstimate.com/models/10600)
-
-Measles
-
-$8 - $320 / DALY
-
-$9 - $320 / DALY
-
-[Link](https://www.getguesstimate.com/models/10590)
-
-Rotavirus
-
-$6 - $59 / DALY
-
-$10 - $64 / DALY
-
-[Link](https://www.getguesstimate.com/models/10589)
-
-HPV
-
-$240 - $1300 / DALY
-
-$370 - $1600 / DALY
-
-[Link](https://www.getguesstimate.com/models/10586)
-
-HIV
-
-$85 - $550 / DALY
-
-$210 - $690 / DALY
-
-[Link](https://www.getguesstimate.com/models/10583)
-
-Malaria
-
-$21 - $49 / DALY
-
-$23 - $52 / DALY
-
-[Link](https://www.getguesstimate.com/models/10588)
-
-Ebola
-
-?
-
-?
-
- 
-
-“Typical / average vaccine”[^2]
-
-$12 - $6700 / DALY
-
-$18 - $7000 / DALY
-
-[Link](https://www.getguesstimate.com/models/10616)
-
-  
-  
 
 ### <a name="eradication">2.2) Scenario 2: Eradicate the disease completely</a>
 
@@ -207,80 +148,22 @@ For this scenario, we consider one-time costs for researching and developing the
 
 After eradication is achieved, we assume that ongoing costs are essentially $0[^5]. We then consider this large cost compared to a period of accrued benefits from the eradication (in our model, we cap it at 20 years; see discussion below on this cap).
 
-Vaccine
 
-Roll-out Cost-effectiveness
+| Vaccine | Roll-out Cost-effectiveness | Roll-out + R&D Cost-effectiveness | Guesstimate[^1] |
+| ------ | ----------- | ------------ | ------------ |
+|Smallpox | $0.44 - $5.80 / DALY | $0.44 - $5.80 / DALY | [Link](https://www.getguesstimate.com/models/10606) |
+| Measles | $0.36 - $13 / DALY | $0.37 - $13 / DALY | [Link](https://www.getguesstimate.com/models/10605) |
+| Rotavirus | _Not possible_ | _Not possible_ | |
+| HPV | $65 - $340 / DALY | $80 - $370 / DALY | [Link](https://www.getguesstimate.com/models/10604) |
+| HIV | $270 - $1600 / DALY | $300 - $1600 / DALY | [Link](https://www.getguesstimate.com/models/10603) |
+| Malaria | $12 - $23 / DALY | $13 - $23 / DALY | [Link](https://www.getguesstimate.com/models/10601) |
+| Ebola | ? | ? | |
+| “Typical” vaccine[^2] | $8 - $8200 / DALY | $10 - $8100 / DALY | [Link](https://www.getguesstimate.com/models/10618) |
 
-Roll-out + R&D Cost-effectiveness
 
-Guesstimate[^1]
-
-Smallpox
-
-$0.44 - $5.80 / DALY
-
-$0.44 - $5.80 / DALY
-
-[Link](https://www.getguesstimate.com/models/10606)
-
-Measles
-
-$0.36 - $13 / DALY
-
-$0.37 - $13 / DALY
-
-[Link](https://www.getguesstimate.com/models/10605)
-
-Rotavirus
-
-Not possible
-
-Not possible
-
+<br></br>
  
 
-HPV
-
-$65 - $340 / DALY
-
-$80 - $370 / DALY
-
-[Link](https://www.getguesstimate.com/models/10604)
-
-HIV
-
-$270 - $1600 / DALY
-
-$300 - $1600 / DALY
-
-[Link](https://www.getguesstimate.com/models/10603)
-
-Malaria
-
-$12 - $23 / DALY
-
-$13 - $23 / DALY
-
-[Link](https://www.getguesstimate.com/models/10601)
-
-Ebola
-
-?
-
-?
-
- 
-
-“Typical” / average vaccine[^2]
-
-$8 - $8200 / DALY
-
-$10 - $8100 / DALY
-
-[Link](https://www.getguesstimate.com/models/10618)
-
-  
-  
 
 ### <a name="individualvaccines">2.3) Individual Vaccines</a>
 
