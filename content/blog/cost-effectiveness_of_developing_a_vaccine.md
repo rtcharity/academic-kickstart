@@ -225,77 +225,21 @@ For our models, we constructed ranges for cost-effectiveness estimates instead o
 
 Throughout our modeling, we identified eleven key sources of variation and assumption-making:
 
-Assumption
+| Assumption | How do we account for it? | Overall impact on estimate |
+| ------ | ----------- | --------------- |
+| What population are you targeting? | Not accounted for in individual models, but tested over several modeled scenarios | Individual range could be off by 20 - 100% in either direction when applied to a different population. |
+| How are you calculating the DALY burden for that population? | Mostly accounted for in individual models via Guesstimate range parameter | The true cost-effectiveness may be worse than the model range makes it appear (that is, the range is biased downwards) due to this effect. |
+| How do you want to handle benefits that are not captured by DALYs? | Not accounted for by Guesstimate models | The true cost-effectiveness may be better than the model range makes it appear (that is, the range is biased upwards) due to this effect. |
+| How effective are you assuming the vaccine will be? | Accounted for in individual models via Guesstimate range parameter | Should be accounted for within estimate range. |
+| How expensive do you assume the roll-out will be? | Accounted for in individual models via Guesstimate range parameter | Should be accounted for within estimate range, but the true cost-effectiveness has some risk of being worse due to this effect. |
+| What assumptions are you making about the R&D cost? | Mostly accounted for in individual models via Guesstimate range parameter | Should be accounted for within estimate range, but the true cost-effectiveness has some risk of being worse due to this effect. |
+| How do you want to account for changing population and DALY burden into the future? | Not accounted for by Guesstimate models | The true cost-effectiveness has some risk of being worse than the model range makes it appear because of a shrinking DALY burden per person, but also some risk of being better than the model range makes it appear due to a growing population. |
+| How do you want to handle "leveraged funding"? | Not accounted for by Guesstimate models (models take a total “all costs” approach) | The true cost-effectiveness may be better than the model range makes it appear due to this effect, perhaps by a factor of 25% to 100%, though a risk of being biased upwards by this effect is also possible. |
+| How do you want to handle discount rates? | Not accounted for by Guesstimate models (models take a total “all costs” approach) | The true cost-effectiveness may be worse than the model range makes it appear due to this effect. |
+| For how many years should you consider benefits? | Variation in this assumption is not accounted for by Guesstimate models. Guesstimate models assume 20 years of consideration. | Final range by model could be off by a large amount in either direction, depending on whether you think more or fewer years of benefits should be taken into account. It’s not clear which direction this goes in, though, as assuming both more and fewer years of benefits is reasonable. |
+| How do you adjust for other counterfactuals? | Not accounted for by Guesstimate model (models take a total “all costs” approach) | The true cost-effectiveness may be worse than the model range makes it appear due to this effect. |
 
-How do we account for it?
-
-Overall impact on estimate
-
-What population are you targeting?
-
-Not accounted for in individual models, but tested over several modeled scenarios
-
-Individual range could be off by 20 - 100% in either direction when applied to a different population.
-
-How are you calculating the DALY burden for that population?
-
-Mostly accounted for in individual models via Guesstimate range parameter
-
-The true cost-effectiveness may be worse than the model range makes it appear (that is, the range is biased downwards) due to this effect.
-
-How do you want to handle benefits that are not captured by DALYs?
-
-Not accounted for by Guesstimate models
-
-The true cost-effectiveness may be better than the model range makes it appear (that is, the range is biased upwards) due to this effect.
-
-How effective are you assuming the vaccine will be?
-
-Accounted for in individual models via Guesstimate range parameter
-
-Should be accounted for within estimate range.
-
-How expensive do you assume the roll-out will be?
-
-Accounted for in individual models via Guesstimate range parameter
-
-Should be accounted for within estimate range, but the true cost-effectiveness has some risk of being worse due to this effect.
-
-What assumptions are you making about the R&D cost?
-
-Mostly accounted for in individual models via Guesstimate range parameter
-
-Should be accounted for within estimate range, but the true cost-effectiveness has some risk of being worse due to this effect.
-
-How do you want to account for changing population and DALY burden into the future?
-
-Not accounted for by Guesstimate models
-
-The true cost-effectiveness has some risk of being worse than the model range makes it appear because of a shrinking DALY burden per person, but also some risk of being better than the model range makes it appear due to a growing population.
-
-How do you want to handle "leveraged funding"?
-
-Not accounted for by Guesstimate models (models take a total “all costs” approach)
-
-The true cost-effectiveness may be better than the model range makes it appear due to this effect, perhaps by a factor of 25% to 100%, though a risk of being biased upwards by this effect is also possible.
-
-How do you want to handle discount rates?
-
-Not accounted for by Guesstimate models (models take a total “all costs” approach)
-
-The true cost-effectiveness may be worse than the model range makes it appear due to this effect.
-
-For how many years should you consider benefits?
-
-Variation in this assumption is not accounted for by Guesstimate models. Guesstimate models assume 20 years of consideration.
-
-Final range by model could be off by a large amount in either direction, depending on whether you think more or fewer years of benefits should be taken into account. It’s not clear which direction this goes in, though, as assuming both more and fewer years of benefits is reasonable.
-
-How do you adjust for other counterfactuals?
-
-Not accounted for by Guesstimate model (models take a total “all costs” approach)
-
-The true cost-effectiveness may be worse than the model range makes it appear due to this effect.
+<br></br>
 
 Taking all of this into account is essentially some attempt to itemize our model uncertainty, and it suggests that the true 90% confidence interval for our model would be much wider than the ones offered by our models.
 
