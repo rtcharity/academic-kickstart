@@ -199,7 +199,7 @@ Roll-out Cost-effectiveness
 
 Roll-out + R&D Cost-effectiveness
 
-Guesstimate\[1\]
+Guesstimate[^1]
 
 Smallpox
 
@@ -257,7 +257,7 @@ Ebola
 
  
 
-“Typical / average vaccine”\[2\]
+“Typical / average vaccine”[^2]
 
 $12 - $6700 / DALY
 
@@ -270,9 +270,9 @@ $18 - $7000 / DALY
 
 2.2) Scenario 2: Eradicate the disease completely
 
-For this scenario, we consider one-time costs for researching and developing the vaccine and then rolling out the vaccine enough to achieve eradication. In the case of smallpox, as it really has been eradicated, real estimates of spending and disease burden were used. In all other cases, extrapolations were made from the estimated costs of vaccination per person and the intended target population of the vaccination\[3\]. The population targeted was different depending on the disease, with HPV and HIV roughly targeting reproductive age populations and malaria and measles targeting children under 5. The efficacy of the vaccines was also assumed to be high enough to achieve eradication at the time eradication is attempted\[4\].
+For this scenario, we consider one-time costs for researching and developing the vaccine and then rolling out the vaccine enough to achieve eradication. In the case of smallpox, as it really has been eradicated, real estimates of spending and disease burden were used. In all other cases, extrapolations were made from the estimated costs of vaccination per person and the intended target population of the vaccination[^3]. The population targeted was different depending on the disease, with HPV and HIV roughly targeting reproductive age populations and malaria and measles targeting children under 5. The efficacy of the vaccines was also assumed to be high enough to achieve eradication at the time eradication is attempted[^4].
 
-After eradication is achieved, we assume that ongoing costs are essentially $0\[5\]. We then consider this large cost compared to a period of accrued benefits from the eradication (in our model, we cap it at 20 years; see discussion below on this cap).
+After eradication is achieved, we assume that ongoing costs are essentially $0[^5]. We then consider this large cost compared to a period of accrued benefits from the eradication (in our model, we cap it at 20 years; see discussion below on this cap).
 
 Vaccine
 
@@ -280,7 +280,7 @@ Roll-out Cost-effectiveness
 
 Roll-out + R&D Cost-effectiveness
 
-Guesstimate\[1\]
+Guesstimate[^1]
 
 Smallpox
 
@@ -338,7 +338,7 @@ Ebola
 
  
 
-“Typical” / average vaccine\[2\]
+“Typical” / average vaccine[^2]
 
 $8 - $8200 / DALY
 
@@ -362,7 +362,7 @@ Assuming the pre-vaccination world would be like the pre-eradication world of sm
 
 2.3.2.) Measles Vaccine
 
-Assuming a very rough conversion that a life saved from a measles death is ~30 DALYs\[6\], this would imply very rough figures of $9-320/DALY in general, given a cost range per person vaccinated of $1-38, weighted so cheaper prices are more likely. In areas with pre-existing strong vaccine infrastructure such that measles vaccines cost about $2 a dose, the price would be roughly $9 per DALY. Given the wide range of possible cost per person, it should be noted that holding everything else constant, the cost-effectiveness including R&D cost scales roughly linearly with the price of vaccination per person.
+Assuming a very rough conversion that a life saved from a measles death is ~30 DALYs[^6], this would imply very rough figures of $9-320/DALY in general, given a cost range per person vaccinated of $1-38, weighted so cheaper prices are more likely. In areas with pre-existing strong vaccine infrastructure such that measles vaccines cost about $2 a dose, the price would be roughly $9 per DALY. Given the wide range of possible cost per person, it should be noted that holding everything else constant, the cost-effectiveness including R&D cost scales roughly linearly with the price of vaccination per person.
 
 Perhaps we could make sense of these figures by further untangling marginal vaccine costs from the investments needed to make vaccine pathways. If we assume a one-time investment of $100M, similar to the more directly estimated fixed costs of the malaria vaccine, is sufficient to get all lower income countries to a point where marginal vaccination costs $2 per child in total vaccine and logistics costs, and we assume that we’re rolling out the measles vaccine to 96.3M people, the population of 60% of children under 5 in SSA, and we take our prior estimate that the measles vaccine cost $38.3M in R&D, the total yearly costs are ~$151M for the vaccinations at ~$10/DALY, only slightly higher than with no investment spending at all. Given our earlier calculations, this would avert about 177K measles deaths or 5.3M DALYs.
 
@@ -382,14 +382,14 @@ There’s great uncertainty about these estimates given fixed roll-out costs are
 
 2.3.4.) HPV Vaccine
 
-If the HPV vaccine was rolled out to all children aged 5-15 in SSA with a 60% vaccination rate and given ~780,000 DALYs in women aged 15-49 ([Global Burden of Disease, Results Tool, 2016b](http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2016-permalink/c3c9f8ef3f09237e684ebfbfa7ac95cc))\[7\] then the HPV vaccine could prevent ~328,000 DALYs per year in SSA. With a fixed roll-out cost guessed to be an additional $50M, at $3-13.50 per person this would imply $240-1300 per DALY based on just roll-out costs and $370-1600 per DALY when including R&D costs.
+If the HPV vaccine was rolled out to all children aged 5-15 in SSA with a 60% vaccination rate and given ~780,000 DALYs in women aged 15-49 ([Global Burden of Disease, Results Tool, 2016b](http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2016-permalink/c3c9f8ef3f09237e684ebfbfa7ac95cc))[^7] then the HPV vaccine could prevent ~328,000 DALYs per year in SSA. With a fixed roll-out cost guessed to be an additional $50M, at $3-13.50 per person this would imply $240-1300 per DALY based on just roll-out costs and $370-1600 per DALY when including R&D costs.
 
   
   
 
 2.3.5.) HIV Vaccine
 
-Given estimates of a vaccine that is 50% effective (or more) and distributed to 60% of the eligible population in SSA, it would avert 30% of all HIV, saving 9.7M DALYs. Relative to other vaccines, many of the parameters for our HIV estimates vary widely, particularly our estimated cost per person of $30-160. Ultimately, our model suggests an estimated cost-effectiveness of $180-570 per DALY. Our individual scenarios indicate the final cost-effectiveness depends significantly on which population that vaccine is ultimately distributed to and the cost of per person of vaccination\[9\].
+Given estimates of a vaccine that is 50% effective (or more) and distributed to 60% of the eligible population in SSA, it would avert 30% of all HIV, saving 9.7M DALYs. Relative to other vaccines, many of the parameters for our HIV estimates vary widely, particularly our estimated cost per person of $30-160. Ultimately, our model suggests an estimated cost-effectiveness of $180-570 per DALY. Our individual scenarios indicate the final cost-effectiveness depends significantly on which population that vaccine is ultimately distributed to and the cost of per person of vaccination[^9].
 
   
   
@@ -784,7 +784,7 @@ There are a lot of additional potential takeaways here, such as general lessons 
 
 Appendix A: What Do Other Articles Say?
 
-To compare our findings to other articles, we looked at some other articles that we could find comparing the cost-effectiveness of different vaccines\[10\]. Comparing across all these studies gives further confidence in our estimates and understanding of model assumptions and model uncertainty.
+To compare our findings to other articles, we looked at some other articles that we could find comparing the cost-effectiveness of different vaccines[^10]. Comparing across all these studies gives further confidence in our estimates and understanding of model assumptions and model uncertainty.
 
 Here’s what we end up concluding:
 
@@ -862,7 +862,7 @@ For details of the individual studies, see below.
 A.1.) Cost-effectiveness of HPV -- Fessenfeld, Hutubessy, and Jit (2013)  
   
 
-[Fesenfeld, Hutubessy, and Jit (2013)](https://www.ncbi.nlm.nih.gov/pubmed/23830973) did a meta-analysis and found a cost-effectiveness of $146 to $34,382 per QALY in inflation-adjusted international dollars for the HPV vaccine (see Table 1) based on studies in Thailand and Mexico\[8\]. [Our model for HPV finds](https://www.getguesstimate.com/models/10586) a cost-effectiveness of $370 - $1600 / DALY. Our estimate seems to fit snugly within their wide range.
+[Fesenfeld, Hutubessy, and Jit (2013)](https://www.ncbi.nlm.nih.gov/pubmed/23830973) did a meta-analysis and found a cost-effectiveness of $146 to $34,382 per QALY in inflation-adjusted international dollars for the HPV vaccine (see Table 1) based on studies in Thailand and Mexico[^8]. [Our model for HPV finds](https://www.getguesstimate.com/models/10586) a cost-effectiveness of $370 - $1600 / DALY. Our estimate seems to fit snugly within their wide range.
 
 But why does Fesenfeld, Hutubessy, and Jit (2013) have such a large range with such large values? Part of the reason for the large difference in estimations between sources and between the estimates given above are significant differences in cost estimation rather than fundamental methodological problems, as in these studies cost per HPV series estimates range from $49 to $511. In our model, if we use the more worst-case scenarios of cost per vaccine of $23 in the developing world, the cost-effectiveness of roll-out would be about $1964 per DALY while $49 per series yields an estimate of over $4000 per DALY.
 
@@ -914,7 +914,7 @@ Winskill, Walker, Griffin, & Ghani (2017)
 
 Our model -- 60% SSA scenario
 
-Our model with WWGG parameters (roll out costs only)\[11\]
+Our model with WWGG parameters (roll out costs only)[^11]
 
 $44 - $279 / DALY
 
@@ -1153,7 +1153,7 @@ Dalton (2014)’s analysis is a completely different kind of model than our anal
 
 On the other hand, Dalton (2014) also models the spending on research and development for malaria using data from [GFinder (2013)](http://www.policycures.org/downloads/04_GF_report13_web_Findings%E2%80%93Funding%20by%20Disease.pdf), which includes all R&D spending -- including not only vaccines, but also other drugs, microbicides, diagnostics, and basic research. Given that Dalton (2014) intended to model the returns of research as a whole this seems appropriate but reduces the ability to compare meaningfully to our work to model the cost-effectiveness of vaccine R&D in particular.
 
-Furthermore, [GFinder (2013)](http://www.policycures.org/downloads/04_GF_report13_web_Findings%E2%80%93Funding%20by%20Disease.pdf) also uses a total for malaria vaccine research that is higher than the total documented in [GAVI (2016)](http://www.gavi.org/about/governance/gavi-board/minutes/2016/22-june/minutes/09---malaria-vaccine-pilots---appendices/) that we rely on for our estimate. In total, we assume that a malaria vaccine [could be created with an investment of $605M](/ea/1l4/how_much_does_it_cost_to_research_and_develop_a/), whereas GFinder (2013) assumes a total spend of over $3B\[12\], and Dalton (2014) extrapolates to a total R&D spend of over $67B on malaria, over 100x our estimate for malaria R&D costs and over 4x our estimate for all costs for malaria eradication.
+Furthermore, [GFinder (2013)](http://www.policycures.org/downloads/04_GF_report13_web_Findings%E2%80%93Funding%20by%20Disease.pdf) also uses a total for malaria vaccine research that is higher than the total documented in [GAVI (2016)](http://www.gavi.org/about/governance/gavi-board/minutes/2016/22-june/minutes/09---malaria-vaccine-pilots---appendices/) that we rely on for our estimate. In total, we assume that a malaria vaccine [could be created with an investment of $605M](/ea/1l4/how_much_does_it_cost_to_research_and_develop_a/), whereas GFinder (2013) assumes a total spend of over $3B[^12], and Dalton (2014) extrapolates to a total R&D spend of over $67B on malaria, over 100x our estimate for malaria R&D costs and over 4x our estimate for all costs for malaria eradication.
 
 Given that in our model, for HIV the R&D costs are much more prominent than for malaria, the underestimation in roll-out costs and the overestimation in R&D costs by Dalton (2014) relative to our model would explain the discrepancy.
 
@@ -1214,11 +1214,11 @@ As Dalton (2016) admits, this is a relatively simplistic model. Like Dalton (201
 
 Appendix B: Forecasting Cost-Effectiveness for Ebola
 
-Based on the cost-effectiveness modeling in this essay, we could consider using our model to forecast the cost-effectiveness of the Ebola vaccine, which is currently under active development and relatively unknown. We previously found the Ebola vaccine to likely cost ~$1.5B in R&D and to become licensed in ~2022, but we do not know much about the relevant roll-out costs. We’ve also estimated Ebola vaccination to potentially avert 92,685 DALYs per year if rolled out to 60% of the relevant SSA population, assuming the average DALY burden of the last five years, and to prevent ~308,900 DALYs given these assumptions if Ebola were eradicated. Assuming the much higher burden seen during the 2014 outbreak of ~1.3M DALYs per year, ~388,000 DALYs could be prevented by vaccinating 60% of the relevant population\[13\].
+Based on the cost-effectiveness modeling in this essay, we could consider using our model to forecast the cost-effectiveness of the Ebola vaccine, which is currently under active development and relatively unknown. We previously found the Ebola vaccine to likely cost ~$1.5B in R&D and to become licensed in ~2022, but we do not know much about the relevant roll-out costs. We’ve also estimated Ebola vaccination to potentially avert 92,685 DALYs per year if rolled out to 60% of the relevant SSA population, assuming the average DALY burden of the last five years, and to prevent ~308,900 DALYs given these assumptions if Ebola were eradicated. Assuming the much higher burden seen during the 2014 outbreak of ~1.3M DALYs per year, ~388,000 DALYs could be prevented by vaccinating 60% of the relevant population[^13].
 
 Based on our model, we can create guesses for Ebola based on a variety of potential costs of the Ebola vaccine. We can also vary how focused the population targeted for vaccination is. A broad distribution of the Ebola vaccine may be highly unrealistic. [Merler, et al. (2016)](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0005093), for example, advocates for “ring vaccination,” which targets (in some combination) those who have been in direct contact with someone infected, contacts of contacts, and the population in geographic rings around them. The population in the [Henao-Restrepo, et al. (2016)](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32621-6/fulltext) Ebola trial was vaccinated on this basis and smallpox was eradicated in part due to such measures ([Strassburg, 1982](https://www.ncbi.nlm.nih.gov/pubmed/7044193)). Also, as Merler, et al. (2016) mentions, future Ebola outbreaks in different regions could have a different basic reproduction number (the number of cases an infected person generates, on average, over their infection period), implying a different approach to be taken.  It’s unclear to us what this suggests about the population needed for eradication.
 
-We assume that our above calculations are right, that the vaccine will be 50% effective\[14\], and that there is a $100M fixed cost associated with developing vaccination infrastructure.
+We assume that our above calculations are right, that the vaccine will be 50% effective[^14], and that there is a $100M fixed cost associated with developing vaccination infrastructure.
 
 Ebola Eradication Cost-effectiveness
 
@@ -1412,7 +1412,7 @@ Appendix D: Cost-Effectiveness of GAVI
 
 [GAVI](https://www.gavi.org/), a global organization that helps distribute vaccines, is considered to be very cost-effective. A full analysis of the cost-effectiveness of GAVI is greatly beyond the scope of this article, as the use of “leveraged funding” and the difference between marginal vs. total costing approaches, makes the cost-effectiveness estimate vary greatly from that of individual vaccines (see discussion in our discussion of assumptions).
 
-However, we can look at three sources: [Francis (2010)](http://gsid.org/downloads/successes_and_failures_final.pdf) quotes GAVI as averting 5M deaths against $3.7B in funding, for a cost-effectiveness of $740 per life saved. [Lob-Levyt (2011)](http://rstb.royalsocietypublishing.org/content/royptb/366/1579/2743.full.pdf) quotes GAVI as averting 5.4M vaccine-related deaths against $4491M in vaccine-related spending or $831.67 per life saved. Lastly, a [GAVI press release](http://www.gavi.org/library/news/press-releases/2010/gavi-alliance-set-to-save-four-million-lives-by-2015/) quotes GAVI as saving 4M lives against $3.7B or $925 per life saved. When we take these estimates literally, and consider a figure of 30 DALYs per life saved\[6\], and compare this on a table to our estimates of vaccines, GAVI comes out more cost-effective than the distribution for all of the vaccines except smallpox at 60% of SSA.
+However, we can look at three sources: [Francis (2010)](http://gsid.org/downloads/successes_and_failures_final.pdf) quotes GAVI as averting 5M deaths against $3.7B in funding, for a cost-effectiveness of $740 per life saved. [Lob-Levyt (2011)](http://rstb.royalsocietypublishing.org/content/royptb/366/1579/2743.full.pdf) quotes GAVI as averting 5.4M vaccine-related deaths against $4491M in vaccine-related spending or $831.67 per life saved. Lastly, a [GAVI press release](http://www.gavi.org/library/news/press-releases/2010/gavi-alliance-set-to-save-four-million-lives-by-2015/) quotes GAVI as saving 4M lives against $3.7B or $925 per life saved. When we take these estimates literally, and consider a figure of 30 DALYs per life saved[^6], and compare this on a table to our estimates of vaccines, GAVI comes out more cost-effective than the distribution for all of the vaccines except smallpox at 60% of SSA.
 
 Opportunity
 
