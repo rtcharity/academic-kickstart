@@ -73,135 +73,39 @@ These data were calculated from available evidence about vaccines generally and 
 
 We aggregated all this data [in a spreadsheet](https://drive.google.com/open?id=18zUqZMrV7UvzYGXmOowSLvdS1pX5_GA8dgIxd8A2_yM) that makes all the calculations between the multiple sections much more clear, with a good amount of detail. Based on that data, we come to the following conclusions. (For more detail, see the spreadsheet and the previous articles.)
 
-Vaccine
-
-R&D Costs
-
-Roll-out Costs
-
-Smallpox
-
-$5.58M
-
-$0.73-$47.62 / child
-
-Measles
-
-$38.3M
-
-$1-$38 / child
-
-Rotavirus
-
-$1,140M
-
-$3-$28 / child
-
-HPV
-
-?
-
-$2.55-$22.71 / child
-
-HIV
-
-$24,500M
-
-$50-$160 / child
-
-Malaria
-
-$605M
-
-$22 / child + $293M
-
-Ebola
-
-$1,500M
-
-?
-
-“Typical” vaccine
-
-$460M - $1900M
-
-$13.21-$53.05 / child
+| Vaccine | R&D Costs | Roll-out Costs
+| ------ | ----------- | ------------ |
+|Smallpox | $5.58M | $0.73-$47.62 / child |
+| Measles | $38.3M | $1-$38 / child |
+| Rotavirus | $1,140M | $3-$28 / child |
+| HPV | ? | $2.55-$22.71 / child |
+| HIV | $24,500M | $50-$160 / child |
+| Malaria | $605M | $22 / child + $293M |
+| Ebola | $1,500M | ? |
+| “Typical” vaccine | $460M - $1900M | $13.21-$53.05 / child |
 
   
+<br></br>
   
-  
 
-Vaccine
-
-DALYs per vaccinated person in 2016a
-
-Yearly DALYs at 60% vaccination rate in 2016 SSA
-
-Yearly DALYs if eradicationb
-
-Smallpox
-
-0.14037
-
-7,437,600
-
-44,653,000
-
-Measles
-
-0.20793
-
-34,105,842
-
-99,341,000
-
-Rotavirus
-
-0.17990
-
-4,589,392
-
-Not possible
-
-HPV
-
-0.01250
-
-327,522
-
-5,173,000c
-
-HIV
-
-0.26343
-
-9,655,005
-
-57,575,000
-
-Malaria
-
-0.40619
-
-10,362,216
-
-56,201,000
-
-Ebolad
-
-0.07502
-
-92,685
-
-309,000
-
+| Vaccine | DALYs per vaccinated person in 2016<sup>a</sup> | Yearly DALYs at 60% vaccination rate in 2016 SSA | Yearly DALYs if eradication<sup>b</sup>
+| ------ | ----------- | ------------ | ------------- |
+| Smallpox   | 0.14037 | 7,437,600   | 44,653,000 |
+| Measles   | 0.20793 | 34,105,842   | 99,341,000 |
+| Rotavirus   | 0.17990 | 4,589,392   | _Not possible_ |
+| HPV   | 0.01250 | 327,522   | 5,173,000<sup>c</sup> |
+| HIV   | 0.26343 | 9,655,005   | 57,575,000 |
+| Malaria   | 0.40619 | 10,362,216   | 56,201,000 |
+| Ebola<sup>d</sup>   | 0.07502 | 92,685   | 309,000 |
 A - Estimates for DALYs prevented per person vaccinated over a 20 year period.
 
 B - These figures, except for smallpox and measles, are derived from their 2016 global DALY burdens from [Global Burden of Disease, Results Tool (2016e)](http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2016-permalink/d8ac743867dc9c03ba8e196b585d7b0d)
 
-C - This figure is 70% of the 2016 global burden from cervical cancer of 7,390,002.82.
+C - This figure is 70% of the 2016 global burden from cervical cancer of 7,390,002.82\.
 
-D - All Ebola estimates here are a 5 year average from 2012-2016 and assumes a vaccine that is 50% effective.
+D - All ebola estimates here are a 5 year average from 2012-2016 and assumes a vaccine that is 50% effective.
+
+<br></br>
 
   
   
