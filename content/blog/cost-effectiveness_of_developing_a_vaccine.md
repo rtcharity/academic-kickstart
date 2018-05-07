@@ -256,37 +256,11 @@ The overall cost-effectiveness of a vaccine can vary a lot depending on what pop
 
 For one concrete example, consider this table varying the targeting of the malaria vaccine. We look at our estimates for our two scenarios -- vaccinating 60% of SSA and outright eradication, but we also consider a third, more targeted scenario -- vaccinating 60% of a country with high malaria prevalence, like the Democratic Republic of the Congo.
 
-Population
-
-Cost-effectiveness
-
-Cost-effectiveness, excluding R&D costs
-
-Guesstimate
-
-60% of DR Congo
-
-$31 - $140 / DALY
-
-$18 - $84 / DALY
-
-[Link](https://www.getguesstimate.com/models/10607)
-
-60% SSA
-
-$23 - $52 / DALY
-
-$21 - $49 / DALY
-
-[Link](https://www.getguesstimate.com/models/10588)
-
-Eradication
-
-$11 - $18 / DALY
-
-$11 - $18 / DALY
-
-[Link](https://www.getguesstimate.com/models/10601)
+| Population | Cost-effectiveness | Cost-effectiveness, excluding R&D costs | Guesstimate |
+| ------ | ----------- | --------------- | --------------- |
+| 60% of DR Congo | $31 - $140 / DALY | $18 - $84 / DALY | [Link](https://www.getguesstimate.com/models/10607) |
+| 60% SSA | $23 - $52 / DALY | $21 - $49 / DALY | [Link](https://www.getguesstimate.com/models/10588) |
+| Eradication | $11 - $18 / DALY | $11 - $18 / DALY | [Link](https://www.getguesstimate.com/models/10601) |
 
 A more targeted roll-out can be more cost-effective by eliminating more DALYs per person but could be less cost-effective when including R&D costs, as the R&D costs are spread across fewer people. On the other hand, the savings from outright eradication could make targeting the most people more cost-effective, even on a per person basis. For another exploration of how targeting can change cost-effectiveness estimates, see [Appendix B](#appendixb) on estimating the cost-effectiveness of Ebola.
 
@@ -373,59 +347,17 @@ Additionally, our analysis doesn’t offer a way to evaluate the impact of exist
 
 We [adapted the Guesstimate for malaria to include a leverage factor](https://www.getguesstimate.com/models/10679) and explored some possible ranges:
 
-R&D Leverage
 
-Roll-out Leverage
-
-Total cost-effectiveness
-
-1 (Normal)
-
-1 (Normal)
-
-$23 - $53 / DALY
-
-1 (Normal)
-
-1.25 (Crowd out by 25%)
-
-$28 - $66 / DALY
-
-1 (Normal)
-
-0.75 (Unlock 25%)
-
-$18 - $41 / DALY
-
-1 (Normal)
-
-0.5 - 0.75 (Unlock 25-50%)
-
-$14 - $35 / DALY
-
-1 (Normal)
-
-0.5 (Unlock 50%)
-
-$12 - $28 / DALY
-
-0.75 (Unlock 25%)
-
-0.5 (Unlock 50%)
-
-$12 - $28 / DALY
-
-0.5 (Unlock 50%)
-
-1 (Normal)
-
-$22 - $52 / DALY
-
-1 (Normal)
-
-0 (Unlock 100%)
-
-$1.50 - $3.60 / DALY
+| R&D Leverage | Roll-out Leverage | Total cost-effectiveness |
+| ------ | ----------- | --------------- |
+| 1 (Normal) | 1 (Normal) | $23 - $53 / DALY |
+| 1 (Normal) | 1.25 (Crowd out by 25%) | $28 - $66 / DALY |
+| 1 (Normal) | 0.75 (Unlock 25%) | $18 - $41 / DALY |
+| 1 (Normal) | 0.5 - 0.75 (Unlock 25-50%) | $14 - $35 / DALY |
+| 1 (Normal) | 0.5 (Unlock 50%) | $12 - $28 / DALY |
+| 0.75 (Unlock 25%) | 0.5 (Unlock 50%) | $12 - $28 / DALY |
+| 0.5 (Unlock 50%) | 1 (Normal) | $22 - $52 / DALY |
+| 1 (Normal) | 0 (Unlock 100%) | $1.50 - $3.60 / DALY |
 
 From this exploration, we can see that leverage on the roll-out costs dominates any leverage on the R&D costs.
 
@@ -447,69 +379,25 @@ Instead, we decided to cap at an arbitrary fixed amount of years set to 20 by de
 
 It’s important to think through what cap makes the most sense, though, as it can have a large effect on the final model, as seen in this table where we explore the ramifications of smallpox eradication with different benefit thresholds:
 
-Smallpox Eradication Cost-effectiveness
+<center>_Smallpox Eradication Cost-effectiveness_</center>
 
-Benefits Considered
+| Benefits Considered | Cost-effectiveness | Guesstimate |
+| ------ | ----------- | --------------- |
+| 10 Years | $0.79 - $7.30 / DALY | [Link](https://www.getguesstimate.com/models/10645) |
+| 20 Years | $0.41 - $3.50 / DALY | [Link](https://www.getguesstimate.com/models/10606) |
+| 30 Years | $0.26 - $2.40 / DALY | See “10 years” |
+| 50 Years | $0.16 - $1.50 / DALY | See “10 years” |
 
-Cost-effectiveness
+<br></br>
 
-Guesstimate
+<center>_Malaria 60% SSA Cost-effectiveness_</center>
 
-10 Years
-
-$0.79 - $7.30 / DALY
-
-[Link](https://www.getguesstimate.com/models/10645)
-
-20 Years
-
-$0.41 - $3.50 / DALY
-
-[Link](https://www.getguesstimate.com/models/10606)
-
-30 Years
-
-$0.26 - $2.40 / DALY
-
-See “10 years”
-
-50 Years
-
-$0.16 - $1.50 / DALY
-
-See “10 years”
-
-Malaria 60% SSA Cost-effectiveness
-
-Benefits Considered
-
-Cost-effectiveness
-
-Guesstimate
-
-10 Years
-
-$24 - $56 / DALY
-
-[Link](https://www.getguesstimate.com/models/10680)
-
-20 Years
-
-$23 - $53 / DALY
-
-[Link](https://www.getguesstimate.com/models/10588)
-
-30 Years
-
-$20 - $47 / DALY
-
-See “10 years”
-
-50 Years
-
-$19 - $45 / DALY
-
-See “10 years”
+| Benefits Considered | Cost-effectiveness | Guesstimate |
+| ------ | ----------- | --------------- |
+| 10 Years | $24 - $56 / DALY | [Link](https://www.getguesstimate.com/models/10680) |
+| 20 Years | $23 - $53 / DALY | [Link](https://www.getguesstimate.com/models/10588) |
+| 30 Years | $20 - $47 / DALY | See “10 years” |
+| 50 Years | $19 - $45 / DALY | See “10 years” |
 
   
   
