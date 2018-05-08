@@ -432,6 +432,7 @@ The desirability of funding a vaccine at the outset then seems to vary heavily o
 
 There are a lot of additional potential takeaways here, such as general lessons learned about cost-effectiveness modeling, which we’ll discuss in a final wrap-up essay.
 
+_Thanks to Max Dalton, Joey Savoie, Tee Barnett, Palak Madan, and Christina Rosivack for reviewing this piece._
   
 # <a name="appendixa">Appendices</a>
 

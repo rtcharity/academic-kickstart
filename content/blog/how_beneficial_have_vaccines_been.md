@@ -183,7 +183,11 @@ As mentioned above, there is more limited data from which to estimate the broad 
 
 Making a full accounting of the economic benefit of vaccinations may mean further updating our perception of the total benefits of vaccination.
 
+_You can view our cost-effectiveness analysis of developing vaccines [here]({{< ref "blog/cost-effectiveness_of_developing_a_vaccine.md" >}})_
+
 _This essay was jointly written by Peter Hurford and Marcus A. Davis._
+
+_Thanks to Anna Mulcahy, Katherine Savoie, Joey Savoie, and Baxter Bullock for their help reviewing and editing this piece._
 
 **Endnotes**
 
