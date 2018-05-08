@@ -185,6 +185,8 @@ Making a full accounting of the economic benefit of vaccinations may mean furthe
 
 _This essay was jointly written by Peter Hurford and Marcus A. Davis._
 
+_Thanks to Anna Mulcahy, Katherine Savoie, Joey Savoie, and Baxter Bullock for their help reviewing and editing this piece._
+
 **Endnotes**
 
 [^1]: Finding real world historical examples where countries do or don’t implement an available vaccine, or where vaccination isn’t given at high rates, could theoretically provide some insight here. However, in the real world if an available vaccine isn’t given in a particular country for a long time there may be factors like anti-vaccination support or a lack of resources that are likely to be reasons for the difference in vaccination. See [Gangarosa, et al. (1998)](https://pdfs.semanticscholar.org/cf5c/7b7f70f867ca993e1c599f57d4a6b76c9d45.pdf) for a historical analysis of neighboring countries that had vastly different vaccine delivery for a prolonged period.
