@@ -93,7 +93,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Rethink Priorities"
 
-  paragraph = "Doing foundational research on neglected causes in a highly empirical and transparent manner"
+  paragraph = "Empirically-driven foundational research"
 
   about     = "Rethink Priorities is a project of Rethink Charity. Right now, our research agenda is focused on trying to learn how to apply cost-effectiveness frameworks to uncertain domains, prioritization and research work within interventions aimed at nonhuman animals, and assisting LEAN and SHIC in gathering evidence about EA movement building."
 
