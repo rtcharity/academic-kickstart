@@ -28,7 +28,7 @@ This work is currently led by Marcus A. Davis and Peter Hurford, with Marcus wor
 
 Right now, our research agenda is focused on:
 
-* trying to learn how to apply cost-effectiveness frameworks to uncertain domains. (As an example, see our first post on [vaccine research and development]({{< ref "blog/how_long_to_research_develop_vaccine.md" >}}))
+* trying to learn how to apply cost-effectiveness frameworks to uncertain domains. (As an example, see our first post on [vaccine research and development](http://effective-altruism.com/ea/1c5/how_long_does_it_take_to_research_and_develop_a/)
 * prioritization and research work within interventions aimed at nonhuman animals (as research progress here looks uniquely tractable compared to other cause areas)
 * assisting [LEAN](https://rtcharity.org/lean/) and [SHIC](https://shicschools.org/) in gathering evidence about EA movement building (as research here looks tractable and neglected)
 
