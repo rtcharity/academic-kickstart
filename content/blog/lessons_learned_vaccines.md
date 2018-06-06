@@ -26,7 +26,7 @@ preview = true
 
 **Introduction**
 
-We set out to figure out[how cost-effective it would be to create a new vaccine](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/). After a lot of work, we came to a reasonable conclusion. The next question after doing all this is ...why?
+We set out to figure out [how cost-effective it would be to create a new vaccine](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/). After a lot of work, we came to a reasonable conclusion. The next question after doing all this is ...why?
 
 We certainly don’t plan to manufacture our own vaccine anytime soon and weren’t thinking of funding others who might. This might puzzle people as to why we did all this research. The reason: it was a good sandbox to get our start in. We were hoping to learn more about cost-effectiveness estimation in a domain where the answer was not known but the data and sources were relatively plentiful and it was easy to compare to other academic work. If we can’t create meaningful cost-effectiveness estimates for vaccine research and development, what kind of cost-effectiveness estimates might we be able to make?
 
@@ -98,7 +98,7 @@ There are obvious limitations with generalizing from our basket of vaccines, and
 
 Further, on a different reading of hits-based giving, it’s plausible that that the goal isn’t merely to uncover interventions as cost-effective as AMF, but rather hit the level of effectiveness probably achieved by, say, water sanitization. So, in this sense, even the development of an intervention as cost-effective as vaccines appear to be in our research wouldn’t be a hit but other interventions, particularly those that prevented an existential risk could qualify. So, if hits-based giving produced the occasional intervention as cost-effective as vaccines, while also having many interventions that resulted in little progress, and the rare intervention that was a tremendous success this approach could still be highly promising. Of course, in the absence of the large success, it will be very difficult to judge the total cost-effectiveness of this approach and it’s still early to know if interventions as cost-effective as vaccines will be produced using this approach.
 
-In short, hits-based giving would suggest vaccines would definitely be a hit, but it turned out upon detailed analysis to merely be “okay”. This further underscores that AMF may be a really hard baseline to beat and that it is important to do some degree of investigation before assuming things are hits.
+In short, hits-based giving would suggest vaccines would definitely be a hit, but it turned out upon detailed analysis to merely be “okay”. **This further underscores that AMF may be a really hard baseline to beat and that it is important to do some degree of investigation before assuming things are hits.**
 
 **Lesson #8: Maybe we should eradicate more diseases?**
 
