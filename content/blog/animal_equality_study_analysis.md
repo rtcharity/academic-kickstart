@@ -24,8 +24,7 @@ _This essay was jointly written by Peter Hurford and Marcus A. Davis. All code f
 
 **Summary:** Animal Equality and Faunalytics put together a field study testing individual video outreach on belief and diet change. They found statistically significant results on both. Together with the Reducetarian study, we now think there is sufficient evidence to establish that individual outreach may work to produce positive change for nonhuman animals. However, evidence in this study points to an estimate of $310 per pig year saved (90% interval: $46 to $1100), which is worse than human-focused interventions even from a species neutral perspective. More analysis would be needed to see how individual outreach compares to other interventions in animal advocacy or in other cause areas.
 
-##   
-Introduction
+## Introduction
 
 Individual outreach for improving the lives of animals has [a lot of possible interventions](http://www.animalcharityevaluators.org/research/interventions/). While empirical evidence to help us understand and decide between these interventions has improved a lot over the past five years, there remain significant limitations in methodology. Previously, only the [the 2016 AWAL Newspaper Study](https://osf.io/nxrx3/) (see [announcements from the Reducetarian Foundation](http://www.awalab.org/2016/10/12/reducetarian-messaging-study/) and [from AWAL](http://www.awalab.org/2016/10/12/reducetarian-messaging-study/)) has the first statistically significant effect about individual outreach on actual meat reduction (as opposed to a proxy metric) using an actual control group with sufficient statistical power**[^1]**.
 
@@ -259,9 +258,7 @@ However, it is assumed by ACE that 2D video would be ~3x as impactful as leaflet
 
 While based on the results in this study, we think we can reject the hypothesis that 360 VR video is twice as effective per person as 2D video**[^6]**, it is notable that this calculation is not too different from what we established above.
 
-##   
-
-What did this study not find?
+## What did this study not find?
 
 Notably, this study did not look at any effects other than pork, which could be problematic as it needlessly constrains the cost-effectiveness estimate to focus on the relatively expensive to help pigs compared to other animals, or even all animals as a whole. As the Reducetarian study found, broad reduction across all possible animal consumption would outweigh in effectiveness a reduction of consumption in any one animal.  
 
