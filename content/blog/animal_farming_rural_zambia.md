@@ -1,10 +1,10 @@
 +++
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-categories = ["farmed animal welfare", "animals"]
+categories = ["farm animal welfare", "animals"]
 
 author = "Peter Hurford"
-tags = ["farmed animal welfare", "animals"]
+tags = ["farm animal welfare", "animals"]
 date = 2018-02-19
 draft = false
 description = "Farm Animal Life in Rural Zambia"
