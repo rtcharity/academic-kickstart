@@ -2,7 +2,7 @@
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-categories = ["vaccines", "global health"]
+categories = ["animals", "farm animal welfare"]
 
 # author = ["Marcus A. Davis"]
 tags = ["animals", "farm animal welfare"]
