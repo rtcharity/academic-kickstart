@@ -121,34 +121,40 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  identifier = "fa fa-list"
-  weight = 3
-
-[[menu.main]]
   name = "Blog"
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 2
 
 [[menu.main]]
+  name = "PriorityWiki"
+  url = "/prioritywiki/"
+  identifier = "fa fa-sitemap"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  identifier = "fa fa-list"
+  weight = 4
+
+[[menu.main]]
   name = "Our Team"
   url = "/team/staff"
   identifier = "fa fa-id-card-o"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Cause Areas"
   url = "/categories/"
-  identifier = "fa fa-sitemap"
-  weight = 5
+  identifier = "fa fa-archive"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
-  weight = 6
+  weight = 7
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
