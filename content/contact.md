@@ -15,4 +15,4 @@ autolink = true
 
 +++
 
-If you have questions, feedback, or comments please contact us at [marcus@rtcharity.org](mailto:marcus@rtcharity.org).
+If you have questions, feedback, or would like to volunteer with us please contact us at [marcus@rtcharity.org](mailto:marcus@rtcharity.org).
