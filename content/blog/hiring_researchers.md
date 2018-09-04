@@ -16,6 +16,4 @@ We're excited to announce we are looking to hire junior and senior researchers. 
 * [Senior Researcher Position](/careers/senior-researcher/)
 * [Junior Researcher Position](/careers/junior-researcher/)
 
-If you're interested we'd strongly encourage you to apply by sending in a resume and one example of your best previous research work to [marcus@rtcharity.org](mailto:marcus@rtcharity.org). Feel free to also send me any questions you may have about the given role. Also, for applications, please send with your resume no more than one page explaining what you like, what you dislike, and how you would improve/expand the following research piece: [“Thoughts on the Reducetarian Labs MTurk Study”](http://effective-altruism.com/ea/14g/thoughts_on_the_reducetarian_labs_mturk_study/).
-
-Successful applicants based on this first stage will be contacted for the remainder of the application process, which includes spending three hours completing a test task and about 60mins each completing two interviews. That’s it!
+If you’re interested we’d strongly encourage you to apply by clicking one of the roles and following the instructions there.
