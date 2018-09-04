@@ -1,10 +1,8 @@
 +++
 date = 2018-09-04
 draft = false
-description = "Why You should Join our team"
-featuredpath = "date"
-linktitle = ""
-title = "Junior Researcher"
+description = "An opportunity to join our team"
+title = "Junior Researcher Position"
 preview = true
 
 +++
