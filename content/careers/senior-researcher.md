@@ -51,7 +51,7 @@ If this all sounds right up your alley, you’re our kind of person. We think ou
 *   Ability to do basic statistical programming (e.g., implement a t-test) in Python and/or R
 *   Familiarity with GitHub
 *   Familiarity with Stan
-*   Familiarity with Guesstimate
+*   Familiarity with [Guesstimate](https://www.getguesstimate.com/)
 *   Prior experience with cost-effectiveness modeling
 *   Prior experience conducting surveys
 
