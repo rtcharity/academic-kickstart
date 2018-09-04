@@ -14,7 +14,7 @@ The effective altruism movement is allocating hundreds of millions of dollars an
 
 
 
-So far we’ve done a deep dive on [the cost-effectiveness of vaccines](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/)and [learned some](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/) [lessons](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/), we’ve launched the [PriorityWiki](http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/)(and [got some press](https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first)!), we’ve commissioned [a site visit of farming practices in rural Zambia](http://effective-altruism.com/ea/1kz/what_is_animal_farming_in_rural_zambia_like_a/), and we’ve looked at [re-analyzing veg outreach studies](http://effective-altruism.com/ea/1pn/animal_equality_showed_that_advocating_for_diet/).
+So far we’ve done a deep dive on [the cost-effectiveness of vaccines](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/) and [learned some lessons](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/),we’ve launched the [PriorityWiki](http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/) (and [got some press](https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first)!), we’ve commissioned [a site visit of farming practices in rural Zambia](http://effective-altruism.com/ea/1kz/what_is_animal_farming_in_rural_zambia_like_a/), and we’ve looked at [re-analyzing veg outreach studies](http://effective-altruism.com/ea/1pn/animal_equality_showed_that_advocating_for_diet/).
 
 
 
@@ -54,7 +54,7 @@ We’re looking for part-time and full-time junior researchers who can assist ou
 *   Competitive salary based on your personal needs and experience
 *   Flexible work hours (work part-time or full-time, work on your own schedule as long as you show results and communicate well)
 *   Flexible work location (we’re currently in San Francisco, Vancouver, and Chicago and welcome new additions anywhere in the world)
-*   Very fun and energetic team (get to be a part of the wider Rethink Charity slack)
+*   Very fun and energetic team (get to be a part of the wider Rethink Charity Slack)
 *   Very low bureaucracy
 *   We don’t provide snacks but we could mail you a box of Oreos if you want
 
