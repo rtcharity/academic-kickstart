@@ -14,7 +14,7 @@ The effective altruism movement is allocating hundreds of millions of dollars an
 
 
 
-So far we’ve done a deep dive on [the cost-effectiveness of vaccines](https://http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/)and [learned some](https://http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/) [lessons](https://http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/), we’ve launched the [PriorityWiki](https://http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/)(and [got some press](https://https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first)!), we’ve commissioned [a site visit of farming practices in rural Zambia](https://http://effective-altruism.com/ea/1kz/what_is_animal_farming_in_rural_zambia_like_a/), and we’ve looked at [re-analyzing veg outreach studies](https://http://effective-altruism.com/ea/1pn/animal_equality_showed_that_advocating_for_diet/).
+So far we’ve done a deep dive on [the cost-effectiveness of vaccines](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/)and [learned some](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/) [lessons](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/), we’ve launched the [PriorityWiki](http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/)(and [got some press](https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first)!), we’ve commissioned [a site visit of farming practices in rural Zambia](http://effective-altruism.com/ea/1kz/what_is_animal_farming_in_rural_zambia_like_a/), and we’ve looked at [re-analyzing veg outreach studies](http://effective-altruism.com/ea/1pn/animal_equality_showed_that_advocating_for_diet/).
 
 
 
@@ -63,5 +63,5 @@ We’re looking for part-time and full-time junior researchers who can assist ou
 ### How to Apply
 
 *   Send in a resume and one example of your best previous research work to [marcus@rtcharity.org](mailto:marcus@rtcharity.org). Feel free to also send me any questions you may have about the role.
-*   Also, for applications, please send with your resume no more than one page explaining what you like, what you dislike, and how you would improve/expand the following research piece: [“Thoughts on the Reducetarian Labs MTurk Study”](https://http://effective-altruism.com/ea/14g/thoughts_on_the_reducetarian_labs_mturk_study/)
+*   Also, for applications, please send with your resume no more than one page explaining what you like, what you dislike, and how you would improve/expand the following research piece: [“Thoughts on the Reducetarian Labs MTurk Study”](http://effective-altruism.com/ea/14g/thoughts_on_the_reducetarian_labs_mturk_study/)
 *   Successful applicants based on this first stage will be contacted for the remainder of the application process, which includes spending three hours completing a test task and about 60mins each completing two interviews. That’s it!
