@@ -29,6 +29,16 @@ title = "Our Team"
   <br>
 
 <p align="center">
+  <img src="/img/david.png" alt="David Moss" style="width:250px"><br>
+  <b>David Moss</b><br>
+  <b>Senior Researcher</b><br>
+</p>
+
+  David Moss is Director of Research for all of Rethink Charity, focusing on measurement and evaluation. He previously worked for Charity Science and has worked on the EA Survey for several years. David studied Philosophy at Cambridge and is an academic researcher of moral psychology.
+  <br>
+  <br>
+
+<p align="center">
   <img src="/img/baxter.jpg" alt="Baxter Bullock" style="width:250px"><br>
   <b>Baxter Bullock</b><br>
   <b>Rethink Charity Executive Director of Operations</b><br>
