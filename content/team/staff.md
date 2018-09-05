@@ -11,7 +11,7 @@ title = "Our Team"
 <p align="center">
   <img src="/img/marcus.jpg" alt="Marcus A. Davis" style="width:250px"><br>
   <b>Marcus A. Davis</b><br>
-  <b>Senior Researcher</b><br>
+  <b>Lead Researcher</b><br>
 
   Marcus is a co-founder of Charity Entrepreneurship and Charity Science Health, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science team, he ran Effective Altruism Chicago and worked with LEAN coordinating outreach to local EA groups around the globe.
   <br>
@@ -21,7 +21,7 @@ title = "Our Team"
 <p align="center">
   <img src="/img/peter-2.jpg" alt="Peter Hurford" style="width:250px"><br>
   <b>Peter Hurford</b><br>
-  <b>Senior Researcher</b><br>
+  <b>Lead Researcher</b><br>
 </p>
 
   Peter is a Data Scientist at Data Robot. He co-founded Rethink Charity, and is on the board of Charity Science and Animal Charity Evaluators. He has reviewed and produced research on cause prioritization and effective altruism since 2013. He works directly on Rethink Priorities research and strategy. He also works with Rethink Charity on focus projects, in particular the EA Survey, for which he heads the tech team.
