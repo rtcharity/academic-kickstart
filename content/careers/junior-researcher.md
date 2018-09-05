@@ -8,7 +8,7 @@ preview = true
 +++
 
 
-The effective altruism movement is allocating hundreds of millions of dollars and millions of person hours to improve the world. Better research can dramatically improve this allocation. [Rethink Priorities](http://rethinkpriorities.org/) is a research organization aimed at uncovering the actionable insightsacross different EA causes that are needed to do this. We have [founding values](http://effective-altruism.com/ea/1ld/announcing_rethink_priorities/) -- we care about transparency, tractability, short feedback loops, actionability, and impact assessment.
+The effective altruism movement is allocating hundreds of millions of dollars and millions of person hours to improve the world. Better research can dramatically improve this allocation. [Rethink Priorities](http://rethinkpriorities.org/) is a research organization aimed at uncovering the actionable insights across different EA causes that are needed to do this. We have [founding values](http://effective-altruism.com/ea/1ld/announcing_rethink_priorities/) -- we care about transparency, tractability, short feedback loops, actionability, and impact assessment.
 
 
 
