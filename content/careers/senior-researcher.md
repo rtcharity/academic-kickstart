@@ -71,6 +71,7 @@ If this all sounds right up your alley, you’re our kind of person. We think ou
 
 ### How to Apply
 
+*	To be considered __please apply by November 1, 2018__. We intend to reopen the application process at some point in 2019. 
 *   Send in a resume and one example of your best previous research work to [marcus@rtcharity.org](mailto:marcus@rtcharity.org). Feel free to also send me any questions you may have about the role.
 *   Also, for applications, please send with your resume:
     *  No more than one page explaining what you like, what you dislike, and how you would improve/expand the following research piece: [“Thoughts on the Reducetarian Labs MTurk Study”](http://effective-altruism.com/ea/14g/thoughts_on_the_reducetarian_labs_mturk_study/).
