@@ -60,6 +60,7 @@ We’re looking for part-time and full-time junior researchers who can assist ou
 
 ### How to Apply
 
+*	To be considered for this opening soon __please apply by November 1, 2018__. We intend to reopen the application process at some point in 2019.
 *   Send in a resume and one example of your best previous research work to [marcus@rtcharity.org](mailto:marcus@rtcharity.org). Feel free to also send me any questions you may have about the role.
-*   Also, for applications, please send no more than 500 words outlining a research project you think is tractable and important.
+*   Also, for applications, please send a proposal for a research project you think is tractable and important. A good research proposal should be no more than a page, outline the topic, outline why it is important, and provide a brief sketch of how the question at hand would be answered.
 *   Successful applicants based on this first stage will be contacted for the remainder of the application process, which includes spending three hours completing a test task and about 60mins each completing two interviews. That’s it!
