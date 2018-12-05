@@ -59,7 +59,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/saulius.jpg" alt="Saulius Šimčikas" style="width:250px"><br>
+  <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
   <b>Saulius Šimčikas</b><br>
   <b>Research Analyst</b><br>
 </p>
