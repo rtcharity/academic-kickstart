@@ -75,7 +75,7 @@ title = "Our Team"
   <b>Junior Research Analyst</b><br>
 </p>
 
- Daniela is a junior research analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for Animal Ethics and for Animal Equality.
+ Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for Animal Ethics and for Animal Equality.
   <br>
   <br>
 
@@ -85,7 +85,7 @@ title = "Our Team"
   <b>Junior Research Analyst</b><br>
 </p>
 
-  Jason is a junior research analyst at Rethink Priorities.  Before joining the RP team, Jason earned his doctorate in philosophy from the University of Texas at Austin.  Jason specializes in questions at the intersection of epistemology and applied ethics
+  Jason is a Junior Research Analyst at Rethink Priorities.  Before joining the RP team, Jason earned his doctorate in philosophy from the University of Texas at Austin.  Jason specializes in questions at the intersection of epistemology and applied ethics.
   <br>
   <br>
 
@@ -95,5 +95,5 @@ title = "Our Team"
   <b>Junior Research Analyst</b><br>
 </p>
 
-  Neil is a junior research analyst at Rethink Priorities. He also volunteers for Charity Entrepreneurship and Animal Charity Evaluators.  Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
+  Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for Charity Entrepreneurship and Animal Charity Evaluators.  Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
   <br>
