@@ -90,7 +90,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/tee.jpg" alt="Neil Dullaghan" style="width:250px"><br>
+  <img src="/img/neil.jpeg" alt="Neil Dullaghan" style="width:250px"><br>
   <b>Neil Dullaghan</b><br>
   <b>Junior Research Analyst</b><br>
 </p>
