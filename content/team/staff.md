@@ -70,7 +70,7 @@ title = "Our Team"
 
 
 <p align="center">
-  <img src="/img/tee.jpg" alt="Daniela R. Waldhorn" style="width:250px"><br>
+  <img src="/img/daniela.jpeg" alt="Daniela R. Waldhorn" style="width:250px"><br>
   <b>Daniela R. Waldhorn</b><br>
   <b>Junior Research Analyst</b><br>
 </p>
