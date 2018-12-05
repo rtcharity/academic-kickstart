@@ -80,7 +80,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/tee.jpg" alt="Jason Schukraft" style="width:250px"><br>
+  <img src="/img/jason.jpg" alt="Jason Schukraft" style="width:250px"><br>
   <b>Jason Schukraft</b><br>
   <b>Junior Research Analyst</b><br>
 </p>
