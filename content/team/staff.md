@@ -56,3 +56,13 @@ title = "Our Team"
 
   Tee Barnett currently serves as the Executive Director of Development at Rethink Charity and COO of Students for High-Impact Charity (SHIC). Tee co-founded SHIC with Baxter Bullock in early 2016 and earned his M.A. specializing in International Development from National Chengchi University (政治大學) in Taipei.
   <br>
+  <br>
+
+<p align="center">
+  <img src="/img/saulius.jpg" alt="Saulius Šimčikas" style="width:250px"><br>
+  <b>Saulius Šimčikas</b><br>
+  <b>Research Analyst</b><br>
+</p>
+
+  Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at Animal Charity Evaluators, organised Effective Altruism events in the UK and Lithuania, and worked as a programmer.
+  <br>
