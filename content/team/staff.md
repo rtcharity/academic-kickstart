@@ -56,3 +56,44 @@ title = "Our Team"
 
   Tee Barnett currently serves as the Executive Director of Development at Rethink Charity and COO of Students for High-Impact Charity (SHIC). Tee co-founded SHIC with Baxter Bullock in early 2016 and earned his M.A. specializing in International Development from National Chengchi University (政治大學) in Taipei.
   <br>
+  <br>
+
+<p align="center">
+  <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
+  <b>Saulius Šimčikas</b><br>
+  <b>Research Analyst</b><br>
+</p>
+
+  Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at Animal Charity Evaluators, organised Effective Altruism events in the UK and Lithuania, and worked as a programmer.
+  <br>
+  <br>
+
+
+<p align="center">
+  <img src="/img/daniela.jpeg" alt="Daniela R. Waldhorn" style="width:250px"><br>
+  <b>Daniela R. Waldhorn</b><br>
+  <b>Junior Research Analyst</b><br>
+</p>
+
+ Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for Animal Ethics and for Animal Equality.
+  <br>
+  <br>
+
+<p align="center">
+  <img src="/img/jason.jpg" alt="Jason Schukraft" style="width:250px"><br>
+  <b>Jason Schukraft</b><br>
+  <b>Junior Research Analyst</b><br>
+</p>
+
+  Jason is a Junior Research Analyst at Rethink Priorities.  Before joining the RP team, Jason earned his doctorate in philosophy from the University of Texas at Austin.  Jason specializes in questions at the intersection of epistemology and applied ethics.
+  <br>
+  <br>
+
+<p align="center">
+  <img src="/img/neil.jpeg" alt="Neil Dullaghan" style="width:250px"><br>
+  <b>Neil Dullaghan</b><br>
+  <b>Junior Research Analyst</b><br>
+</p>
+
+  Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for Charity Entrepreneurship and Animal Charity Evaluators.  Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
+  <br>
