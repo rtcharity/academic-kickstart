@@ -39,26 +39,6 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/baxter.jpg" alt="Baxter Bullock" style="width:250px"><br>
-  <b>Baxter Bullock</b><br>
-  <b>Rethink Charity Executive Director of Operations</b><br>
-</p>
-
-  Baxter Bullock is the Co-founder (with Tee Barnett) and Executive Director of Students for High-Impact Charity (SHIC) and the SHIC Foundation, which carries out Canadian-based operations for Rethink Charity. Prior to SHIC’s founding, Baxter served as the Programs Director for the Charity Science Foundation. He was also a high school math teacher for 4 years.
-  <br>
-  <br>
-
-<p align="center">
-  <img src="/img/tee.jpg" alt="Tee Barnett" style="width:250px"><br>
-  <b>Tee Barnett</b><br>
-  <b>Rethink Charity Executive Director of Development</b><br>
-</p>
-
-  Tee Barnett currently serves as the Executive Director of Development at Rethink Charity and COO of Students for High-Impact Charity (SHIC). Tee co-founded SHIC with Baxter Bullock in early 2016 and earned his M.A. specializing in International Development from National Chengchi University (政治大學) in Taipei.
-  <br>
-  <br>
-
-<p align="center">
   <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
   <b>Saulius Šimčikas</b><br>
   <b>Research Analyst</b><br>
@@ -96,4 +76,29 @@ title = "Our Team"
 </p>
 
   Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for Charity Entrepreneurship and Animal Charity Evaluators.  Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
+  <br>
+  <br>
+  <br>
+
+
+<h2 align = "center">Rethink Charity Team</h2><br>
+
+
+<p align="center">
+  <img src="/img/baxter.jpg" alt="Baxter Bullock" style="width:250px"><br>
+  <b>Baxter Bullock</b><br>
+  <b>Rethink Charity Executive Director of Operations</b><br>
+</p>
+
+  Baxter Bullock is the Co-founder (with Tee Barnett) and Executive Director of Students for High-Impact Charity (SHIC) and the SHIC Foundation, which carries out Canadian-based operations for Rethink Charity. Prior to SHIC’s founding, Baxter served as the Programs Director for the Charity Science Foundation. He was also a high school math teacher for 4 years.
+  <br>
+  <br>
+
+<p align="center">
+  <img src="/img/tee.jpg" alt="Tee Barnett" style="width:250px"><br>
+  <b>Tee Barnett</b><br>
+  <b>Rethink Charity Executive Director of Development</b><br>
+</p>
+
+  Tee Barnett currently serves as the Executive Director of Development at Rethink Charity and COO of Students for High-Impact Charity (SHIC). Tee co-founded SHIC with Baxter Bullock in early 2016 and earned his M.A. specializing in International Development from National Chengchi University (政治大學) in Taipei.
   <br>
