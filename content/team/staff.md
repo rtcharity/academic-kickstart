@@ -78,6 +78,10 @@ title = "Our Team"
   Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for Charity Entrepreneurship and Animal Charity Evaluators.  Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.
   <br>
   <br>
+  <br>
+
+
+<h2 align = "center">Rethink Charity Team</h2><br>
 
 
 <p align="center">
