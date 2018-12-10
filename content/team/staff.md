@@ -48,7 +48,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
+  <img src="/img/derek.jpeg" alt="Derek Foster" style="width:250px"><br>
   <b>Derek Foster</b><br>
   <b>Research Analyst</b><br>
 </p>
