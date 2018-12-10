@@ -39,6 +39,35 @@ title = "Our Team"
   <br>
 
 <p align="center">
+  <b>Kim Cuddington</b><br>
+  <b>Research Analyst</b><br>
+</p>
+
+  Kim Cuddington is a Research Analyst at Rethink Priorities. She has a PhD in ecology with a background in mathematical modeling. She is an academic researcher of population ecology.
+  <br>
+  <br>
+
+<p align="center">
+  <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
+  <b>Derek Foster</b><br>
+  <b>Research Analyst</b><br>
+</p>
+
+  Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the Global Happiness Policy Report and various other projects related to global health, education, and subjective well-being.
+  <br>
+  <br>
+
+<p align="center">
+  <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
+  <b>Luisa Rodriguez</b><br>
+  <b>Research Analyst</b><br>
+</p>
+
+  Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she conducted cost-effectiveness evaluations of nonprofit and government programs at ImpactMatters, Innovations for Poverty Action, and GiveWell.
+  <br>
+  <br>
+
+<p align="center">
   <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
   <b>Saulius Šimčikas</b><br>
   <b>Research Analyst</b><br>
