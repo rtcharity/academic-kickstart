@@ -8,7 +8,7 @@ type = "post"
 
 +++
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 306.50px; height: 306.50px;">![](images/image4.png)</span>
+<img src="/img/square_logo_with_name.png" style="width:1000px"><br>
 
 <span class="c7">The effective altruism movement is allocating hundreds of millions of dollars and</span> <span class="c7">m</span><span class="c7">illions of person hours per year to improve the world</span><span class="c7">.</span><span class="c7"> </span><span class="c2">[Rethink Priorities](http://rethinkpriorities.org/)</span><span class="c7"> is a research organization aimed at uncovering actionable insights across different EA causes, improving</span> <span class="c7">the effectiveness of this time and money</span><span class="c7">.</span> <span class="c7">We’re guided by our</span> <span class="c2">[founding values](http://effective-altruism.com/ea/1ld/announcing_rethink_priorities/)</span><span class="c7">– we care about transparency, tractability, short feedback loops, actionability, and impact assessment.          
 
