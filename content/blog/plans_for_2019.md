@@ -43,102 +43,54 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span>At the start of the year and of the project, the staff of Rethink Priorities consisted only of Peter and Marcus.</span><span> </span><span>We made an internal hire with David Moss and then decided to start a hiring round to expand the team to include more researchers</span><span>.</span><span> Our current team is:</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 150.50px; height: 150.50px;">![](images/image2.jpg)</span>
+**Marcus A. Davis - Lead Researcher**
 
 <span class="c0"></span>
 
-<span class="c26 c1 c29">Marcus A. Davis - Lead Researcher</span>
+<span>Marcus</span> <span>works on Rethink Priorities strategy and oversees research. He previously</span><span> co-founde</span><span>d</span><span> </span><span class="c22">[Charity Science Health](https://www.google.com/url?q=https://www.charitysciencehealth.com/&sa=D&ust=1545094466219000)</span><span>, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science</span><span> Health</span><span>team, he ran Effective Altruism Chicago and worked with</span> <span>Rethink Charity</span><span class="c0"> coordinating outreach to local EA groups around the globe.</span>
 
-<span class="c0"></span>
-
-<span>Marcus</span> <span>works on Rethink Priorities strategy and oversees research. He previously</span><span> co-founde</span><span>d</span><span> </span><span class="c22">[Charity Science Health](https://www.google.com/url?q=https://www.charitysciencehealth.com/&sa=D&ust=1545094466219000)</span><span>, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science</span><span> Health</span><span>team, he ran Effective Altruism Chicago and worked with</span> <span>Rethink Charity</span><span class="c0"> coordinating outreach to local EA groups around the globe.</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 150.50px; height: 150.50px;">![](images/image1.jpg)</span>
-
-<span class="c0"></span>
-
-<span class="c29 c26 c1">Peter Hurford - Lead Researcher</span>
+**Peter Hurford - Lead Researcher**
 
 <span class="c0"></span>
 
 <span>Peter</span> <span>works on Rethink Priorities strategy and oversees research. He also</span> <span>is a Data Scientist at DataRobot. He co-founded Rethink Charity, and is on the board of Charity Science</span><span> Health</span><span>and</span> <span class="c22">[Animal Charity Evaluators](https://www.google.com/url?q=http://animalcharityevaluators.org&sa=D&ust=1545094466220000)</span><span class="c0">. He has reviewed and produced research on cause prioritization and effective altruism since 2013\.</span>
 
-<span class="c0"></span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 150.50px; height: 150.50px;">![](images/image6.png)</span>
-
-<span class="c0"></span>
-
-<span class="c0"></span>
-
-<span class="c29 c26 c1">David Moss - Senior Research Analyst</span>
+**David Moss - Senior Research Analyst**
 
 <span class="c0"></span>
 
 <span>D</span><span>avid Moss is Director of Research for all of Rethink Charity, focusing on measurement and evaluation. He</span> <span>also works as a Research Analyst at</span> <span class="c22">[Charity Entrepreneurship](https://www.google.com/url?q=http://charityentrepreneurship.com&sa=D&ust=1545094466222000)</span><span class="c0">. David studied Philosophy at Cambridge and is an academic researcher of moral psychology.</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 145.50px; height: 145.50px;">![](images/image11.jpg)</span>
-
-<span class="c0"></span>
-
-<span class="c0"></span>
-
-<span class="c1">Kim</span><span class="c29 c26 c1"> Cuddington - Research Analyst</span>
+**Kim Cuddington - Research Analyst**
 
 <span class="c0"></span>
 
 <span>Kim Cuddington</span><span> is a Research Analyst at Rethink Priorities. She has a PhD in ecology with a background in mathematical modeling. She is an academic researcher of population ecology</span><span>at</span> <span class="c22">[the University of Waterloo](https://www.google.com/url?q=https://uwaterloo.ca/biology/people-profiles/kim-md-cuddington&sa=D&ust=1545094466223000)</span><span class="c0">.</span>
 
-<span class="c0"></span>
-
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 140.16px; height: 136.50px;">![](images/image9.jpg)</span>
+**Derek Foster - Research Analyst**
 
 <span class="c0"></span>
 
-<span class="c29 c26 c1">Derek Foster - Research Analyst</span>
+<span>Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the</span> <span class="c22">[Global Happiness Policy Report](https://www.google.com/url?q=http://www.happinesscouncil.org/&sa=D&ust=1545094466224000)</span><span class="c0"> and various other projects related to global health, education, and subjective well-being.</span>
 
-<span class="c0"></span>
-
-<span>Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the</span> <span class="c22">[Global Happiness Policy Report](https://www.google.com/url?q=http://www.happinesscouncil.org/&sa=D&ust=1545094466224000)</span><span class="c0"> and various other projects related to global health, education, and subjective well-being.</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 146.00px; height: 146.00px;">![](images/image8.jpg)</span>
-
-<span class="c0"></span>
-
-<span class="c0"></span>
-
-<span class="c29 c26 c1">Luisa Rodriguez - Research Analyst</span>
+**Luisa Rodriguez - Research Analyst**
 
 <span class="c0"></span>
 
 <span>Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she conducted cost-effectiveness evaluations of nonprofit and government programs at</span> <span class="c22">[ImpactMatters](https://www.google.com/url?q=https://www.impactm.org/&sa=D&ust=1545094466225000)</span><span>,</span> <span class="c22">[Innovations for Poverty Action](https://www.google.com/url?q=https://www.poverty-action.org/&sa=D&ust=1545094466225000)</span><span>, and</span> <span class="c22">[GiveWell](https://www.google.com/url?q=https://www.givewell.org/&sa=D&ust=1545094466226000)</span><span class="c0">.</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 139.50px; height: 139.50px;">![](images/image3.jpg)</span>
-
-<span class="c0"></span>
-
-<span>  
-</span><span class="c29 c26 c1">Saulius Šimčikas - Research Analyst</span>
+**Saulius Šimčikas - Research Analyst**
 
 <span class="c0"></span>
 
 <span>Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at</span> <span class="c22">[Animal Charity Evaluators](https://www.google.com/url?q=https://animalcharityevaluators.org&sa=D&ust=1545094466227000)</span><span class="c0">, organised Effective Altruism events in the UK and Lithuania, and worked as a programmer.</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 146.00px; height: 146.00px;">![](images/image7.jpg)</span>
-
-<span class="c0"></span>
-
-<span class="c0"></span>
-
-<span class="c29 c26 c1">Neil Dullaghan - Junior Research Analyst</span>
-
+**Neil Dullaghan - Junior Research Analyst**
 <span class="c0"></span>
 
 <span>Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for</span> <span class="c22">[Charity Entrepreneurship](https://www.google.com/url?q=http://charityentrepreneurship.com/&sa=D&ust=1545094466228000)</span><span>and</span> <span class="c22">[Animal Charity Evaluators](https://www.google.com/url?q=https://animalcharityevaluators.org&sa=D&ust=1545094466228000)</span><span class="c0">. Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 149.00px; height: 149.00px;">![](images/image5.jpg)</span>
-
-<span class="c0"></span>
-
-<span class="c0"></span>
-
-<span class="c1">Jason Schukraft - Junior Research Analyst</span>
+**Jason Schukraft - Junior Research Analyst**
 
 <span class="c0"></span>
 
@@ -146,11 +98,7 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span class="c0"></span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 146.00px; height: 140.33px;">![](images/image10.jpg)</span>
-
-<span class="c0"></span>
-
-<span class="c29 c26 c1">Daniela R. Waldhorn - Junior Research Analyst</span>
+**Daniela R. Waldhorn - Junior Research Analyst**
 
 <span>Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for</span> <span class="c22">[Animal Ethics](https://www.google.com/url?q=http://www.animal-ethics.org/&sa=D&ust=1545094466230000)</span><span>and for</span> <span class="c22">[Animal Equality](https://www.google.com/url?q=https://animalequality.org/&sa=D&ust=1545094466230000)</span><span class="c0">.</span>
 
