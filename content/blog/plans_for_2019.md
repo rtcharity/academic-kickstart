@@ -10,9 +10,9 @@ type = "post"
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 306.50px; height: 306.50px;">![](images/image4.png)</span>
 
-<span class="c7">The effective altruism movement is allocating hundreds of millions of dollars and</span> <span class="c7">m</span><span class="c7">illions of person hours per year to improve the world</span><span class="c7">.</span><span class="c7"> </span><span class="c2">[R](https://www.google.com/url?q=http://rethinkpriorities.org/&sa=D&ust=1545094466209000)</span><span class="c2">[ethink Priorities](https://www.google.com/url?q=http://rethinkpriorities.org/&sa=D&ust=1545094466209000)</span><span class="c7">is a research organization aimed at uncovering actionable insights across different EA causes, improving</span> <span class="c7">the effectiveness of this time and money</span><span class="c7">.</span> <span class="c7">We’re guided by our</span> <span class="c2">[founding values](https://www.google.com/url?q=http://effective-altruism.com/ea/1ld/announcing_rethink_priorities/&sa=D&ust=1545094466209000)</span><span class="c7">– we care about transparency, tractability, short feedback loops, actionability, and impact assessment.          
+<span class="c7">The effective altruism movement is allocating hundreds of millions of dollars and</span> <span class="c7">m</span><span class="c7">illions of person hours per year to improve the world</span><span class="c7">.</span><span class="c7"> </span><span class="c2">[Rethink Priorities](http://rethinkpriorities.org/)</span><span class="c7"> is a research organization aimed at uncovering actionable insights across different EA causes, improving</span> <span class="c7">the effectiveness of this time and money</span><span class="c7">.</span> <span class="c7">We’re guided by our</span> <span class="c2">[founding values](http://effective-altruism.com/ea/1ld/announcing_rethink_priorities/)</span><span class="c7">– we care about transparency, tractability, short feedback loops, actionability, and impact assessment.          
 
-Rethink Priorities is an independent project of</span> <span class="c2">[Rethink Charity](https://www.google.com/url?q=https://rtcharity.org&sa=D&ust=1545094466210000)</span><span class="c7">,</span> <span>founded in January</span><span> 2018</span><span> by Peter Hurford and Marcus A. Davis to figure out how to better allocate our time and money toward doing more good</span><span>.</span><span>We recently expanded to a team of ten and have an exciting research agenda for 2019\. Our 2019</span> <span>budget</span><span> is $447K (see table below for details) and we are looking to raise $294K more</span><span class="c27">.</span><span> </span><span class="c1">If you’re interested in funding Rethink Priorities, or for more information, email Marcus A. Davis</span><span class="c1 c58"> (</span><span class="c22 c1">[marcus@rtcharity.org](mailto:marcus@rtcharity.org)</span><span class="c39 c26 c1 c50">).</span>
+Rethink Priorities is an independent project of</span> <span class="c2">[Rethink Charity](https://rtcharity.org)</span><span class="c7">,</span> <span>founded in January</span><span> 2018</span><span> by Peter Hurford and Marcus A. Davis to figure out how to better allocate our time and money toward doing more good</span><span>.</span><span>We recently expanded to a team of ten and have an exciting research agenda for 2019\. Our 2019</span> <span>budget</span><span> is $447K (see table below for details) and we are looking to raise $294K more</span><span class="c27">.</span><span> </span><span class="c1">If you’re interested in funding Rethink Priorities, or for more information, email Marcus A. Davis</span><span class="c1 c58"> (</span><span class="c22 c1">[marcus@rtcharity.org](mailto:marcus@rtcharity.org)</span><span class="c39 c26 c1 c50">).</span>
 
 <span class="c1">  
 </span>
@@ -21,19 +21,19 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span class="c0"></span>
 
-<span>In 2018, our priority was</span> <span>our own capacity building</span><span>and learning about how to do good research. We completed a deep dive into</span> <span class="c22">[the cost-effectiveness of vaccines](https://www.google.com/url?q=http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/&sa=D&ust=1545094466212000)</span><span>and</span> <span class="c22">[learned some lessons](https://www.google.com/url?q=http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/&sa=D&ust=1545094466212000)</span><span>about applying cost-effectiveness estimations to domains with high uncertainty. We launched the</span> <span class="c22">[PriorityWiki](https://www.google.com/url?q=http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/&sa=D&ust=1545094466213000)</span><span>(and</span> <span class="c22">[got some press](https://www.google.com/url?q=https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first&sa=D&ust=1545094466213000)</span><span>) to help summarize existing prioritization research.</span> <span>We also finished a large hiring round</span><span class="c0">, hiring seven researchers and creating our research agenda for 2019.</span>
+<span>In 2018, our priority was</span> <span>our own capacity building</span><span>and learning about how to do good research. We completed a deep dive into</span> <span class="c22">[the cost-effectiveness of vaccines](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/)</span><span> and</span> <span class="c22">[learned some lessons](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/)</span><span>about applying cost-effectiveness estimations to domains with high uncertainty. We launched the</span> <span class="c22">[PriorityWiki](http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/)</span><span> (and</span> <span class="c22">[got some press](https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first)</span><span>) to help summarize existing prioritization research.</span> <span>We also finished a large hiring round</span><span class="c0">, hiring seven researchers and creating our research agenda for 2019.</span>
 
 <span class="c0"></span>
 
-<span>We also spent some time analyzing movement building strategy in cooperation with other projects of Rethink Charity. We</span> <span>ran the EA Survey</span><span>and published some of our findings across five posts (e.g.,</span> <span class="c22">[see this one on donation data](https://www.google.com/url?q=https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data&sa=D&ust=1545094466214000)</span><span class="c0">) and expect to finish publishing one more post by the end of the year.</span>
+<span>We also spent some time analyzing movement building strategy in cooperation with other projects of Rethink Charity. We</span> <span>ran the EA Survey</span><span>and published some of our findings across five posts (e.g.,</span> <span class="c22">[see this one on donation data](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data)</span><span class="c0">) and expect to finish publishing one more post by the end of the year.</span>
 
 <span class="c0"></span>
 
-<span>Our 2018 research was mostly (though not exclusively) focused on farmed and wild animal welfare. We commissioned</span> <span class="c22">[a site visit of farming practices in rural Zambia](https://www.google.com/url?q=http://effective-altruism.com/ea/1kz/what_is_animal_farming_in_rural_zambia_like_a/&sa=D&ust=1545094466215000)</span><span>,</span><span>we</span> <span class="c22">[re-analyzed veg outreach studies,](https://www.google.com/url?q=http://effective-altruism.com/ea/1pn/animal_equality_showed_that_advocating_for_diet/&sa=D&ust=1545094466215000)</span><span> and</span><span> </span><span>we</span> <span>collaborated with</span> <span>Animal Charity Evaluators on a detailed report on farmed fish welfare</span><span class="c0"> (publication forthcoming).</span>
+<span>Our 2018 research was mostly (though not exclusively) focused on farmed and wild animal welfare. We commissioned</span> <span class="c22">[a site visit of farming practices in rural Zambia](http://effective-altruism.com/ea/1kz/what_is_animal_farming_in_rural_zambia_like_a/)</span><span>,</span><span> we</span> <span class="c22">[re-analyzed veg outreach studies,](http://effective-altruism.com/ea/1pn/animal_equality_showed_that_advocating_for_diet/)</span><span> and</span><span> </span><span>we</span> <span>collaborated with</span> <span>Animal Charity Evaluators on a detailed report on farmed fish welfare</span><span class="c0"> (publication forthcoming).</span>
 
 <span class="c0"></span>
 
-<span>Finally, we spent a</span> <span>significant amount of time doing thorough research into the invertebrate sentience (following</span> <span class="c22">[Muehlhauser, 2017](https://www.google.com/url?q=https://www.openphilanthropy.org/2017-report-consciousness-and-moral-patienthood&sa=D&ust=1545094466216000)</span><span>, Section 3.2</span><span>)</span><span>, summarizing the academic literature across 15+ kinds of animals and 40+ potentially conscious indicating features,</span><span> with publications expected in early 2019.</span>
+<span>Finally, we spent a</span> <span>significant amount of time doing thorough research into the invertebrate sentience (following</span> <span class="c22">[Muehlhauser, 2017](https://www.openphilanthropy.org/2017-report-consciousness-and-moral-patienthood)</span><span>, Section 3.2</span><span>)</span><span>, summarizing the academic literature across 15+ kinds of animals and 40+ potentially conscious indicating features,</span><span> with publications expected in early 2019.</span>
 
 <span class="c0"></span>
 
@@ -47,48 +47,48 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span class="c0"></span>
 
-<span>Marcus</span> <span>works on Rethink Priorities strategy and oversees research. He previously</span><span> co-founde</span><span>d</span><span> </span><span class="c22">[Charity Science Health](https://www.google.com/url?q=https://www.charitysciencehealth.com/&sa=D&ust=1545094466219000)</span><span>, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science</span><span> Health</span><span>team, he ran Effective Altruism Chicago and worked with</span> <span>Rethink Charity</span><span class="c0"> coordinating outreach to local EA groups around the globe.</span>
+<span>Marcus</span> <span>works on Rethink Priorities strategy and oversees research. He previously</span><span> co-founde</span><span>d</span><span> </span><span class="c22">[Charity Science Health](https://www.charitysciencehealth.com/)</span><span>, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science</span><span> Health</span><span>team, he ran Effective Altruism Chicago and worked with</span> <span>Rethink Charity</span><span class="c0"> coordinating outreach to local EA groups around the globe.</span>
 
 **Peter Hurford - Lead Researcher**
 
 <span class="c0"></span>
 
-<span>Peter</span> <span>works on Rethink Priorities strategy and oversees research. He also</span> <span>is a Data Scientist at DataRobot. He co-founded Rethink Charity, and is on the board of Charity Science</span><span> Health</span><span>and</span> <span class="c22">[Animal Charity Evaluators](https://www.google.com/url?q=http://animalcharityevaluators.org&sa=D&ust=1545094466220000)</span><span class="c0">. He has reviewed and produced research on cause prioritization and effective altruism since 2013\.</span>
+<span>Peter</span> <span>works on Rethink Priorities strategy and oversees research. He also</span> <span>is a Data Scientist at DataRobot. He co-founded Rethink Charity, and is on the board of Charity Science</span><span> Health</span><span> and</span> <span class="c22">[Animal Charity Evaluators](http://animalcharityevaluators.org)</span><span class="c0">. He has reviewed and produced research on cause prioritization and effective altruism since 2013\.</span>
 
 **David Moss - Senior Research Analyst**
 
 <span class="c0"></span>
 
-<span>D</span><span>avid Moss is Director of Research for all of Rethink Charity, focusing on measurement and evaluation. He</span> <span>also works as a Research Analyst at</span> <span class="c22">[Charity Entrepreneurship](https://www.google.com/url?q=http://charityentrepreneurship.com&sa=D&ust=1545094466222000)</span><span class="c0">. David studied Philosophy at Cambridge and is an academic researcher of moral psychology.</span>
+<span>D</span><span>avid Moss is Director of Research for all of Rethink Charity, focusing on measurement and evaluation. He</span> <span>also works as a Research Analyst at</span> <span class="c22">[Charity Entrepreneurship](http://charityentrepreneurship.com)</span><span class="c0">. David studied Philosophy at Cambridge and is an academic researcher of moral psychology.</span>
 
 **Kim Cuddington - Research Analyst**
 
 <span class="c0"></span>
 
-<span>Kim Cuddington</span><span> is a Research Analyst at Rethink Priorities. She has a PhD in ecology with a background in mathematical modeling. She is an academic researcher of population ecology</span><span>at</span> <span class="c22">[the University of Waterloo](https://www.google.com/url?q=https://uwaterloo.ca/biology/people-profiles/kim-md-cuddington&sa=D&ust=1545094466223000)</span><span class="c0">.</span>
+<span>Kim Cuddington</span><span> is a Research Analyst at Rethink Priorities. She has a PhD in ecology with a background in mathematical modeling. She is an academic researcher of population ecology</span><span>at</span> <span class="c22">[the University of Waterloo](https://uwaterloo.ca/biology/people-profiles/kim-md-cuddington)</span><span class="c0">.</span>
 
 **Derek Foster - Research Analyst**
 
 <span class="c0"></span>
 
-<span>Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the</span> <span class="c22">[Global Happiness Policy Report](https://www.google.com/url?q=http://www.happinesscouncil.org/&sa=D&ust=1545094466224000)</span><span class="c0"> and various other projects related to global health, education, and subjective well-being.</span>
+<span>Derek is a Research Analyst at Rethink Priorities. He studied philosophy and politics as an undergraduate, followed by public health and health economics at master’s level. Before joining RP, Derek worked on the</span> <span class="c22">[Global Happiness Policy Report](http://www.happinesscouncil.org/)</span><span class="c0"> and various other projects related to global health, education, and subjective well-being.</span>
 
 **Luisa Rodriguez - Research Analyst**
 
 <span class="c0"></span>
 
-<span>Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she conducted cost-effectiveness evaluations of nonprofit and government programs at</span> <span class="c22">[ImpactMatters](https://www.google.com/url?q=https://www.impactm.org/&sa=D&ust=1545094466225000)</span><span>,</span> <span class="c22">[Innovations for Poverty Action](https://www.google.com/url?q=https://www.poverty-action.org/&sa=D&ust=1545094466225000)</span><span>, and</span> <span class="c22">[GiveWell](https://www.google.com/url?q=https://www.givewell.org/&sa=D&ust=1545094466226000)</span><span class="c0">.</span>
+<span>Luisa Rodriguez is a Research Analyst at Rethink Priorities. Previously, she conducted cost-effectiveness evaluations of nonprofit and government programs at</span> <span class="c22">[ImpactMatters](https://www.impactm.org/)</span><span>,</span> <span class="c22">[Innovations for Poverty Action](https://www.poverty-action.org/)</span><span>, and</span> <span class="c22">[GiveWell](https://www.givewell.org/)</span><span class="c0">.</span>
 
 **Saulius Šimčikas - Research Analyst**
 
 <span class="c0"></span>
 
-<span>Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at</span> <span class="c22">[Animal Charity Evaluators](https://www.google.com/url?q=https://animalcharityevaluators.org&sa=D&ust=1545094466227000)</span><span class="c0">, organised Effective Altruism events in the UK and Lithuania, and worked as a programmer.</span>
+<span>Saulius is a Research Analyst at Rethink Priorities. Previously, he was a research intern at</span> <span class="c22">[Animal Charity Evaluators](https://animalcharityevaluators.org)</span><span class="c0">, organised Effective Altruism events in the UK and Lithuania, and worked as a programmer.</span>
 
 **Neil Dullaghan - Junior Research Analyst**
 <span class="c0"></span>
 
-<span>Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for</span> <span class="c22">[Charity Entrepreneurship](https://www.google.com/url?q=http://charityentrepreneurship.com/&sa=D&ust=1545094466228000)</span><span>and</span> <span class="c22">[Animal Charity Evaluators](https://www.google.com/url?q=https://animalcharityevaluators.org&sa=D&ust=1545094466228000)</span><span class="c0">. Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.</span>
+<span>Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for</span> <span class="c22">[Charity Entrepreneurship](http://charityentrepreneurship.com/)</span><span>and</span> <span class="c22">[Animal Charity Evaluators](https://animalcharityevaluators.org)</span><span class="c0">. Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.</span>
 
 **Jason Schukraft - Junior Research Analyst**
 
@@ -100,7 +100,7 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 **Daniela R. Waldhorn - Junior Research Analyst**
 
-<span>Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for</span> <span class="c22">[Animal Ethics](https://www.google.com/url?q=http://www.animal-ethics.org/&sa=D&ust=1545094466230000)</span><span>and for</span> <span class="c22">[Animal Equality](https://www.google.com/url?q=https://animalequality.org/&sa=D&ust=1545094466230000)</span><span class="c0">.</span>
+<span>Daniela is a Junior Research Analyst at Rethink Priorities. She is a PhD candidate in Social Psychology, and has a background in management and operations. Before joining RP, Daniela worked for</span> <span class="c22">[Animal Ethics](http://www.animal-ethics.org/)</span><span>and for</span> <span class="c22">[Animal Equality](https://animalequality.org/)</span><span class="c0">.</span>
 
 <span class="c0"></span>
 
@@ -123,7 +123,7 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 <span>Projects we may take on in 2019 potentially include:  
 </span>
 
-*   <span class="c1">Analysis of the impact of ballot initiatives for animal welfare</span><span class="c1"> </span><span>- Ballot initiatives to improve animal welfare have racked up recent wins, such as</span> <span class="c22">[Massachusetts’s Question 3 (2016)](https://www.google.com/url?q=https://ballotpedia.org/Massachusetts_Minimum_Size_Requirements_for_Farm_Animal_Containment,_Question_3_(2016)&sa=D&ust=1545094466234000)</span><span>and</span> <span class="c22">[California’s Proposition 12 (2018)](https://www.google.com/url?q=https://en.wikipedia.org/wiki/2008_California_Proposition_2&sa=D&ust=1545094466234000)</span><span>, as well as</span> <span class="c22">[California’s Proposition 2 (2008)](https://www.google.com/url?q=https://ballotpedia.org/California_Proposition_12,_Farm_Animal_Confinement_Initiative_(2018)&sa=D&ust=1545094466235000)</span><span>. We’re going to explore the cost-effectiveness of these results both qualitatively and with quantitative econometric models.</span> <span>We’</span><span>ll</span><span class="c0"> these models to identify the most promising future opportunities, which could help identify good funding opportunities for the 2020 election.</span>
+*   <span class="c1">Analysis of the impact of ballot initiatives for animal welfare</span><span class="c1"> </span><span>- Ballot initiatives to improve animal welfare have racked up recent wins, such as</span> <span class="c22">[Massachusetts’s Question 3 (2016)](https://ballotpedia.org/Massachusetts_Minimum_Size_Requirements_for_Farm_Animal_Containment,_Question_3_(2016)) and</span> <span class="c22">[California’s Proposition 12 (2018)](https://en.wikipedia.org/wiki/2008_California_Proposition_2)</span><span>, as well as</span> <span class="c22">[California’s Proposition 2 (2008)](https://ballotpedia.org/California_Proposition_12,_Farm_Animal_Confinement_Initiative_(2018))</span><span>. We’re going to explore the cost-effectiveness of these results both qualitatively and with quantitative econometric models.</span> <span>We’</span><span>ll</span><span class="c0"> these models to identify the most promising future opportunities, which could help identify good funding opportunities for the 2020 election.</span>
 
 <span class="c0"></span>
 
@@ -135,7 +135,7 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span class="c0"></span>
 
-*   <span class="c1">Do</span><span class="c1">ing</span><span class="c1">surveys and polling</span> <span>- We think better understanding public attitudes could be key to identifying and understanding effective behavioral or policy change.</span> <span>We</span><span> plan</span><span> to run multiple surveys</span><span>, such as analyzing reasons people become vegetarian to better understand the potential for individual diet change, understanding public interest (if any) in banning slaughterhouses (following up</span> <span class="c22">[Sentience Institute (2017)](https://www.google.com/url?q=https://www.sentienceinstitute.org/animal-farming-attitudes-survey-2017&sa=D&ust=1545094466238000)</span><span>). We’d also r</span><span>un polls to identify popular, cost-effective policies</span><span> that could potentially be implemented via ballot measures or lobbying governments (</span><span>we’ve identified a pollster who may collaborate with us quite inexpensively</span><span>). Lastly, we’d like to u</span><span>nderstand how EAs think about ethics, collaborating with EA Foundation</span><span>on their</span> <span class="c22">[descriptive ethics research](https://www.google.com/url?q=https://forum.effectivealtruism.org/posts/CmNBmSf6xtMyYhvcs/descriptive-population-ethics-and-its-relevance-for-cause&sa=D&ust=1545094466239000)</span><span>.</span>
+*   <span class="c1">Do</span><span class="c1">ing</span><span class="c1">surveys and polling</span> <span>- We think better understanding public attitudes could be key to identifying and understanding effective behavioral or policy change.</span> <span>We</span><span> plan</span><span> to run multiple surveys</span><span>, such as analyzing reasons people become vegetarian to better understand the potential for individual diet change, understanding public interest (if any) in banning slaughterhouses (following up</span> <span class="c22">[Sentience Institute (2017)](https://www.sentienceinstitute.org/animal-farming-attitudes-survey-2017)</span><span>). We’d also r</span><span>un polls to identify popular, cost-effective policies</span><span> that could potentially be implemented via ballot measures or lobbying governments (</span><span>we’ve identified a pollster who may collaborate with us quite inexpensively</span><span>). Lastly, we’d like to u</span><span>nderstand how EAs think about ethics, collaborating with EA Foundation</span><span>on their</span> <span class="c22">[descriptive ethics research](https://forum.effectivealtruism.org/posts/CmNBmSf6xtMyYhvcs/descriptive-population-ethics-and-its-relevance-for-cause)</span><span>.</span>
 
 <span class="c0"></span>
 
@@ -420,7 +420,7 @@ Of course, we can’t do this without money! Our 2019 budget is ~$447K:</span>
 
 <td class="c18" colspan="1" rowspan="1">
 
-<span class="c1 c13">[E](https://www.google.com/url?q=https://app.effectivealtruism.org/funds/animal-welfare/payouts/4Bianu30diUQeWGU2Oiq8E&sa=D&ust=1545094466257000)</span><span class="c13 c1">[A Animal Welfare Fund (June 2018)](https://www.google.com/url?q=https://app.effectivealtruism.org/funds/animal-welfare/payouts/4Bianu30diUQeWGU2Oiq8E&sa=D&ust=1545094466257000)</span>
+<span class="c1 c13">[E](https://app.effectivealtruism.org/funds/animal-welfare/payouts/4Bianu30diUQeWGU2Oiq8E)</span><span class="c13 c1">[A Animal Welfare Fund (June 2018)](https://app.effectivealtruism.org/funds/animal-welfare/payouts/4Bianu30diUQeWGU2Oiq8E)</span>
 
 </td>
 
@@ -442,7 +442,7 @@ Of course, we can’t do this without money! Our 2019 budget is ~$447K:</span>
 
 <td class="c18" colspan="1" rowspan="1">
 
-<span class="c13 c1">[Effective Altruism Foundation](https://www.google.com/url?q=https://ea-foundation.org/eaf-fund/&sa=D&ust=1545094466259000)</span>
+<span class="c13 c1">[Effective Altruism Foundation](https://ea-foundation.org/eaf-fund/)</span>
 
 </td>
 
@@ -464,7 +464,7 @@ Of course, we can’t do this without money! Our 2019 budget is ~$447K:</span>
 
 <td class="c18" colspan="1" rowspan="1">
 
-<span class="c13 c1">[EA Animal Welfare Fund (Dec 2018)](https://www.google.com/url?q=https://app.effectivealtruism.org/funds/animal-welfare/payouts/2uyvubn8KUCoqOQS6A4ayW&sa=D&ust=1545094466260000)</span>
+<span class="c13 c1">[EA Animal Welfare Fund (Dec 2018)](https://app.effectivealtruism.org/funds/animal-welfare/payouts/2uyvubn8KUCoqOQS6A4ayW)</span>
 
 </td>
 
@@ -552,7 +552,7 @@ Of course, we can’t do this without money! Our 2019 budget is ~$447K:</span>
 
 ## <span>Fungibility</span>
 
-<span>While we are a project of</span> <span class="c22">[Rethink Charity](https://www.google.com/url?q=https://rtcharity.org/&sa=D&ust=1545094466265000)</span><span>, we maintain an entirely separate budget and fundraise separately. All funding specifically earmarked to Rethink Priorities will be used for Rethink Priorities research only and will not</span> <span>be used</span><span class="c0"> for other Rethink Charity projects.</span>
+<span>While we are a project of</span> <span class="c22">[Rethink Charity](https://rtcharity.org/)</span><span>, we maintain an entirely separate budget and fundraise separately. All funding specifically earmarked to Rethink Priorities will be used for Rethink Priorities research only and will not</span> <span>be used</span><span class="c0"> for other Rethink Charity projects.</span>
 
 <span class="c0"></span>
 
