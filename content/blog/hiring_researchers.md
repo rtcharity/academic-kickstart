@@ -10,6 +10,8 @@ preview = true
 
 +++
 
+## Applications are now closed
+
 We're excited to announce we are looking to hire junior and senior researchers. We think our research is well-placed to make a difference and we’re looking for part-time and full-time researchers to help us do new research to dramatically improve this impact throughout the effective altruism movement.
 
 
