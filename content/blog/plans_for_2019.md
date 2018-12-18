@@ -12,7 +12,7 @@ type = "post"
 
 <span class="c7">The effective altruism movement is allocating hundreds of millions of dollars and</span> <span class="c7">m</span><span class="c7">illions of person hours per year to improve the world</span><span class="c7">.</span><span class="c7"> </span><span class="c2">[Rethink Priorities](http://rethinkpriorities.org/)</span><span class="c7"> is a research organization aimed at uncovering actionable insights across different EA causes, improving</span> <span class="c7">the effectiveness of this time and money</span><span class="c7">.</span> <span class="c7">We’re guided by our</span> <span class="c2">[founding values](http://effective-altruism.com/ea/1ld/announcing_rethink_priorities/)</span><span class="c7">– we care about transparency, tractability, short feedback loops, actionability, and impact assessment.          
 
-Rethink Priorities is an independent project of</span> <span class="c2">[Rethink Charity](https://rtcharity.org)</span><span class="c7">,</span> <span>founded in January</span><span> 2018</span><span> by Peter Hurford and Marcus A. Davis to figure out how to better allocate our time and money toward doing more good</span><span>.</span><span>We recently expanded to a team of ten and have an exciting research agenda for 2019\. Our 2019</span> <span>budget</span><span> is $447K (see table below for details) and we are looking to raise $294K more</span><span class="c27">.</span><span> </span><span class="c1">If you’re interested in funding Rethink Priorities, or for more information, email Marcus A. Davis</span><span class="c1 c58"> (</span><span class="c22 c1">[marcus@rtcharity.org](mailto:marcus@rtcharity.org)</span><span class="c39 c26 c1 c50">).</span>
+Rethink Priorities is an independent project of</span> <span class="c2">[Rethink Charity](https://rtcharity.org)</span><span class="c7">,</span> <span>founded in January</span><span> 2018</span><span> by Peter Hurford and Marcus A. Davis to figure out how to better allocate our time and money toward doing more good</span><span>.</span><span> We recently expanded to a team of ten and have an exciting research agenda for 2019\. Our 2019</span> <span>budget</span><span> is $447K (see table below for details) and we are looking to raise $294K more</span><span class="c27">.</span><span> </span><span class="c1">If you’re interested in funding Rethink Priorities, or for more information, email Marcus A. Davis</span><span class="c1 c58"> (</span><span class="c22 c1">[marcus@rtcharity.org](mailto:marcus@rtcharity.org)</span><span class="c39 c26 c1 c50">).</span>
 
 <span class="c1">  
 </span>
@@ -21,11 +21,11 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span class="c0"></span>
 
-<span>In 2018, our priority was</span> <span>our own capacity building</span><span>and learning about how to do good research. We completed a deep dive into</span> <span class="c22">[the cost-effectiveness of vaccines](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/)</span><span> and</span> <span class="c22">[learned some lessons](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/)</span><span>about applying cost-effectiveness estimations to domains with high uncertainty. We launched the</span> <span class="c22">[PriorityWiki](http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/)</span><span> (and</span> <span class="c22">[got some press](https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first)</span><span>) to help summarize existing prioritization research.</span> <span>We also finished a large hiring round</span><span class="c0">, hiring seven researchers and creating our research agenda for 2019.</span>
+<span>In 2018, our priority was</span> <span>our own capacity building</span><span> and learning about how to do good research. We completed a deep dive into</span> <span class="c22">[the cost-effectiveness of vaccines](http://effective-altruism.com/ea/1o6/what_is_the_costeffectiveness_of_researching/)</span><span> and</span> <span class="c22">[learned some lessons](http://effective-altruism.com/ea/1pk/lessons_for_estimating_costeffectiveness_of/)</span><span> about applying cost-effectiveness estimations to domains with high uncertainty. We launched the</span> <span class="c22">[PriorityWiki](http://effective-altruism.com/ea/1q6/announcing_prioritywiki_a_cause_prioritization/)</span><span> (and</span> <span class="c22">[got some press](https://www.fastcompany.com/90209551/this-website-works-to-decide-which-global-issues-need-fixing-first)</span><span>) to help summarize existing prioritization research.</span> <span>We also finished a large hiring round</span><span class="c0">, hiring seven researchers and creating our research agenda for 2019.</span>
 
 <span class="c0"></span>
 
-<span>We also spent some time analyzing movement building strategy in cooperation with other projects of Rethink Charity. We</span> <span>ran the EA Survey</span><span>and published some of our findings across five posts (e.g.,</span> <span class="c22">[see this one on donation data](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data)</span><span class="c0">) and expect to finish publishing one more post by the end of the year.</span>
+<span>We also spent some time analyzing movement building strategy in cooperation with other projects of Rethink Charity. We</span> <span>ran the EA Survey</span><span> and published some of our findings across five posts (e.g.,</span> <span class="c22">[see this one on donation data](https://forum.effectivealtruism.org/posts/SnE9FpArs2uXJsRtB/ea-survey-2018-series-donation-data)</span><span class="c0">) and expect to finish publishing one more post by the end of the year.</span>
 
 <span class="c0"></span>
 
@@ -47,7 +47,7 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span class="c0"></span>
 
-<span>Marcus</span> <span>works on Rethink Priorities strategy and oversees research. He previously</span><span> co-founde</span><span>d</span><span> </span><span class="c22">[Charity Science Health](https://www.charitysciencehealth.com/)</span><span>, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science</span><span> Health</span><span>team, he ran Effective Altruism Chicago and worked with</span> <span>Rethink Charity</span><span class="c0"> coordinating outreach to local EA groups around the globe.</span>
+<span>Marcus</span> <span>works on Rethink Priorities strategy and oversees research. He previously</span><span> co-founde</span><span>d</span><span> </span><span class="c22">[Charity Science Health](https://www.charitysciencehealth.com/)</span><span>, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science</span><span> Health</span><span> team, he ran Effective Altruism Chicago and worked with</span> <span>Rethink Charity</span><span class="c0"> coordinating outreach to local EA groups around the globe.</span>
 
 **Peter Hurford - Lead Researcher**
 
@@ -88,7 +88,7 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 **Neil Dullaghan - Junior Research Analyst**
 <span class="c0"></span>
 
-<span>Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for</span> <span class="c22">[Charity Entrepreneurship](http://charityentrepreneurship.com/)</span><span>and</span> <span class="c22">[Animal Charity Evaluators](https://animalcharityevaluators.org)</span><span class="c0">. Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.</span>
+<span>Neil is a Junior Research Analyst at Rethink Priorities. He also volunteers for</span> <span class="c22">[Charity Entrepreneurship](http://charityentrepreneurship.com/)</span><span> and</span> <span class="c22">[Animal Charity Evaluators](https://animalcharityevaluators.org)</span><span class="c0">. Before joining RP, Neil worked as a data manager for an online voter platform and has an academic background in Political Science.</span>
 
 **Jason Schukraft - Junior Research Analyst**
 
@@ -135,420 +135,41 @@ Rethink Priorities is an independent project of</span> <span class="c2">[Rethink
 
 <span class="c0"></span>
 
-*   <span class="c1">**Do</span><span class="c1">ing</span><span class="c1">surveys and polling**</span> <span>- We think better understanding public attitudes could be key to identifying and understanding effective behavioral or policy change.</span> <span>We</span><span> plan</span><span> to run multiple surveys</span><span>, such as analyzing reasons people become vegetarian to better understand the potential for individual diet change, understanding public interest (if any) in banning slaughterhouses (following up</span> <span class="c22">[Sentience Institute (2017)](https://www.sentienceinstitute.org/animal-farming-attitudes-survey-2017)</span><span>). We’d also r</span><span>un polls to identify popular, cost-effective policies</span><span> that could potentially be implemented via ballot measures or lobbying governments (</span><span>we’ve identified a pollster who may collaborate with us quite inexpensively</span><span>). Lastly, we’d like to u</span><span>nderstand how EAs think about ethics, collaborating with EA Foundation</span><span>on their</span> <span class="c22">[descriptive ethics research](https://forum.effectivealtruism.org/posts/CmNBmSf6xtMyYhvcs/descriptive-population-ethics-and-its-relevance-for-cause)</span><span>.</span>
+*   <span class="c1">**Do</span><span class="c1">ing</span><span class="c1"> surveys and polling**</span> <span>- We think better understanding public attitudes could be key to identifying and understanding effective behavioral or policy change.</span> <span>We</span><span> plan</span><span> to run multiple surveys</span><span>, such as analyzing reasons people become vegetarian to better understand the potential for individual diet change, understanding public interest (if any) in banning slaughterhouses (following up</span> <span class="c22">[Sentience Institute (2017)](https://www.sentienceinstitute.org/animal-farming-attitudes-survey-2017)</span><span>). We’d also r</span><span>un polls to identify popular, cost-effective policies</span><span> that could potentially be implemented via ballot measures or lobbying governments (</span><span>we’ve identified a pollster who may collaborate with us quite inexpensively</span><span>). Lastly, we’d like to u</span><span>nderstand how EAs think about ethics, collaborating with EA Foundation</span><span>on their</span> <span class="c22">[descriptive ethics research](https://forum.effectivealtruism.org/posts/CmNBmSf6xtMyYhvcs/descriptive-population-ethics-and-its-relevance-for-cause)</span><span>.</span>
 
 <span class="c0"></span>
 
-*   <span class="c1">**Understand</span><span class="c1">ing</span><span class="c1">EA movement growth**</span> <span>- We’d like to run the EA Survey again in 2019.</span><span> We also will continue collaborating with the Local Effective Altruism Network, a fellow project of Rethink Charity, in understanding the effectiveness of current movement building initiatives and what makes movement building initiatives more successful.</span>
+*   <span class="c1">**Understand</span><span class="c1">ing</span><span class="c1"> EA movement growth**</span> <span>- We’d like to run the EA Survey again in 2019.</span><span> We also will continue collaborating with the Local Effective Altruism Network, a fellow project of Rethink Charity, in understanding the effectiveness of current movement building initiatives and what makes movement building initiatives more successful.</span>
 
 <span class="c0"></span>
 
-*   <span class="c1">**Understanding mental health</span><span class="c1">interventions**</span> <span>- We’d like to understand if we can rely on</span> <span>$/DALY</span><span> or $/QALY metrics</span><span> to capture mental health benefits or, if not, if there is a better cost-effectiveness metric that better captures mental health benefits.</span><span class="c0"> Once we have a good framework for prioritizing mental health, we’d like to see if we can identify any mental health opportunities that are competitive with other EA opportunities.</span>
+*   <span class="c1">**Understanding mental health</span><span class="c1"> interventions**</span> <span>- We’d like to understand if we can rely on</span> <span>$/DALY</span><span> or $/QALY metrics</span><span> to capture mental health benefits or, if not, if there is a better cost-effectiveness metric that better captures mental health benefits.</span><span class="c0"> Once we have a good framework for prioritizing mental health, we’d like to see if we can identify any mental health opportunities that are competitive with other EA opportunities.</span>
 
 <span class="c0"></span>
 
-*   <span class="c1">**Analysis of</span><span class="c1"> </span><span class="c1">c</span><span class="c1">atastrophic</span> <span class="c1">r</span><span class="c1">isk</span> <span class="c1">r</span><span class="c1">eduction**</span> <span>- We’d like to start learning how to do work in th</span><span>e</span><span>s</span><span>e</span><span> area</span><span>s</span><span>. We’re intending to start with shallow review</span><span>s</span><span>on</span> <span>organizations dedicated to nuclear de-proliferation</span><span>. We’d also like to see if we can apply insurance risk forecasting</span> <span>techniques</span> <span class="c0">to inform estimates of catastrophic risk.</span>
+*   <span class="c1">**Analysis of</span><span class="c1"> </span><span class="c1">c</span><span class="c1">atastrophic</span> <span class="c1">r</span><span class="c1">isk</span> <span class="c1">r</span><span class="c1">eduction**</span> <span>- We’d like to start learning how to do work in th</span><span>e</span><span>s</span><span>e</span><span> area</span><span>s</span><span>. We’re intending to start with shallow review</span><span>s</span><span> on</span> <span>organizations dedicated to nuclear de-proliferation</span><span>. We’d also like to see if we can apply insurance risk forecasting</span> <span>techniques</span> <span class="c0">to inform estimates of catastrophic risk.</span>
 
 <span class="c0"></span>
 
 <span>While this list is not meant to be a definitive look at which projects we will actually complete in 2019, it represents our broad priorities. As such, our work will span multiple domains, but we intend to focus the majority of our time on animal welfare</span><span>.</span><span class="c0"> </span>
 
 ## <span>  
-</span><span>2019</span> <span>Goals and Measuring Progress</span><span>  
+## </span><span>2019</span> <span>Goals and Measuring Progress</span><span>  
 
 </span><span class="c26">We see our primary means of impact as influencing and informing the effective altruism movement. Our 2019 goal is to establish ourselves as an effective altruism research organization with a path toward influencing key donors and decision-makers, especially in the animal advocacy space. While the hope is that research we do may uncover important interventions that could absorb millions of dollars in funding, we’d like to start in 2019 simply by ensuring that at least four people or institutions grantin</span><span class="c26">g</span> <span class="c26">at least $50,000 in 2019 each cite our research as a factor in their decision-making. We also</span> <span class="c26">intend to annually run a formal survey to discover if our target audience of large-scale donors has read our work and if it has influenced their decision-making.</span><span class="c26">  
 
 </span><span>  
-</span><span class="c29 c33 c38">Fundraising</span>
+## </span><span class="c29 c33 c38">Fundraising</span>
+ 
+Of course, we can’t do this without money! Our 2019 budget is ~$447K:
 
-<span class="c0">  
-Of course, we can’t do this without money! Our 2019 budget is ~$447K:</span>
 
-<span class="c17"></span>
-
-<a id="t.7bf8a1f4dc66c2d350835e4717b7bc5a4211e441"></a><a id="t.0"></a>
-
-<table class="c42">
-
-<tbody>
-
-<tr class="c12">
-
-<td class="c36" colspan="2" rowspan="1">
-
-<span class="c1 c46">                    Rethink Priorities  2019 Budget</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c11">$447,425</span>
-
-</td>
-
-</tr>
-
-<tr class="c49">
-
-<td class="c37" colspan="3" rowspan="1">
-
-### <span class="c1 c14">Itemized Budget for 2019</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Manager Salaries</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c4">Peter, Marcus, and David’s combined salaries</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c23">$65,570</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Staff Salaries</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c4">Three full-time and four part-time staff</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$209,855</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Human Resources</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c23">Office, co-working, personnel relocation, conferences,</span> <span class="c23">team-building events</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$32,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Operations</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c4">RP share of Rethink Charity operations staff costs</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$16,928</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Tech Expenses</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c4">Domain registrations, service subscriptions, etc.</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$522</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Project Costs</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c4">Costs of running currently planned projects, such as recruiting participants across multiple surveys</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$25,550</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Ipsos Panels</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c4">Costs of scaling up our survey research onto nationally representative survey samples</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$22,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c16" colspan="1" rowspan="1">
-
-<span class="c6 c1">Contingency</span>
-
-</td>
-
-<td class="c19" colspan="1" rowspan="1">
-
-<span class="c4">Unanticipated organizational costs or further expansion</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c23">$75,000</span>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<span class="c17"></span>
-
-<span class="c17"></span>
+<img src="/img/budget_2019.png"><br>
 
 <span>But thanks to generous funders, so far we’ve already raised ~$153K, thus making our funding needs ~$294K for 2019:</span>
 
-### <span class="c14 c1 c39">2019 Money Raised So Far (Total: $153,416)</span>
+<img src="/img/funding_so_far_2019.png"><br>
 
-<span class="c17"></span>
-
-<a id="t.ba2db623c8fcee5f8ac34b618780fd7fae308e77"></a><a id="t.1"></a>
-
-<table class="c42">
-
-<tbody>
-
-<tr class="c28">
-
-<td class="c18" colspan="1" rowspan="1">
-
-<span class="c6 c1">Initial Self-Funding</span>
-
-</td>
-
-<td class="c20" colspan="1" rowspan="1">
-
-<span class="c4">Unrestricted</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$6,567 leftover</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c18" colspan="1" rowspan="1">
-
-<span class="c1 c13">[E](https://app.effectivealtruism.org/funds/animal-welfare/payouts/4Bianu30diUQeWGU2Oiq8E)</span><span class="c13 c1">[A Animal Welfare Fund (June 2018)](https://app.effectivealtruism.org/funds/animal-welfare/payouts/4Bianu30diUQeWGU2Oiq8E)</span>
-
-</td>
-
-<td class="c20" colspan="1" rowspan="1">
-
-<span class="c23">Research</span><span class="c23"> on</span><span class="c4"> farmed and wild animal welfare</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$20,849 leftover</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c18" colspan="1" rowspan="1">
-
-<span class="c13 c1">[Effective Altruism Foundation](https://ea-foundation.org/eaf-fund/)</span>
-
-</td>
-
-<td class="c20" colspan="1" rowspan="1">
-
-<span class="c4">Research on Descriptive Ethics and Wild Animal Welfare</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$26,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c18" colspan="1" rowspan="1">
-
-<span class="c13 c1">[EA Animal Welfare Fund (Dec 2018)](https://app.effectivealtruism.org/funds/animal-welfare/payouts/2uyvubn8KUCoqOQS6A4ayW)</span>
-
-</td>
-
-<td class="c20" colspan="1" rowspan="1">
-
-<span class="c23">Research</span><span class="c23"> on farmed and wild animal welfare</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$75,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c18" colspan="1" rowspan="1">
-
-<span class="c6 c1">Anonymous EA Individual</span>
-
-</td>
-
-<td class="c20" colspan="1" rowspan="1">
-
-<span class="c4">Unrestricted</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">$25,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c56" colspan="1" rowspan="1">
-
-<span class="c1 c6"></span>
-
-</td>
-
-<td class="c40" colspan="1" rowspan="1">
-
-<span class="c4"></span>
-
-</td>
-
-<td class="c25" colspan="1" rowspan="1">
-
-<span class="c4"></span>
-
-</td>
-
-</tr>
-
-<tr class="c28">
-
-<td class="c36" colspan="2" rowspan="1">
-
-<span class="c46 c1">R</span><span class="c46 c1">emaining Funding Gap</span>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c11">$294,009</span>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<span class="c29 c26 c1"></span>
-
-<span class="c29 c26 c1"></span>
 
 ## <span>Fungibility</span>
 
@@ -566,4 +187,4 @@ Of course, we can’t do this without money! Our 2019 budget is ~$447K:</span>
 
 <span class="c0"></span>
 
-<span>If you’d like to fund</span> <span>important</span><span>research into farmed animal welfare, wild animal welfare, EA movement building, mental health,</span> <span>reducing catastrophic risks</span><span>, or something else, please contact</span> <span class="c1">Marcus A. Davis (</span><span class="c22 c1">[marcus@rtcharity.org](mailto:marcus@rtcharity.org)</span><span class="c1">).</span>
+<span>If you’d like to fund</span> <span>important</span><span> research into farmed animal welfare, wild animal welfare, EA movement building, mental health,</span> <span>reducing catastrophic risks</span><span>, or something else, please contact</span> <span class="c1">Marcus A. Davis (</span><span class="c22 c1">[marcus@rtcharity.org](mailto:marcus@rtcharity.org)</span><span class="c1">).</span>
