@@ -24,12 +24,11 @@ In doing this research, we focus on the following principles:
 
 * __Shutting the project down if it doesn’t generate impact__ to avoid wasting our time and effort. If our work isn’t helping others make better decisions, we should try something else. We currently do not believe this is a likely outcome in the next year, but remain committed to re-evaluating.
 
-This work is currently led by Marcus A. Davis and Peter Hurford, with Marcus working full-time and Peter working part-time.  For more information about their backgrounds, see our [team page]({{< ref "/team/staff.md" >}}).
+This work is currently led by Marcus A. Davis and Peter Hurford, and a team of eight other researchers.  For more information about our team and their backgrounds, see our [team page]({{< ref "/team/staff.md" >}}).
 
 Right now, our research agenda is focused on:
 
-* trying to learn how to apply cost-effectiveness frameworks to uncertain domains. (As an example, see our first post on [vaccine research and development](http://effective-altruism.com/ea/1c5/how_long_does_it_take_to_research_and_develop_a/)
 * prioritization and research work within interventions aimed at nonhuman animals (as research progress here looks uniquely tractable compared to other cause areas)
-* assisting [LEAN](https://rtcharity.org/lean/) and [SHIC](https://shicschools.org/) in gathering evidence about EA movement building (as research here looks tractable and neglected)
+* understanding EA movement growth by running the EA Survey and assisting [LEAN](https://rtcharity.org/lean/) and [SHIC](https://shicschools.org/) in gathering evidence about EA movement building (as research here looks tractable and neglected)
 
 Our research agenda and approach are still in the very early stages and may change significantly as we grow and learn.
