@@ -22,7 +22,7 @@ In doing this research, we focus on the following principles:
 
 * __Tracking the impact of our research__ to help us make key decisions. We have plans to do follow-up reviews on all our research, including surveys to determine the influence of the research.
 
-* __Shutting the project down if it doesn’t generate impact__ to avoid wasting our time and effort. We are pre-committing to an initial six month test phase and pivoting as necessary. We will completely shut down if there’s no discernable impact within the first year. If our work isn’t helping others make better decisions, we should try something else.
+* __Shutting the project down if it doesn’t generate impact__ to avoid wasting our time and effort. If our work isn’t helping others make better decisions, we should try something else. We currently do not believe this is a likely outcome in the next year, but remain committed to re-evaluating.
 
 This work is currently led by Marcus A. Davis and Peter Hurford, with Marcus working full-time and Peter working part-time.  For more information about their backgrounds, see our [team page]({{< ref "/team/staff.md" >}}).
 
