@@ -7,7 +7,7 @@ preview = true
 type = "post"
 
 author = "Jason Schukraft"
-tags = ["animals", "invertebrates"]
+tags = ["animals", "invertebrates", "Jason Schukraft", "Max Carpendale"]
 categories = ["animals", "invertebrates"]
 
 +++
