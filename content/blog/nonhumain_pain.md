@@ -200,110 +200,110 @@ J.P. Andrew, Elijah Armstrong, Kim Cuddington, Marcus A. Davis, Neil Dullaghan, 
 **Endnotes**
 ============
 
-1\. As we’ll see, it’s not enough to demonstrate that nonhumans experience pain. There are a number of ways in which nonhuman pain might be less morally significant than human pain, even to the point that nonhuman pain fails to be morally significant at all. Nonhuman pain might just _feel_ different (along dimensions elaborated below) in a way which renders the pain less morally pressing.
+[^1]: As we’ll see, it’s not enough to demonstrate that nonhumans experience pain. There are a number of ways in which nonhuman pain might be less morally significant than human pain, even to the point that nonhuman pain fails to be morally significant at all. Nonhuman pain might just _feel_ different (along dimensions elaborated below) in a way which renders the pain less morally pressing.
 
-2\. To take just one group of arthropods, there are something like a _quintillion_ insects alive at any given moment, a number which boggles the mind. See C.B. Williams. 1964. _Patterns in the Balance of Nature and Related Problems in Quantitative Biology_. Academic Press, London: 324.
+[^2]: To take just one group of arthropods, there are something like a _quintillion_ insects alive at any given moment, a number which boggles the mind. See C.B. Williams. 1964. _Patterns in the Balance of Nature and Related Problems in Quantitative Biology_. Academic Press, London: 324.
 
-3\. Elasmobranch fish (i.e., cartilaginous fish, such as sharks) may be an exception. See, inter alia, Ewan Smith and Gary Lewin. 2009. “[Nociceptors: A Phylogenetic View](https://doi.org/10.1007/s00359-009-0482-z).” _Journal of Comparative Physiology A_ Vol. 195, Issue 12: 1096.
+[^3]: Elasmobranch fish (i.e., cartilaginous fish, such as sharks) may be an exception. See, inter alia, Ewan Smith and Gary Lewin. 2009. “[Nociceptors: A Phylogenetic View](https://doi.org/10.1007/s00359-009-0482-z).” _Journal of Comparative Physiology A_ Vol. 195, Issue 12: 1096.
 
-4\. For comparison, we also include some non-animals, such as plants and [protists](https://www.aaas.org/problem-protists).
+[^4]: For comparison, we also include some non-animals, such as plants and [protists](https://www.aaas.org/problem-protists).
 
-5\. This list is not exhaustive. Most notably, we’ll set aside difficult questions in metaethics. For example, if moral nihilism is true, then there are no moral facts, and thus no creatures experience morally significant pain, including humans.
+[^5]: This list is not exhaustive. Most notably, we’ll set aside difficult questions in metaethics. For example, if moral nihilism is true, then there are no moral facts, and thus no creatures experience morally significant pain, including humans.
 
-6\. Note that not every step is equally problematic.
+[^6]: Note that not every step is equally problematic.
 
-7\. I here set aside certain conceptually possible but non-actual fanciful devices, such as brain-to-brain hookups.
+[^7]: I here set aside certain conceptually possible but non-actual fanciful devices, such as brain-to-brain hookups.
 
-8\. This is metaphysical solipsism, and the description is not technically correct (it’s a necessary but not sufficient part of the full view). One could believe that one’s mind is the only one which exists without thereby being a solipsist, if, say, one were the sole survivor of some apocalyptic catastrophe.
+[^8]: This is metaphysical solipsism, and the description is not technically correct (it’s a necessary but not sufficient part of the full view). One could believe that one’s mind is the only one which exists without thereby being a solipsist, if, say, one were the sole survivor of some apocalyptic catastrophe.
 
-9\. The ammunition metaphor is adapted from Anil Gupta. 2006. _[Empiricism and Experience](https://doi.org/10.1093/acprof:oso/9780195189582.001.0001)_. Oxford University Press: 178.
+[^9]: The ammunition metaphor is adapted from Anil Gupta. 2006. _[Empiricism and Experience](https://doi.org/10.1093/acprof:oso/9780195189582.001.0001)_. Oxford University Press: 178.
 
-10\. See, inter alia, Andrew Melnyk. 1994. “[Inference to the Best Explanation and Other Minds](https://doi.org/10.1080/00048409412346281).” _Australasian Journal of Philosophy_, 72: 482–91 for a discussion of the issue.
+[^10]: See, inter alia, Andrew Melnyk. 1994. “[Inference to the Best Explanation and Other Minds](https://doi.org/10.1080/00048409412346281).” _Australasian Journal of Philosophy_, 72: 482–91 for a discussion of the issue.
 
-11\. Obviously, this is a simplification. The behavioral similarities run much deeper.
+[^11]: Obviously, this is a simplification. The behavioral similarities run much deeper.
 
-12\. Other explanations are more complicated because they raise more questions than they resolve. Why, for instance, would someone create sophisticated robots programmed to behave as I do?
+[^12]: Other explanations are more complicated because they raise more questions than they resolve. Why, for instance, would someone create sophisticated robots programmed to behave as I do?
 
-13\. It’s important to note that one can _prefer_ an explanation without fully _believing_ the explanation. If there are numerous plausible explanations, the best explanation might only warrant a credence of .2. For example, it’s consistent to have a fairly low credence in the claim that invertebrates feel pain and yet think that that explanation of their behavior is more likely than any other explanation of their behavior. See Michael Tye. 2017. _[Tense Bees and Shell-Shocked Crabs](https://global.oup.com/academic/product/tense-bees-and-shell-shocked-crabs-9780190278014?cc=us&lang=en&)_. Oxford University Press: 68.
+[^13]: It’s important to note that one can _prefer_ an explanation without fully _believing_ the explanation. If there are numerous plausible explanations, the best explanation might only warrant a credence of .2. For example, it’s consistent to have a fairly low credence in the claim that invertebrates feel pain and yet think that that explanation of their behavior is more likely than any other explanation of their behavior. See Michael Tye. 2017. _[Tense Bees and Shell-Shocked Crabs](https://global.oup.com/academic/product/tense-bees-and-shell-shocked-crabs-9780190278014?cc=us&lang=en&)_. Oxford University Press: 68.
 
-14\. To put the point another way, ancient hunter-gatherers were justified in believing their fellow humans felt pain, but they didn't know anything about physiological or neurological similarity. See Tye 2017: 53-56 for more on this point.
+[^14]: To put the point another way, ancient hunter-gatherers were justified in believing their fellow humans felt pain, but they didn't know anything about physiological or neurological similarity. See Tye 2017: 53-56 for more on this point.
 
-15\. This way of formulating the justificatory base leads to the well-known [problem of induction](https://plato.stanford.edu/entries/induction-problem/), which I here gently set aside.
+[^15]: This way of formulating the justificatory base leads to the well-known [problem of induction](https://plato.stanford.edu/entries/induction-problem/), which I here gently set aside.
 
-16\. See, e.g., Tye 2017, especially chapter 5.
+[^16]: See, e.g., Tye 2017, especially chapter 5.
 
-17\. Here, “pain behavior” doesn’t mean “behavior caused by pain.” Rather, it is convenient shorthand for “behavioral patterns, that, _in humans_, are caused by pain.”
+[^17]: Here, “pain behavior” doesn’t mean “behavior caused by pain.” Rather, it is convenient shorthand for “behavioral patterns, that, _in humans_, are caused by pain.”
 
-18\. This is not an ad hoc view. Functional imaging studies show that, in humans, there is a correlation between the phenomenal intensity of pain and activity in the anterior cingulate cortex and the somatosensory cortex. See Devinsky, O., Morrell, M. J., & Vogt, B. A. 1995. “[Contributions of Anterior Cingulate Cortex to Behaviour](https://doi.org/10.1093/brain/118.1.279).” _Brain: A Journal of Neurology_, 118(1), 279-306.
+[^18]: This is not an ad hoc view. Functional imaging studies show that, in humans, there is a correlation between the phenomenal intensity of pain and activity in the anterior cingulate cortex and the somatosensory cortex. See Devinsky, O., Morrell, M. J., & Vogt, B. A. 1995. “[Contributions of Anterior Cingulate Cortex to Behaviour](https://doi.org/10.1093/brain/118.1.279).” _Brain: A Journal of Neurology_, 118(1), 279-306.
 
-19\. The neocortex is only found in mammalian brains.
+[^19]: The neocortex is only found in mammalian brains.
 
-20\. See Merker, B. 2007. “[Consciousness without a Cerebral Cortex: A challenge for Neuroscience and Medicine](https://doi.org/10.1017/S0140525X07000891).” _Behavioral and Brain Sciences_, 30(1), 63-81. It should be noted that this claim only applies to children born without a neocortex. Adults with damaged neocortices remain completely vegetative.
+[^20]: See Merker, B. 2007. “[Consciousness without a Cerebral Cortex: A challenge for Neuroscience and Medicine](https://doi.org/10.1017/S0140525X07000891).” _Behavioral and Brain Sciences_, 30(1), 63-81. It should be noted that this claim only applies to children born without a neocortex. Adults with damaged neocortices remain completely vegetative.
 
-21\. Jarvis ED, Güntürkün O, Bruce L, Csillag A, Karten H, Kuenzel W, et al. 2005. "[Avian brains and a new understanding of vertebrate brain evolution](https://doi.org/10.1038/nrn1606)." _Nature Reviews. Neuroscience_. 6 (2): 151–9. See Tye 2017: 78-84 for a philosophical discussion.
+[^21]: Jarvis ED, Güntürkün O, Bruce L, Csillag A, Karten H, Kuenzel W, et al. 2005. "[Avian brains and a new understanding of vertebrate brain evolution](https://doi.org/10.1038/nrn1606)." _Nature Reviews. Neuroscience_. 6 (2): 151–9. See Tye 2017: 78-84 for a philosophical discussion.
 
-22\. This is actually fairly rare in philosophy. Epistemologists and ethicists often develop radically different theories on the basis of roughly the same common ground. The only other comparable example that comes to mind in philosophy is [mereology](https://plato.stanford.edu/entries/mereology/).
+[^22]: This is actually fairly rare in philosophy. Epistemologists and ethicists often develop radically different theories on the basis of roughly the same common ground. The only other comparable example that comes to mind in philosophy is [mereology](https://plato.stanford.edu/entries/mereology/).
 
-23\. See Schwitzgebel (forthcoming) “[Is There Something It Is Like to Be a Garden Snail](http://www.faculty.ucr.edu/~eschwitz/SchwitzAbs/Snails.htm)” for more on the common ground problem.
+[^23]: See Schwitzgebel (forthcoming) “[Is There Something It Is Like to Be a Garden Snail](http://www.faculty.ucr.edu/~eschwitz/SchwitzAbs/Snails.htm)” for more on the common ground problem.
 
-24\. An alternate explanation holds that the panpsychist and higher-order theorist begin with the same starting assumptions, but the theoretical virtues of their respective theories lead them to remarkably different conclusions. I am dubious of this explanation.
+[^24]: An alternate explanation holds that the panpsychist and higher-order theorist begin with the same starting assumptions, but the theoretical virtues of their respective theories lead them to remarkably different conclusions. I am dubious of this explanation.
 
-25\. Thomas Huxley is perhaps the most famous philosophical proponent of epiphenomenalism. See his (1874) “[On the Hypothesis that Animals Are Automata](https://www.jstor.org/stable/27793698).” _Victorian Review_ Vol. 35, No. 1, pp. 50-52.
+[^25]: Thomas Huxley is perhaps the most famous philosophical proponent of epiphenomenalism. See his (1874) “[On the Hypothesis that Animals Are Automata](https://www.jstor.org/stable/27793698).” _Victorian Review_ Vol. 35, No. 1, pp. 50-52.
 
-26\. This is too quick. In [weird cases](https://plato.stanford.edu/entries/decision-causal/#NewcProb) an action can be evidence for some state of affairs without bearing any causal relationship to that state of affairs. But the general in-text point stands.
+[^26]: This is too quick. In [weird cases](https://plato.stanford.edu/entries/decision-causal/#NewcProb) an action can be evidence for some state of affairs without bearing any causal relationship to that state of affairs. But the general in-text point stands.
 
-27\. See David Chalmers. 1996. _[The Conscious Mind](https://global.oup.com/ushe/product/the-conscious-mind-9780195117899?cc=us&lang=en&)_. Oxford University Press: pp. 94-99 for the canonical discussion. Note also that Chalmers hedges on whether his view entails true epiphenomenalism. He admits his view entails “_something like_ epiphenomenalism” (150, emphasis in the original).
+[^27]: See David Chalmers. 1996. _[The Conscious Mind](https://global.oup.com/ushe/product/the-conscious-mind-9780195117899?cc=us&lang=en&)_. Oxford University Press: pp. 94-99 for the canonical discussion. Note also that Chalmers hedges on whether his view entails true epiphenomenalism. He admits his view entails “_something like_ epiphenomenalism” (150, emphasis in the original).
 
-28\. _Ibid_. Although phenomenal zombies get a lot of press, they are, according to Chalmers at least, inessential to his broader arguments.
+[^28]: _Ibid_. Although phenomenal zombies get a lot of press, they are, according to Chalmers at least, inessential to his broader arguments.
 
-29\. The exception is so-called “interactionist dualism.” Descartes is probably the most famous interactionist dualist. He believed that nonphysical mental states affect the brain [via the pineal gland](https://plato.stanford.edu/entries/pineal-gland/).
+[^29]: The exception is so-called “interactionist dualism.” Descartes is probably the most famous interactionist dualist. He believed that nonphysical mental states affect the brain [via the pineal gland](https://plato.stanford.edu/entries/pineal-gland/).
 
-30\. See C.D. Broad. 1925. _[The Mind and Its Place in Nature](https://www.amazon.com/Mind-Place-Nature-Phil-osophy-Language/dp/0415488257)_. London: Kegan Paul: 125.
+[^30]: See C.D. Broad. 1925. _[The Mind and Its Place in Nature](https://www.amazon.com/Mind-Place-Nature-Phil-osophy-Language/dp/0415488257)_. London: Kegan Paul: 125.
 
-31\. Carl G. Hempel and Paul Oppenheim. 1948. "[Studies in the Logic of Explanation](https://doi.org/10.1086/286983)." _Philosophy of Science_ 15, no. 2 (Apr., 1948): 119.
+[^31]: Carl G. Hempel and Paul Oppenheim. 1948. "[Studies in the Logic of Explanation](https://doi.org/10.1086/286983)." _Philosophy of Science_ 15, no. 2 (Apr., 1948): 119.
 
-32\. Even if the features _were_ coextensive in the animal kingdom, it seems physically possible to deliberately design an entity which possessed some but not all of the features.
+[^32]: Even if the features _were_ coextensive in the animal kingdom, it seems physically possible to deliberately design an entity which possessed some but not all of the features.
 
-33\. It is important to emphasize that, as best we can tell, pain asymbolia patients experience something over and above mere [nociception](https://www.jci.org/articles/view/42843). Nociceptors are special receptors used by the body to detect potentially harmful stimuli. Many creatures, including, for example, the roundworm _C. elegans_, [possess nociceptors](https://doi.org/10.1152/physiol.00022.2017). Mere nociception does not have an attendant phenomenology, whereas pain asymbolia patients do report a conscious experience--just not an unpleasant one.
+[^33]: It is important to emphasize that, as best we can tell, pain asymbolia patients experience something over and above mere [nociception](https://www.jci.org/articles/view/42843). Nociceptors are special receptors used by the body to detect potentially harmful stimuli. Many creatures, including, for example, the roundworm _C. elegans_, [possess nociceptors](https://doi.org/10.1152/physiol.00022.2017). Mere nociception does not have an attendant phenomenology, whereas pain asymbolia patients do report a conscious experience--just not an unpleasant one.
 
-34\. There are many ways in which pain experiences are _instrumentally good_: they alert us to potential damage, they aid in our recovery from such damage, and they enable us to learn to avoid such damage in the future. We shouldn’t wish to be completely without pain, for humans born in such a condition (known as general congenital analgesia) almost always [die young](https://ghr.nlm.nih.gov/condition/congenital-insensitivity-to-pain).
+[^34]: There are many ways in which pain experiences are _instrumentally good_: they alert us to potential damage, they aid in our recovery from such damage, and they enable us to learn to avoid such damage in the future. We shouldn’t wish to be completely without pain, for humans born in such a condition (known as general congenital analgesia) almost always [die young](https://ghr.nlm.nih.gov/condition/congenital-insensitivity-to-pain).
 
-35\. See David Bain. 2017. “[Why Take Painkillers?](https://doi.org/10.1111/nous.12228)” _Nous_ for a recent representative entry in the debate.
+[^35]: See David Bain. 2017. “[Why Take Painkillers?](https://doi.org/10.1111/nous.12228)” _Nous_ for a recent representative entry in the debate.
 
-36\. Of course, we might be overestimating the cognitive sophistication required for second-order mental states, especially if we drop the assumption that higher-order cognition must be propositional.
+[^36]: Of course, we might be overestimating the cognitive sophistication required for second-order mental states, especially if we drop the assumption that higher-order cognition must be propositional.
 
-37\. See Adam Shriver. 2006. “[Minding Mammals](https://doi.org/10.1080/09515080600726385).” _Philosophical Psychology_ Vol. 19: 433-442 (especially sec. 2) for an accessible overview.
+[^37]: See Adam Shriver. 2006. “[Minding Mammals](https://doi.org/10.1080/09515080600726385).” _Philosophical Psychology_ Vol. 19: 433-442 (especially sec. 2) for an accessible overview.
 
-38\. “The modality of the pain” refers to the type of pain (e.g., a “cutting” pain, a “burning” pain, a “throbbing” pain).
+[^38]: “The modality of the pain” refers to the type of pain (e.g., a “cutting” pain, a “burning” pain, a “throbbing” pain).
 
-39\. See Adam Pautz. 2014. “[The Real Trouble with Phenomenal Externalism: New Empirical Evidence for a Brain-Based Theory of Consciousness.](https://doi.org/10.1007/978-94-007-6001-1_18)” in: Brown R. (eds) _Consciousness Inside and Out: Phenomenology, Neuroscience, and the Nature of Experience. Studies in Brain and Mind_, vol 6. Springer, Dordrecht, especially sec 2.3 for an overview.
+[^39]: See Adam Pautz. 2014. “[The Real Trouble with Phenomenal Externalism: New Empirical Evidence for a Brain-Based Theory of Consciousness.](https://doi.org/10.1007/978-94-007-6001-1_18)” in: Brown R. (eds) _Consciousness Inside and Out: Phenomenology, Neuroscience, and the Nature of Experience. Studies in Brain and Mind_, vol 6. Springer, Dordrecht, especially sec 2.3 for an overview.
 
-40\. There has been some initial research along these lines in [monkeys](https://doi.org/10.1152/jn.2000.84.2.719), but, perhaps for obvious reasons, the subject is not widely studied.
+[^40]: There has been some initial research along these lines in [monkeys](https://doi.org/10.1152/jn.2000.84.2.719), but, perhaps for obvious reasons, the subject is not widely studied.
 
-41\. It should be noted that, more so than other sections, this paragraph is entirely speculative.
+[^41]: It should be noted that, more so than other sections, this paragraph is entirely speculative.
 
-42\. For the sticklers out there, I am well aware that Einstein taught us there is no good sense to the term “objective time.” I of course assume here that the hummingbird and the human are in the same reference frame.
+[^42]: For the sticklers out there, I am well aware that Einstein taught us there is no good sense to the term “objective time.” I of course assume here that the hummingbird and the human are in the same reference frame.
 
-43\. Of course, certain second-order thoughts about pain might themselves be morally significant. A human who is aware _that_ she is in pain might also come to believe that the pain is just or unjust.
+[^43]: Of course, certain second-order thoughts about pain might themselves be morally significant. A human who is aware _that_ she is in pain might also come to believe that the pain is just or unjust.
 
-44\. For the record, most philosophers disagree.
+[^44]: For the record, most philosophers disagree.
 
-45\. It should be stressed that according to Integrated Information Theory, information integration is defined mathematically, so these intuitive examples may not stand up to greater scrutiny.
+[^45]: It should be stressed that according to Integrated Information Theory, information integration is defined mathematically, so these intuitive examples may not stand up to greater scrutiny.
 
-46\. Failures of so-called “inter-ocular transfer” have also been found in birds, fish, reptiles and amphibians. See G Vallortigara, L.J Rogers, A Bisazza. “[Possible evolutionary origins of cognitive brain lateralization](https://doi.org/10.1016/S0165-0173(99)00012-0).” _Brain Research Reviews_ Vol. 30: 164-175 for a scientific discussion. See Peter Godfrey-Smith. 2016. _[Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764)_. New York: Farrar, Straus and Giroux: 84-87 for a philosophical discussion.
+[^46]: Failures of so-called “inter-ocular transfer” have also been found in birds, fish, reptiles and amphibians. See G Vallortigara, L.J Rogers, A Bisazza. “[Possible evolutionary origins of cognitive brain lateralization](https://doi.org/10.1016/S0165-0173(99)00012-0).” _Brain Research Reviews_ Vol. 30: 164-175 for a scientific discussion. See Peter Godfrey-Smith. 2016. _[Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764)_. New York: Farrar, Straus and Giroux: 84-87 for a philosophical discussion.
 
-47\. This is ethical hedonism. Psychological hedonism is the (descriptive) view that only pleasures and pain motivate us.
+[^47]: This is ethical hedonism. Psychological hedonism is the (descriptive) view that only pleasures and pain motivate us.
 
-48\. It should be emphasized that it does not follow from the falsity of hedonism that pains and pleasures are morally insignificant. If hedonism is false, it is almost certainly because there are _other_ things which are valuable as well.
+[^48]: It should be emphasized that it does not follow from the falsity of hedonism that pains and pleasures are morally insignificant. If hedonism is false, it is almost certainly because there are _other_ things which are valuable as well.
 
-49\. Additional examples could be drawn from certain theistic traditions in which God (allegedly) gives humans dominion over (other) animals.
+[^49]: Additional examples could be drawn from certain theistic traditions in which God (allegedly) gives humans dominion over (other) animals.
 
-50\. On this subject Kant writes: “The fact that the human being can have the representation ‘I’ raises him infinitely above all the other beings on earth. By this he is a person.. that is, a being altogether different in rank and dignity from things, such as irrational animals, with which one may deal and dispose at one’s discretion.” “Anthropology from a Pragmatic Point of View (1798)” in 2007. _[Anthropology, History, and Education](https://doi.org/10.1017/CBO9780511791925)_. (Cambridge Edition of the Works of Immanuel Kant). Robert Louden and Gunter Zoller (eds. and trans.). Cambridge University Press: 239. Some claim that Kant drew the wrong inference from his own theory. See Christine Korsgaard. 2018. _[Fellow Creatures: Our Obligations to Other Animals](https://global.oup.com/academic/product/fellow-creatures-9780198753858?cc=us&lang=en&)_. Oxford University Press, especially Part Two: “Immanuel Kant and the Animals.”
+[^50]: On this subject Kant writes: “The fact that the human being can have the representation ‘I’ raises him infinitely above all the other beings on earth. By this he is a person.. that is, a being altogether different in rank and dignity from things, such as irrational animals, with which one may deal and dispose at one’s discretion.” “Anthropology from a Pragmatic Point of View (1798)” in 2007. _[Anthropology, History, and Education](https://doi.org/10.1017/CBO9780511791925)_. (Cambridge Edition of the Works of Immanuel Kant). Robert Louden and Gunter Zoller (eds. and trans.). Cambridge University Press: 239. Some claim that Kant drew the wrong inference from his own theory. See Christine Korsgaard. 2018. _[Fellow Creatures: Our Obligations to Other Animals](https://global.oup.com/academic/product/fellow-creatures-9780198753858?cc=us&lang=en&)_. Oxford University Press, especially Part Two: “Immanuel Kant and the Animals.”
 
-51\. See, inter alia, Will MacAskill. 2016. “[Normative Uncertainty as a Voting Problem](https://doi.org/10.1093/mind/fzv169).” _Mind_, Vol. 125: 967-1004 for more on normative uncertainty.
+[^51]: See, inter alia, Will MacAskill. 2016. “[Normative Uncertainty as a Voting Problem](https://doi.org/10.1093/mind/fzv169).” _Mind_, Vol. 125: 967-1004 for more on normative uncertainty.
 
-52\. In the words of Nelson Goodman: “\[R\]ules and particular inferences alike are justified by being brought into agreement with each other. A rule is amended if it yields an inference we are unwilling to accept; an inference is rejected if it violates a rule we are unwilling to amend.” _[Fact, Fiction, and Forecast](http://www.hup.harvard.edu/catalog.php?isbn=9780674290716)_. Harvard University Press (1955): 61-2.
+[^52]: In the words of Nelson Goodman: “\[R\]ules and particular inferences alike are justified by being brought into agreement with each other. A rule is amended if it yields an inference we are unwilling to accept; an inference is rejected if it violates a rule we are unwilling to amend.” _[Fact, Fiction, and Forecast](http://www.hup.harvard.edu/catalog.php?isbn=9780674290716)_. Harvard University Press (1955): 61-2.
 
-53\. _[The Problem of the Criterion](https://www.amazon.com/Problem-Criterion-Aquinas-Lecture-1973/dp/0874621380)_. Marquette University Press: 15.
+[^53]: _[The Problem of the Criterion](https://www.amazon.com/Problem-Criterion-Aquinas-Lecture-1973/dp/0874621380)_. Marquette University Press: 15.
 
-54\. Some members of the effective altruism community go further, positing that “atomic movements, electron orbits, photon collisions, etc. could [collectively deserve significant moral weight](https://reducing-suffering.org/is-there-suffering-in-fundamental-physics/).”
+[^54]: Some members of the effective altruism community go further, positing that “atomic movements, electron orbits, photon collisions, etc. could [collectively deserve significant moral weight](https://reducing-suffering.org/is-there-suffering-in-fundamental-physics/).”
