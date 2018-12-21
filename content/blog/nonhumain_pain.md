@@ -6,6 +6,10 @@ title = "Detecting Morally Significant Pain in Nonhumans: Some Philosophical Dif
 preview = true
 type = "post"
 
+author = "Jason Schukraft"
+tags = ["animals", "invertebrates"]
+categories = ["animals", "invertebrates"]
+
 +++
 
 _This essay is a project was written by Jason Schukraft, with contributions from Peter Hurford, Max Carpendale, and Marcus A. Davis._
