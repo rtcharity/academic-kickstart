@@ -1,8 +1,8 @@
 +++
 date = 2018-12-21
 draft = false
-description = "Detecting Morally Significant Pain in Nonhumans: Some Philosophical Difficulties"
-title = "Outlining and considering some philosophical issues when assessing nonhuman pain"
+description = "Outlining and considering some philosophical issues when assessing nonhuman pain"
+title = "Detecting Morally Significant Pain in Nonhumans: Some Philosophical Difficulties"
 preview = true
 type = "post"
 
