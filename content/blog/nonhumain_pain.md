@@ -8,11 +8,7 @@ type = "post"
 
 +++
 
-_This essay is a project of [Rethink Priorities](http://rethinkpriorities.org/). It was written by Jason Schukraft, with contributions from Peter Hurford, Max Carpendale, and Marcus A. Davis._
-
-**Detecting Morally Significant Pain in Nonhumans:**
-
-**Some Philosophical Difficulties**
+_This essay is a project was written by Jason Schukraft, with contributions from Peter Hurford, Max Carpendale, and Marcus A. Davis._
 
 Other humans merit moral concern. We think many nonhumans merit moral concern too. But how do we know? And which nonhumans? Chimpanzees? Chickens? Bumblebees? Protozoa? Roombas? Rocks? Where and how do we draw a line?
 
