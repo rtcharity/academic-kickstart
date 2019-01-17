@@ -4,4 +4,4 @@
 
 # Web Design
 
-Our site currently uses **Future Imperfect**, a Hugo theme. [Check out the latest demo](https://themes.gohugo.io/theme/future-imperfect/) or [view the source](https://github.com/jpescador/hugo-future-imperfect).
+Our site currently uses a Hugo theme, **Future Imperfect**. [Check out the latest demo](https://themes.gohugo.io/theme/future-imperfect/) or [view the source](https://github.com/jpescador/hugo-future-imperfect).
