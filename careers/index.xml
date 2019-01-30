@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Careers on Rethink Priorities</title>
+    <link>https://rtcharity.github.io/rethink-priorities/careers/</link>
+    <description>Recent content in Careers on Rethink Priorities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rtcharity.github.io/rethink-priorities/careers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Junior Researcher Position</title>
+      <link>https://rtcharity.github.io/rethink-priorities/careers/junior-researcher/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/careers/junior-researcher/</guid>
+      <description>Applications are now closed The effective altruism movement is allocating hundreds of millions of dollars and millions of person hours to improve the world. Better research can dramatically improve this allocation. Rethink Priorities is a research organization aimed at uncovering the actionable insights across different EA causes that are needed to do this. We have founding values &amp;ndash; we care about transparency, tractability, short feedback loops, actionability, and impact assessment.</description>
+    </item>
+    
+    <item>
+      <title>Senior Researcher Position</title>
+      <link>https://rtcharity.github.io/rethink-priorities/careers/senior-researcher/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/careers/senior-researcher/</guid>
+      <description>Applications are now closed The effective altruism movement is allocating hundreds of millions of dollars and millions of person hours to improve the world. Better research can dramatically improve this allocation. Rethink Priorities is a research organization aimed at uncovering the actionable insights across different EA causes that are needed to do this. We have founding values &amp;ndash; we care about transparency, tractability, short feedback loops, actionability, and impact assessment.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cause prioritization on Rethink Priorities</title>
+    <link>https://rtcharity.github.io/rethink-priorities/tags/cause-prioritization/</link>
+    <description>Recent content in Cause prioritization on Rethink Priorities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rtcharity.github.io/rethink-priorities/tags/cause-prioritization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcing PriorityWiki: A Cause Prioritization Wiki</title>
+      <link>https://rtcharity.github.io/rethink-priorities/blog/announcing_prioritywiki/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/blog/announcing_prioritywiki/</guid>
+      <description>This essay was jointly written by Peter Hurford and Marcus A. Davis.
+Locating and keeping up to date on all of the information in all every cause worthy of attention is time-consuming work, and a task we think is likely to be duplicated many times over by individuals and organizations. It’s very useful when deciding what interventions to spend your time or money on to know what work has already been done in the area.</description>
+    </item>
+    
+  </channel>
+</rss>

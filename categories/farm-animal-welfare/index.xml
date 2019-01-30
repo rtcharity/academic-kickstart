@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farm animal welfare on Rethink Priorities</title>
+    <link>https://rtcharity.github.io/rethink-priorities/categories/farm-animal-welfare/</link>
+    <description>Recent content in Farm animal welfare on Rethink Priorities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rtcharity.github.io/rethink-priorities/categories/farm-animal-welfare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animal Equality showed that advocating for diet change works. But is it cost-effective?</title>
+      <link>https://rtcharity.github.io/rethink-priorities/blog/animal_equality_study_analysis/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/blog/animal_equality_study_analysis/</guid>
+      <description>This essay was jointly written by Peter Hurford and Marcus A. Davis. All code for analyses contained is available on GitHub.
+Summary: Animal Equality and Faunalytics put together a field study testing individual video outreach on belief and diet change. They found statistically significant results on both. Together with the Reducetarian study, we now think there is sufficient evidence to establish that individual outreach may work to produce positive change for nonhuman animals.</description>
+    </item>
+    
+    <item>
+      <title>What is Animal Farming in Rural Zambia Like? A Site Visit</title>
+      <link>https://rtcharity.github.io/rethink-priorities/blog/animal_farming_rural_zambia/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/blog/animal_farming_rural_zambia/</guid>
+      <description>Factory farming in the United States and other developed countries is no doubt terrible. And while other developing countries are catching up in their sophistication, it is not clear yet what factory farming is like in the least developed parts of the developing world where most aid is focused. Instead, most rural livestock in the developing world is kept in a pastoral farming system that is relatively “free range”. However, little information is publicly available on the internet about what this is like or how much animal suffering is involved relative to the developed country horror of factory farming.</description>
+    </item>
+    
+  </channel>
+</rss>

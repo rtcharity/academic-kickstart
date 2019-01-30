@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Rethink Priorities</title>
+    <link>https://rtcharity.github.io/rethink-priorities/categories/</link>
+    <description>Recent content in Categories on Rethink Priorities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rtcharity.github.io/rethink-priorities/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animals</title>
+      <link>https://rtcharity.github.io/rethink-priorities/categories/animals/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/categories/animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cause prioritization</title>
+      <link>https://rtcharity.github.io/rethink-priorities/categories/cause-prioritization/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/categories/cause-prioritization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farm animal welfare</title>
+      <link>https://rtcharity.github.io/rethink-priorities/categories/farm-animal-welfare/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/categories/farm-animal-welfare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global health</title>
+      <link>https://rtcharity.github.io/rethink-priorities/categories/global-health/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/categories/global-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invertebrates</title>
+      <link>https://rtcharity.github.io/rethink-priorities/categories/invertebrates/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/categories/invertebrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaccines</title>
+      <link>https://rtcharity.github.io/rethink-priorities/categories/vaccines/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/categories/vaccines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

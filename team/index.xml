@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Team on Rethink Priorities</title>
+    <link>https://rtcharity.github.io/rethink-priorities/team/</link>
+    <description>Recent content in Our Team on Rethink Priorities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rtcharity.github.io/rethink-priorities/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://rtcharity.github.io/rethink-priorities/team/staff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rtcharity.github.io/rethink-priorities/team/staff/</guid>
+      <description>img { border-radius: 50%; }
+ Marcus A. Davis
+Lead Researcher
+Marcus is a co-founder of Charity Entrepreneurship and Charity Science Health, where he systematically analyzed global poverty interventions, led cost-effectiveness analyses, and oversaw all technical aspects of the project. Before joining the Charity Science team, he ran Effective Altruism Chicago and worked with LEAN coordinating outreach to local EA groups around the globe. Peter Hurford
+Lead Researcher
+Peter is a Data Scientist at Data Robot.</description>
+    </item>
+    
+  </channel>
+</rss>
