@@ -127,9 +127,9 @@ I don’t understand why some companies didn’t answer CIWF but answered Bloomb
 ### **Some untracked commitments have due dates that are far away**
 
 In general, I would suspect those companies that haven't reported their progress to be disproportionately likely not to have hit their goals. But some companies have commitments that are set far into the future, so it’s understandable that they haven’t yet begun reporting. For example, McDonald’s told Bloomberg it had nothing new to report other than the same 2025 deadline, set in 2015. [2018 European EggTrack report](https://www.compassioninfoodbusiness.com/media/7434311/ciwf_egg-track-report-2018.pdf) claims that commitments with imminent end-dates are more likely to have been reported against and shows this graph to illustrate that:
-
+<p align="center">
 ![](https://lh3.googleusercontent.com/lBthEMA2U3Yl35L5cyL3W-w7nMeYKIPswiixK2CoEQ3YfR9ScgdKgpkt0OwevHoVNw5hCi-D6XP6hu-efICcTj5T_-SbiqJZwxAN2nERjfJwQzFsmU-lHkcIXqTrA4fu3XBxuHQ)
-
+</p>
 
 ## **Lessons from other movements**
 
@@ -152,7 +152,9 @@ I am not asking animal charities to discuss or defend their tactics. I am not a 
 *   Doing outreach to producers to make sure that retailers and restaurants would have sources of higher welfare animal products, to avoid the situation that allegedly happened with some of the gestation stall promises. Currently, [Chicken Watch](https://chickenwatch.org/progress-tracker/) lists 34 producer commitments.
 *   Using undercover investigations to check whether companies have actually implemented the changes they announced. If they have, consider publicly praising them. Another option is to encourage producers to conduct an independent audit to certify that they comply, or to offer such audit for free (which could require a new organisation).
 *   Continue organising ballot initiatives that make it illegal to use some of the cruel practices. Perhaps this is the best way to ensure compliance. After more than a [decade](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5447922/) of campaigning, there are now laws that prohibit veal crates, barren battery cages and gestation stalls in the [EU](https://www.ciwf.org.uk/media/3818623/eu-law-on-the-welfare-of-farm-animals.pdf) and [some](https://www.aspca.org/animal-protection/public-policy/farm-animal-confinement-bans) U.S. states. According to [Josh Balk](https://animalcharityevaluators.org/advocacy-interventions/evaluating-interventions/intervention-conversations/conversation-josh-balk-director-food-policy-humane-society-united-states/), corporate and legal bans feed off each other in a positive way, and that it was the combination of passing laws and working with corporate entities that has driven the issue forward.
-
+<p align="center">
+![Rethink Priorities Logo](https://i.imgur.com/jUi5K6m.png)
+</p>
 ## **Endnotes**
 
 
@@ -164,4 +166,3 @@ I am not asking animal charities to discuss or defend their tactics. I am not a 
 
 [^4]: On the other hand, suing companies that broke their promises may make other corporations more hesitant to make new commitments. But maybe it would only affect corporations that wouldn’t have taken their commitments very seriously. Overall, I think that putting more pressure on companies that broke their commitments is worth this risk.
 
-![Rethink Priorities Logo](https://i.imgur.com/jUi5K6m.png)
