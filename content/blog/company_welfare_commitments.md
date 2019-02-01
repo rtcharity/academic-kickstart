@@ -7,8 +7,8 @@ preview = true
 type = "post"
 
 author = "Saulius Šimčikas"
-tags = []
-categories = []
+tags = ["animals", "farm animal welfare"]
+categories = ["animals", "farm animal welfare"]
 
 +++
 
