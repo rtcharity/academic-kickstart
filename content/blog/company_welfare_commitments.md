@@ -2,7 +2,7 @@
 date = 2019-02-01
 draft = false
 title = "Will companies meet their animal welfare commitments?"
-description = "An update, with ideas for incentivizing compliance"
+description = "An analysis, with ideas for incentivizing compliance"
 preview = true
 type = "post"
 
