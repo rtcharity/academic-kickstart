@@ -3,13 +3,14 @@ title = "Our Team"
 
 +++
 <style>
-	img {
+	.portrait {
 	  border-radius: 50%;
 	}
 
 </style>
+
 <p align="center">
-  <img src="/img/marcus.jpg" alt="Marcus A. Davis" style="width:250px"><br>
+  <img class="portrait" src="/img/marcus.jpg" alt="Marcus A. Davis" style="width:250px"><br>
   <b>Marcus A. Davis</b><br>
   <b>Lead Researcher</b><br>
 
@@ -19,7 +20,7 @@ title = "Our Team"
 </p>
 
 <p align="center">
-  <img src="/img/peter-2.jpg" alt="Peter Hurford" style="width:250px"><br>
+  <img class="portrait" src="/img/peter-2.jpg" alt="Peter Hurford" style="width:250px"><br>
   <b>Peter Hurford</b><br>
   <b>Lead Researcher</b><br>
 </p>
@@ -29,7 +30,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/david.png" alt="David Moss" style="width:250px"><br>
+  <img class="portrait" src="/img/david.png" alt="David Moss" style="width:250px"><br>
   <b>David Moss</b><br>
   <b>Senior Researcher</b><br>
 </p>
@@ -48,7 +49,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/derek.jpeg" alt="Derek Foster" style="width:250px"><br>
+  <img class="portrait" src="/img/derek.jpeg" alt="Derek Foster" style="width:250px"><br>
   <b>Derek Foster</b><br>
   <b>Research Analyst</b><br>
 </p>
@@ -58,7 +59,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/luisa.jpeg" alt="Luisa Rodriguez" style="width:250px"><br>
+  <img class="portrait" src="/img/luisa.jpeg" alt="Luisa Rodriguez" style="width:250px"><br>
   <b>Luisa Rodriguez</b><br>
   <b>Research Analyst</b><br>
 </p>
@@ -68,7 +69,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
+  <img class="portrait" src="/img/saulius.jpeg" alt="Saulius Šimčikas" style="width:250px"><br>
   <b>Saulius Šimčikas</b><br>
   <b>Research Analyst</b><br>
 </p>
@@ -79,7 +80,7 @@ title = "Our Team"
 
 
 <p align="center">
-  <img src="/img/daniela.jpeg" alt="Daniela R. Waldhorn" style="width:250px"><br>
+  <img class="portrait" src="/img/daniela.jpeg" alt="Daniela R. Waldhorn" style="width:250px"><br>
   <b>Daniela R. Waldhorn</b><br>
   <b>Junior Research Analyst</b><br>
 </p>
@@ -89,7 +90,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/jason.jpg" alt="Jason Schukraft" style="width:250px"><br>
+  <img class="portrait" src="/img/jason.jpg" alt="Jason Schukraft" style="width:250px"><br>
   <b>Jason Schukraft</b><br>
   <b>Junior Research Analyst</b><br>
 </p>
@@ -99,7 +100,7 @@ title = "Our Team"
   <br>
 
 <p align="center">
-  <img src="/img/neil.jpeg" alt="Neil Dullaghan" style="width:250px"><br>
+  <img class="portrait" src="/img/neil.jpeg" alt="Neil Dullaghan" style="width:250px"><br>
   <b>Neil Dullaghan</b><br>
   <b>Junior Research Analyst</b><br>
 </p>
